@@ -2,8 +2,8 @@
 """Minimal Instagram Graph API istemcisi (yalnızca standart kütüphane).
 
 Ortam değişkenleri:
-  IG_ACCESS_TOKEN  uzun ömürlü erişim token'ı (zorunlu)
-  IG_USER_ID       Instagram profesyonel hesap ID'si (çoğu komut için zorunlu)
+  IG_ACCESS_TOKEN  uzun ömürlü erişim token'ı (bulut oturumunda proxy ekliyorsa gerekmez)
+  IG_USER_ID       Instagram profesyonel hesap ID'si (graph.instagram.com'da /me ile otomatik bulunur)
   IG_GRAPH_HOST    graph.facebook.com (varsayılan, Facebook Login) veya graph.instagram.com (Instagram Login)
   IG_API_VERSION   varsayılan v23.0
 
@@ -29,22 +29,30 @@ class ApiError(Exception):
 
 
 def _token():
-    t = os.environ.get("IG_ACCESS_TOKEN")
-    if not t:
-        sys.exit("IG_ACCESS_TOKEN ayarlanmamış.")
-    return t
+    # Token yoksa istek token'sız gönderilir; bulut oturumlarında ağ proxy'si
+    # kayıtlı kimlik bilgisini Authorization başlığı olarak kendisi ekler.
+    return os.environ.get("IG_ACCESS_TOKEN")
+
+
+_UID = None
 
 
 def _user_id():
-    u = os.environ.get("IG_USER_ID")
-    if not u:
+    global _UID
+    if _UID:
+        return _UID
+    _UID = os.environ.get("IG_USER_ID")
+    if not _UID and HOST == "graph.instagram.com":
+        _UID = str(call("GET", "me", {"fields": "user_id"})["user_id"])
+    if not _UID:
         sys.exit("IG_USER_ID ayarlanmamış.")
-    return u
+    return _UID
 
 
 def call(method, path, params=None):
     params = dict(params or {})
-    params["access_token"] = _token()
+    if _token():
+        params["access_token"] = _token()
     data = None
     url = f"{BASE}/{path.lstrip('/')}"
     encoded = urllib.parse.urlencode(params)

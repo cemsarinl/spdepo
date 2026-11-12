@@ -1,0 +1,26 @@
+{
+  "tarih": "2026-11-16",
+  "saat": "10:00",
+  "tur": "haftalik-hukuk",
+  "format": "carousel",
+  "durum": "taslak",
+  "hukukcu_onayi": false,
+  "alt_text": [
+    "Lacivert zemin üzerinde 'Belirsiz alacak davası kaldırıldı. Şimdi ne olacak?' başlığı.",
+    "HMK 107. maddenin 7589 sayılı Kanunla yürürlükten kaldırıldığını anlatan metin.",
+    "Kısmi davada bir defaya mahsus talep artırımı imkânını anlatan metin.",
+    "31 Temmuz 2026 öncesi açılan davaların eski hükme tabi olduğunu anlatan metin.",
+    "Pratikte dikkat edilecek üç maddelik liste.",
+    "Kaynak bilgisi ve yasal uyarı."
+  ],
+  "kaynaklar": [
+    "7589 sayılı Kanun, Resmî Gazete 31.07.2026 S. 33326 (resmigazete.gov.tr)",
+    "https://www.tbmm.gov.tr/Haber/Detay?Id=f3ce7cd4-9990-46ea-8c8c-019f6cbdbbc3",
+    "https://kultavukatlik.com.tr/hmk-107-109-belirsiz-alacak-davasi/"
+  ],
+  "dogrulanacak": [
+    "HMK m.109'a eklenen fıkranın tam lafzı ve zamanaşımının 'dava tarihinde kesilmiş sayılması' ifadesi Resmî Gazete metninden teyit edilmeli.",
+    "Geçiş hükmünün (geçici madde) numarası ve kapsamı teyit edilmeli.",
+    "Bazı kaynaklar bazı maddelerin 31.10.2026'da yürürlüğe girdiğini yazıyor; HMK 107'ye ilişkin hükmün yürürlük tarihi Kanun'un yürürlük maddesinden kontrol edilmeli."
+  ]
+}
