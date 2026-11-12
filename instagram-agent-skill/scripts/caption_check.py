@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Check an Instagram caption against platform limits and best practices.
+"""Bir Instagram açıklamasını platform limitlerine ve iyi uygulamalara göre kontrol eder.
 
-Usage:
+Kullanım:
     python3 caption_check.py --file caption.txt
     echo "caption text" | python3 caption_check.py
     python3 caption_check.py --text "caption" --json
 
-Exit code 1 if any ERROR is found, else 0.
+Herhangi bir HATA varsa çıkış kodu 1, yoksa 0.
 """
 import argparse
 import json
@@ -39,36 +39,36 @@ def check(text: str, max_hashtags: int = RECOMMENDED_HASHTAGS) -> dict:
     lowered = [h.lower() for h in hashtags]
 
     if not text.strip():
-        add("ERROR", "Caption is empty.")
+        add("HATA", "Açıklama boş.")
     if chars > MAX_CHARS:
-        add("ERROR", f"{chars} characters; Instagram's limit is {MAX_CHARS} (over by {chars - MAX_CHARS}).")
+        add("HATA", f"{chars} karakter; Instagram sınırı {MAX_CHARS} ({chars - MAX_CHARS} fazla).")
     if len(hashtags) > MAX_HASHTAGS:
-        add("ERROR", f"{len(hashtags)} hashtags; hard limit is {MAX_HASHTAGS}.")
+        add("HATA", f"{len(hashtags)} hashtag; kesin sınır {MAX_HASHTAGS}.")
     elif len(hashtags) > max_hashtags:
-        add("WARN", f"{len(hashtags)} hashtags; aim for {max_hashtags} or fewer relevant tags.")
+        add("UYARI", f"{len(hashtags)} hashtag; en fazla {max_hashtags} alakalı etiket hedefle.")
     if len(mentions) > MAX_MENTIONS:
-        add("ERROR", f"{len(mentions)} @mentions; limit is {MAX_MENTIONS}.")
+        add("HATA", f"{len(mentions)} @etiket; sınır {MAX_MENTIONS}.")
 
     dupes = sorted({h for h in lowered if lowered.count(h) > 1})
     if dupes:
-        add("WARN", "Duplicate hashtags: " + ", ".join("#" + d for d in dupes))
+        add("UYARI", "Tekrarlanan hashtag'ler: " + ", ".join("#" + d for d in dupes))
     spam = sorted(set(lowered) & SPAM_TAGS)
     if spam:
-        add("WARN", "Spammy hashtags that can limit reach: " + ", ".join("#" + s for s in spam))
+        add("UYARI", "Erişimi düşürebilecek spam hashtag'ler: " + ", ".join("#" + s for s in spam))
     if "​" in text or "﻿" in text:
-        add("WARN", "Contains zero-width characters; they can break formatting.")
+        add("UYARI", "Sıfır genişlikli karakterler içeriyor; biçimi bozabilir.")
     if re.search(r"https?://", text):
-        add("WARN", "URLs in captions are not clickable; use 'link in bio' or a Story link sticker.")
+        add("UYARI", "Açıklamadaki linkler tıklanamaz; 'link profilde' veya hikaye link çıkartması kullan.")
 
     first_line = text.strip().splitlines()[0] if text.strip() else ""
     if first_line.startswith(("#", "@")):
-        add("WARN", "Caption opens with a hashtag/mention; lead with the hook instead.")
+        add("UYARI", "Açıklama hashtag/@etiket ile başlıyor; bunun yerine kancayla başla.")
     visible = text.strip()[:FOLD_CHARS]
     if len(first_line) > FOLD_CHARS:
-        add("WARN", f"First line is {len(first_line)} chars; only ~{FOLD_CHARS} show before '…more'.")
+        add("UYARI", f"İlk satır {len(first_line)} karakter; '…devamı' öncesinde yalnızca ~{FOLD_CHARS} karakter görünür.")
 
     return {
-        "ok": not any(i["level"] == "ERROR" for i in issues),
+        "ok": not any(i["level"] == "HATA" for i in issues),
         "characters": chars,
         "remaining": MAX_CHARS - chars,
         "hashtags": len(hashtags),
@@ -82,11 +82,11 @@ def check(text: str, max_hashtags: int = RECOMMENDED_HASHTAGS) -> dict:
 def main():
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     src = p.add_mutually_exclusive_group()
-    src.add_argument("--file", help="Path to a caption text file")
-    src.add_argument("--text", help="Caption text")
+    src.add_argument("--file", help="Açıklama metin dosyasının yolu")
+    src.add_argument("--text", help="Açıklama metni")
     p.add_argument("--max-hashtags", type=int, default=RECOMMENDED_HASHTAGS,
-                   help=f"Soft target for hashtag count (default {RECOMMENDED_HASHTAGS})")
-    p.add_argument("--json", action="store_true", help="Output JSON")
+                   help=f"Hashtag sayısı için önerilen üst sınır (varsayılan {RECOMMENDED_HASHTAGS})")
+    p.add_argument("--json", action="store_true", help="JSON çıktısı ver")
     a = p.parse_args()
 
     if a.file:
@@ -102,12 +102,12 @@ def main():
     if a.json:
         print(json.dumps(r, ensure_ascii=False, indent=2))
     else:
-        print(f"Characters: {r['characters']}/{MAX_CHARS} ({r['remaining']} left)")
-        print(f"Hashtags:   {r['hashtags']}  |  Mentions: {r['mentions']}  |  Lines: {r['lines']}")
-        print(f"Visible before '…more': {r['visible_before_more']!r}")
+        print(f"Karakter:  {r['characters']}/{MAX_CHARS} ({r['remaining']} kaldı)")
+        print(f"Hashtag:   {r['hashtags']}  |  @Etiket: {r['mentions']}  |  Satır: {r['lines']}")
+        print(f"'…devamı' öncesi görünen: {r['visible_before_more']!r}")
         for i in r["issues"]:
             print(f"{i['level']}: {i['message']}")
-        print("RESULT: " + ("OK" if r["ok"] else "FAIL"))
+        print("SONUÇ: " + ("GEÇTİ" if r["ok"] else "KALDI"))
     sys.exit(0 if r["ok"] else 1)
 
 

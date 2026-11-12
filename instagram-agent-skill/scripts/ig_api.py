@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""Minimal Instagram Graph API client (stdlib only).
+"""Minimal Instagram Graph API istemcisi (yalnızca standart kütüphane).
 
-Env:
-  IG_ACCESS_TOKEN  long-lived access token (required)
-  IG_USER_ID       Instagram professional account ID (required for most commands)
-  IG_GRAPH_HOST    graph.facebook.com (default, Facebook Login) or graph.instagram.com (Instagram Login)
-  IG_API_VERSION   default v23.0
+Ortam değişkenleri:
+  IG_ACCESS_TOKEN  uzun ömürlü erişim token'ı (zorunlu)
+  IG_USER_ID       Instagram profesyonel hesap ID'si (çoğu komut için zorunlu)
+  IG_GRAPH_HOST    graph.facebook.com (varsayılan, Facebook Login) veya graph.instagram.com (Instagram Login)
+  IG_API_VERSION   varsayılan v23.0
 
-Write commands (publish-*, reply, hide-comment) are dry runs unless --yes is passed.
-Run with -h on any subcommand for options.
+Yazma komutları (publish-*, reply, hide-comment) --yes verilmedikçe deneme çalıştırmasıdır.
+Seçenekler için herhangi bir alt komutu -h ile çalıştır.
 """
 import argparse
 import json
@@ -31,14 +31,14 @@ class ApiError(Exception):
 def _token():
     t = os.environ.get("IG_ACCESS_TOKEN")
     if not t:
-        sys.exit("IG_ACCESS_TOKEN is not set.")
+        sys.exit("IG_ACCESS_TOKEN ayarlanmamış.")
     return t
 
 
 def _user_id():
     u = os.environ.get("IG_USER_ID")
     if not u:
-        sys.exit("IG_USER_ID is not set.")
+        sys.exit("IG_USER_ID ayarlanmamış.")
     return u
 
 
@@ -87,9 +87,9 @@ def wait_ready(container_id, timeout=600, interval=5):
         if code in ("FINISHED", "PUBLISHED"):
             return
         if code in ("ERROR", "EXPIRED"):
-            raise ApiError(f"Container {container_id} status {code}: {st.get('status')}")
+            raise ApiError(f"Container {container_id} durumu {code}: {st.get('status')}")
         if time.time() > deadline:
-            raise ApiError(f"Timed out waiting for container {container_id} (last status {code}).")
+            raise ApiError(f"Container {container_id} beklenirken zaman aşımı (son durum {code}).")
         time.sleep(interval)
 
 
@@ -99,7 +99,7 @@ def create_and_publish(a, params, children=None):
     if children:
         plan["children"] = children
     if not a.yes:
-        print("DRY RUN (pass --yes to publish):")
+        print("DENEME ÇALIŞTIRMASI (yayınlamak için --yes ekle):")
         out(plan)
         return
     if children:
@@ -142,7 +142,7 @@ def _child(url):
 
 def cmd_publish_carousel(a):
     if not 2 <= len(a.media_url) <= 10:
-        sys.exit("A carousel needs 2-10 items.")
+        sys.exit("Carousel için 2-10 öğe gerekir.")
     create_and_publish(a, {"media_type": "CAROUSEL", "caption": read_caption(a)},
                        children=[_child(u) for u in a.media_url])
 
@@ -157,7 +157,7 @@ def cmd_publish_reel(a):
 
 def cmd_publish_story(a):
     if bool(a.image_url) == bool(a.video_url):
-        sys.exit("Give exactly one of --image-url or --video-url.")
+        sys.exit("--image-url veya --video-url seçeneklerinden yalnızca birini ver.")
     p = {"media_type": "STORIES"}
     p["image_url" if a.image_url else "video_url"] = a.image_url or a.video_url
     create_and_publish(a, p)
@@ -174,7 +174,7 @@ MEDIA_METRICS = ["reach", "views", "likes", "comments", "shares", "saved", "tota
 
 def cmd_insights(a):
     metrics = a.metric or MEDIA_METRICS
-    # Drop metrics the media type doesn't support, one at a time.
+    # Medya türünün desteklemediği metrikleri tek tek çıkar.
     while metrics:
         try:
             out(call("GET", f"{a.media_id}/insights", {"metric": ",".join(metrics)}))
@@ -183,9 +183,9 @@ def cmd_insights(a):
             bad = next((m for m in metrics if m in str(e)), None)
             if not bad:
                 raise
-            print(f"note: metric '{bad}' unsupported here, retrying without it", file=sys.stderr)
+            print(f"not: '{bad}' metriği burada desteklenmiyor, onsuz tekrar deneniyor", file=sys.stderr)
             metrics = [m for m in metrics if m != bad]
-    sys.exit("No supported metrics.")
+    sys.exit("Desteklenen metrik yok.")
 
 
 def cmd_account_insights(a):
@@ -202,7 +202,7 @@ def cmd_comments(a):
 
 def cmd_reply(a):
     if not a.yes:
-        print("DRY RUN (pass --yes to send):")
+        print("DENEME ÇALIŞTIRMASI (göndermek için --yes ekle):")
         out({"endpoint": f"POST /{a.comment_id}/replies", "message": a.message})
         return
     out(call("POST", f"{a.comment_id}/replies", {"message": a.message}))
@@ -211,7 +211,7 @@ def cmd_reply(a):
 def cmd_hide_comment(a):
     hide = "false" if a.unhide else "true"
     if not a.yes:
-        print("DRY RUN (pass --yes to apply):")
+        print("DENEME ÇALIŞTIRMASI (uygulamak için --yes ekle):")
         out({"endpoint": f"POST /{a.comment_id}", "hide": hide})
         return
     out(call("POST", a.comment_id, {"hide": hide}))
@@ -225,7 +225,7 @@ def main():
         s = sub.add_parser(name)
         s.set_defaults(fn=fn)
         if write:
-            s.add_argument("--yes", action="store_true", help="Actually perform the write")
+            s.add_argument("--yes", action="store_true", help="Yazma işlemini gerçekten yap")
         if caption:
             g = s.add_mutually_exclusive_group()
             g.add_argument("--caption")
@@ -238,11 +238,11 @@ def main():
     s.add_argument("--image-url", required=True)
     s.add_argument("--alt-text")
     s = add("publish-carousel", cmd_publish_carousel, True, True)
-    s.add_argument("--media-url", action="append", required=True, help="Repeat 2-10 times")
+    s.add_argument("--media-url", action="append", required=True, help="2-10 kez tekrarla")
     s = add("publish-reel", cmd_publish_reel, True, True)
     s.add_argument("--video-url", required=True)
     s.add_argument("--cover-url")
-    s.add_argument("--no-feed", action="store_true", help="Reels tab only, not main feed")
+    s.add_argument("--no-feed", action="store_true", help="Yalnızca Reels sekmesi, ana akışta değil")
     s = add("publish-story", cmd_publish_story, True)
     s.add_argument("--image-url")
     s.add_argument("--video-url")
@@ -268,7 +268,7 @@ def main():
     try:
         a.fn(a)
     except ApiError as e:
-        sys.exit(f"API error: {e}\nSee references/graph-api.md 'Common errors'.")
+        sys.exit(f"API hatası: {e}\nreferences/graph-api.md içindeki 'Yaygın hatalar' bölümüne bak.")
 
 
 if __name__ == "__main__":

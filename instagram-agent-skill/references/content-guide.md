@@ -1,67 +1,67 @@
-# Instagram content guide
+# Instagram içerik rehberi
 
-## Hooks (first line, ≤125 chars visible before "…more")
+## Kancalar (ilk satır; "…devamı"ndan önce ≤125 karakter görünür)
 
-| Pattern | Example |
+| Kalıp | Örnek |
 |---|---|
-| Specific result | "We cut our checkout time from 4 min to 40 sec. Here's how." |
-| Contrarian | "Posting every day is why your account stalled." |
-| Call-out | "If you run a 1-person studio, save this." |
-| Curiosity gap | "The one setting every new iPhone photographer misses:" |
-| List promise | "5 cafés in Lisbon locals don't want you to find." |
-| Story open | "Three years ago I almost closed the shop." |
+| Somut sonuç | "Ödeme süremizi 4 dakikadan 40 saniyeye indirdik. İşte nasıl." |
+| Ters köşe | "Her gün paylaşım yapmak hesabının büyümemesinin sebebi." |
+| Doğrudan seslenme | "Tek kişilik bir stüdyo işletiyorsan bunu kaydet." |
+| Merak boşluğu | "Yeni iPhone fotoğrafçılarının hepsinin atladığı o ayar:" |
+| Liste vaadi | "İstanbul'da yerlilerin bilmeni istemediği 5 kafe." |
+| Hikâye girişi | "Üç yıl önce dükkânı neredeyse kapatıyordum." |
 
-Avoid: "Hey guys!", starting with hashtags or @mentions, and vague teasers with no payoff.
+Kaçın: "Selam millet!", hashtag veya @etiketle başlamak, karşılığı olmayan belirsiz merak cümleleri.
 
-## Caption structure
+## Açıklama yapısı
 
-1. **Hook**: one line.
-2. **Value**: 2–6 short lines or bullets. Leave whitespace and keep 1 idea per line.
-3. **Proof/personality**: a detail, number or story beat.
-4. **CTA**: exactly one, matched to the goal:
-   - saves → "Save this for your next …"
-   - comments → ask a specific, easy question
-   - shares → "Send this to the friend who …"
-   - clicks → "Link in bio" (feed captions can't hold clickable links)
-5. **Hashtags**: at the end or in the first comment.
+1. **Kanca**: tek satır.
+2. **Değer**: 2–6 kısa satır veya madde. Boşluk bırak, her satırda tek fikir olsun.
+3. **Kanıt/kişilik**: bir detay, rakam veya hikâye anı.
+4. **CTA**: tam olarak bir tane ve amaca uygun:
+   - kaydetme → "Bir sonraki … için bunu kaydet"
+   - yorum → belirli ve cevaplaması kolay bir soru sor
+   - paylaşım → "Bunu … olan arkadaşına gönder"
+   - tıklama → "Link profilde" (akış açıklamalarında tıklanabilir link olmaz)
+5. **Hashtag'ler**: sonda veya ilk yorumda.
 
-Length: short (≤150 chars) for strong visuals and Reels; long (800–2,000) for educational posts and storytelling. Hard cap: 2,200 characters.
+Uzunluk: güçlü görseller ve Reels için kısa (≤150 karakter); eğitici ve hikâye anlatan gönderiler için uzun (800–2.000). Kesin sınır: 2.200 karakter.
 
-## Format playbooks
+## Formatlara göre yöntemler
 
-**Carousel** (best for saves): slide 1 is the hook with big text; slides 2–(n-1) give one point each; the last slide is the recap plus CTA. Keep 6–10 slides and the same aspect ratio throughout (4:5 recommended).
+**Carousel** (kaydetme için en iyisi): 1. slayt büyük yazıyla kancadır; 2.–(n-1). slaytların her biri tek bir noktayı anlatır; son slayt özet ve CTA'dır. 6–10 slayt kullan, en-boy oranı baştan sona aynı olsun (4:5 önerilir).
 
-**Reel** (best for reach): hook in the first 1–2 s, both spoken and as on-screen text; 7–30 s for most content; captions burned in; 9:16; and a loopable ending. Deliver it as a table:
+**Reels** (erişim için en iyisi): kanca ilk 1–2 saniyede hem sesli hem ekran yazısı olarak gelsin; çoğu içerik için 7–30 saniye; altyazılar videoya gömülü; 9:16; döngüye giren bir bitiş. Tablo olarak teslim et:
 
-| Time | Visual | On-screen text | Voiceover |
+| Süre | Görüntü | Ekran yazısı | Seslendirme |
 |---|---|---|---|
 
-**Single image**: one strong visual. The caption carries the context.
+**Tek görsel**: tek güçlü görüntü. Bağlamı açıklama taşır.
 
-**Story**: casual and time-sensitive. Use stickers (poll, question, link) for interaction, plan 3–5 frames, and add text-safe margins (top/bottom 250 px).
+**Hikaye**: samimi ve zamana duyarlı. Etkileşim için çıkartmalar kullan (anket, soru, link), 3–5 kare planla ve yazı için güvenli kenar boşlukları bırak (üst/alt 250 px).
 
-## Hashtags
+## Hashtag'ler
 
-- Use a few **relevant** tags rather than a wall. Instagram now recommends ~3–5 and has been tightening limits, so treat 30 as a legacy hard cap, not a target.
-- Mix them: 1–2 niche/community tags, 1–2 topic tags and 1 branded tag.
-- No banned or spammy tags (#followforfollow, #like4like). Don't repeat the identical set on every post.
-- Keywords in the caption and alt text now matter for search as much as hashtags do.
+- Duvar gibi etiket yerine birkaç **alakalı** etiket kullan. Instagram artık ~3–5 öneriyor ve limitleri sıkılaştırıyor, bu yüzden 30'u hedef değil eski bir üst sınır olarak gör.
+- Karıştır: 1–2 niş/topluluk etiketi, 1–2 konu etiketi ve 1 marka etiketi.
+- Yasaklı veya spam etiketler kullanma (#followforfollow, #like4like). Her gönderide aynı seti tekrarlama.
+- Açıklama ve alt text'teki anahtar kelimeler artık arama için hashtag'ler kadar önemli.
 
-## Alt text
+## Alternatif metin (alt text)
 
-Describe what's in the image plainly in 1–2 sentences, including any text shown in it. Don't stuff it with keywords.
+Görselde ne olduğunu 1–2 cümleyle sade biçimde anlat, görseldeki yazıları da dahil et. Anahtar kelime doldurma.
 
-## Content calendar template
+## İçerik takvimi şablonu
 
-| Date | Pillar | Format | Hook | Goal | CTA | Status |
+| Tarih | Ana tema | Format | Kanca | Amaç | CTA | Durum |
 |---|---|---|---|---|---|---|
 
-Suggested pillars (pick 3–5): educate, behind-the-scenes, social proof, community/UGC, offer. A sustainable cadence beats a daily one. 3–5 feed posts or Reels a week plus daily Stories is a common baseline.
+Önerilen ana temalar (3–5 tane seç): eğitim, kamera arkası, sosyal kanıt, topluluk/kullanıcı içeriği, kampanya. Sürdürülebilir bir tempo günlük paylaşımdan iyidir. Haftada 3–5 akış gönderisi veya Reels artı günlük hikayeler yaygın bir başlangıç noktasıdır.
 
-## Tone checklist before delivering
+## Teslim öncesi ton kontrol listesi
 
-- Does it sound like the brand's past captions?
-- Is the hook concrete?
-- Is there exactly one CTA?
-- Are there no claims the user can't back up (health, finance, "best in the world")?
-- Are paid partnerships disclosed (the "Paid partnership" label, or #ad)?
+- Markanın eski açıklamalarına benziyor mu?
+- Kanca somut mu?
+- Tam olarak bir CTA var mı?
+- Kullanıcının kanıtlayamayacağı iddialar yok mu (sağlık, finans, "dünyanın en iyisi")?
+- Ücretli iş birlikleri belirtilmiş mi ("Ücretli ortaklık" etiketi veya #reklam)?

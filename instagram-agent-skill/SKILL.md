@@ -1,49 +1,49 @@
 ---
 name: instagram
-description: Plan, write, check and publish Instagram content for a Business or Creator account. Use when the user wants Instagram captions, hashtags, carousel or Reel scripts, a content calendar, a caption checked against Instagram's limits, a post/carousel/Reel/Story published through the Instagram Graph API, post or account insights pulled, or comments read and replied to. Not for scraping other people's accounts, buying followers or engagement, or automating likes/follows/DMs.
+description: Bir Instagram İşletme veya İçerik Üreticisi hesabı için içerik planlama, yazma, kontrol etme ve yayınlama. Kullanıcı Instagram açıklaması (caption), hashtag, carousel veya Reels senaryosu, içerik takvimi istediğinde; bir açıklamanın Instagram limitlerine uygunluğunun kontrolünü istediğinde; Instagram Graph API üzerinden gönderi/carousel/Reels/hikaye yayınlamak, gönderi ya da hesap istatistiklerini çekmek veya yorumları okuyup yanıtlamak istediğinde kullan. Başkalarının hesaplarını kazımak (scraping), takipçi/etkileşim satın almak veya beğeni/takip/DM otomasyonu için kullanılmaz.
 ---
 
 # Instagram
 
-This skill helps with two kinds of work:
+Bu skill iki tür işte yardımcı olur:
 
-1. **Content**: writing captions, hashtags, carousels, Reel scripts, Stories and content calendars.
-2. **Operations**: publishing, insights and comments through the official **Instagram Graph API** (`scripts/ig_api.py`).
+1. **İçerik**: açıklama, hashtag, carousel, Reels senaryosu, hikaye ve içerik takvimi yazmak.
+2. **Operasyon**: resmi **Instagram Graph API** üzerinden yayınlama, istatistikler ve yorumlar (`scripts/ig_api.py`).
 
-Start with whatever the user asked for. Bring in the API side only when they want something published, measured or moderated.
+Kullanıcı ne istediyse oradan başla. API tarafını yalnızca bir şey yayınlanmak, ölçülmek veya yönetilmek istendiğinde devreye sok.
 
-## 1. Gather the brief (only what is missing)
+## 1. Brief'i topla (yalnızca eksik olanları)
 
-- **Account**: niche, audience, brand voice. Ask for 2–3 past captions they liked.
-- **Goal of the post**: reach, saves, comments, link clicks, sales or community.
-- **Format**: single image, carousel, Reel or Story.
-- **Must-haves**: CTA, product, offer, @mentions, location, language(s).
+- **Hesap**: niş, hedef kitle, marka sesi. Kullanıcıdan beğendiği 2–3 eski açıklamayı iste.
+- **Gönderinin amacı**: erişim, kaydetme, yorum, link tıklaması, satış veya topluluk.
+- **Format**: tek görsel, carousel, Reels veya hikaye.
+- **Olmazsa olmazlar**: CTA (harekete geçirici çağrı), ürün, kampanya, @etiketler, konum, dil(ler).
 
-If the user gives a one-liner ("caption for my latitude coffee launch"), don't interrogate them. Make sensible assumptions, state them in one line, and deliver.
+Kullanıcı tek satır verirse ("yeni kahve lansmanımız için açıklama"), soru yağmuruna tutma. Makul varsayımlar yap, bunları tek satırda belirt ve teslim et.
 
-## 2. Write the content
+## 2. İçeriği yaz
 
-Follow `references/content-guide.md`. It covers hook formulas, caption structure, format playbooks, hashtag strategy and the calendar template. The core rules:
+`references/content-guide.md` dosyasını izle. Kanca (hook) kalıpları, açıklama yapısı, formatlara göre yöntemler, hashtag stratejisi ve takvim şablonu oradadır. Temel kurallar:
 
-- The **first ~125 characters** show before "…more", so the hook goes there.
-- One post, one idea, one CTA.
-- Write for the format: on-screen text and a spoken script for Reels, a slide-by-slide outline for carousels.
-- Offer **2–3 variants** of the hook or caption when tone is uncertain.
-- Add **alt text** for every image.
+- "…devamı"ndan önce **ilk ~125 karakter** görünür, kanca oraya gider.
+- Bir gönderi, bir fikir, bir CTA.
+- Formata göre yaz: Reels için ekran yazısı ve seslendirme metni, carousel için slayt slayt taslak.
+- Ton belirsizse kanca veya açıklamanın **2–3 alternatifini** sun.
+- Her görsel için **alternatif metin (alt text)** ekle.
 
-Before handing over a caption, run the checker:
+Açıklamayı teslim etmeden önce kontrol aracını çalıştır:
 
 ```bash
-python3 scripts/caption_check.py --file caption.txt        # or: echo "..." | python3 scripts/caption_check.py
+python3 scripts/caption_check.py --file caption.txt        # veya: echo "..." | python3 scripts/caption_check.py
 ```
 
-It reports length (hard cap 2,200 chars), hashtag and @mention counts, duplicate tags, banned characters and how much of the hook is visible above the fold. Fix every **ERROR**. Mention any **WARN** to the user.
+Araç uzunluğu (en fazla 2.200 karakter), hashtag ve @etiket sayısını, tekrarlanan etiketleri, sorunlu karakterleri ve kancanın "…devamı" öncesinde ne kadarının göründüğünü raporlar. Her **HATA**'yı düzelt. Her **UYARI**'yı kullanıcıya bildir.
 
-## 3. Publish / measure / moderate (Graph API)
+## 3. Yayınla / ölç / yönet (Graph API)
 
-Read `references/graph-api.md` first. It covers setup, permissions, media requirements, rate limits and errors.
+Önce `references/graph-api.md` dosyasını oku. Kurulum, izinler, medya gereksinimleri, limitler ve hatalar oradadır.
 
-Requirements: an Instagram **Business or Creator** account and environment variables `IG_ACCESS_TOKEN` and `IG_USER_ID`. Optionally set `IG_GRAPH_HOST`: `graph.facebook.com` (the default, for Facebook Login) or `graph.instagram.com` (for Instagram Login). Optionally set `IG_API_VERSION`. **Never print, log or commit the token.**
+Gereksinimler: bir Instagram **İşletme veya İçerik Üreticisi** hesabı ve `IG_ACCESS_TOKEN` ile `IG_USER_ID` ortam değişkenleri. İsteğe bağlı olarak `IG_GRAPH_HOST` ayarlanabilir: `graph.facebook.com` (varsayılan, Facebook Login için) veya `graph.instagram.com` (Instagram Login için). İsteğe bağlı olarak `IG_API_VERSION` de ayarlanabilir. **Token'ı asla ekrana yazdırma, loglama veya commit'leme.**
 
 ```bash
 python3 scripts/ig_api.py whoami
@@ -60,19 +60,19 @@ python3 scripts/ig_api.py reply --comment-id ID --message "..." --yes
 python3 scripts/ig_api.py hide-comment --comment-id ID [--unhide] --yes
 ```
 
-Without `--yes`, every write command does a **dry run**: it prints what it would send and stops. Follow these rules:
+`--yes` olmadan her yazma komutu **deneme çalıştırması** yapar: ne göndereceğini yazdırır ve durur. Şu kurallara uy:
 
-- **Always** show the user the final caption and media list, and get explicit approval, before running a write command with `--yes`. A published post is public at once.
-- Media must be at a **public HTTPS URL** that Meta's servers can fetch. Local files must be uploaded somewhere first.
-- Check `quota` before batch publishing.
-- On an error, read the `code`/`error_subcode` and see the error table in `references/graph-api.md`. Don't retry blindly.
+- Bir yazma komutunu `--yes` ile çalıştırmadan önce **her zaman** son açıklamayı ve medya listesini kullanıcıya göster ve açık onay al. Yayınlanan gönderi anında herkese açık olur.
+- Medya, Meta sunucularının indirebileceği **herkese açık bir HTTPS URL**'de olmalıdır. Yerel dosyalar önce bir yere yüklenmelidir.
+- Toplu yayından önce `quota` ile kotayı kontrol et.
+- Hata alırsan `code`/`error_subcode` değerlerine bak ve `references/graph-api.md` içindeki hata tablosuna başvur. Körlemesine tekrar deneme.
 
-## 4. Report back
+## 4. Sonucu bildir
 
-- For content: give the final caption in a copyable block, then hashtags, alt text and any checker warnings.
-- For publishing: give the permalink and media ID.
-- For insights: show a small table, then 2–3 concrete takeaways tied to the post's goal.
+- İçerik için: son açıklamayı kopyalanabilir bir blokta ver, ardından hashtag'leri, alt text'i ve varsa kontrol aracı uyarılarını ekle.
+- Yayın için: kalıcı bağlantıyı (permalink) ve medya ID'sini ver.
+- İstatistikler için: küçük bir tablo göster, ardından gönderinin amacına bağlı 2–3 somut çıkarım yap.
 
-## Out of scope
+## Kapsam dışı
 
-Don't do the following, even if asked: scrape other people's profiles or follower lists, automate likes/follows/DMs, buy engagement, get around rate limits or log in with a user's password. These violate Instagram's Terms and get accounts banned. Offer the compliant alternative instead, such as the Graph API, Business Discovery for public business-account data, or organic tactics.
+İstense bile şunları yapma: başkalarının profillerini veya takipçi listelerini kazımak, beğeni/takip/DM otomasyonu, etkileşim satın almak, limitleri aşmaya çalışmak veya kullanıcının şifresiyle giriş yapmak. Bunlar Instagram Kullanım Koşulları'nı ihlal eder ve hesapların kapatılmasına yol açar. Bunun yerine kurallara uygun alternatifi öner: Graph API, herkese açık işletme hesabı verileri için Business Discovery veya organik taktikler.

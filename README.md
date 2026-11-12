@@ -1,43 +1,43 @@
 # Instagram Agent Skill
 
-A [Claude Agent Skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) for planning, writing, checking and publishing Instagram content. It uses the official Instagram Graph API.
+Instagram içeriği planlamak, yazmak, kontrol etmek ve yayınlamak için bir [Claude Agent Skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview). Resmi Instagram Graph API'yi kullanır.
 
 ```
 instagram-agent-skill/
-├── SKILL.md                     # entry point: when and how Claude uses the skill
+├── SKILL.md                     # giriş noktası: Claude skill'i ne zaman ve nasıl kullanır
 ├── references/
-│   ├── content-guide.md         # hooks, caption structure, format playbooks, hashtags, calendar
-│   └── graph-api.md             # setup, publishing flow, limits, insights, error table
+│   ├── content-guide.md         # kancalar, açıklama yapısı, formatlar, hashtag'ler, takvim
+│   └── graph-api.md             # kurulum, yayın akışı, limitler, istatistikler, hata tablosu
 └── scripts/
-    ├── caption_check.py         # caption linter (length, hashtags, mentions, fold, spam tags)
-    └── ig_api.py                # Graph API CLI: publish, insights, comments (stdlib only)
+    ├── caption_check.py         # açıklama kontrolü (uzunluk, hashtag, etiket, "…devamı", spam)
+    └── ig_api.py                # Graph API komut satırı aracı: yayın, istatistik, yorum (yalnızca standart kütüphane)
 ```
 
-## Install
+## Kurulum
 
-- **Claude Code**: copy `instagram-agent-skill/` to `~/.claude/skills/instagram/` (personal) or `.claude/skills/instagram/` (project).
-- **Claude.ai / Desktop**: zip the `instagram-agent-skill` folder and upload it under Settings → Capabilities → Skills.
-- **Claude API / Agent SDK**: upload it as a custom skill.
+- **Claude Code**: `instagram-agent-skill/` klasörünü `~/.claude/skills/instagram/` (kişisel) veya `.claude/skills/instagram/` (proje) altına kopyala.
+- **Claude.ai / Desktop**: `instagram-agent-skill` klasörünü zip'le ve Ayarlar → Yetenekler → Skills altından yükle.
+- **Claude API / Agent SDK**: özel skill olarak yükle.
 
-## Configure (only needed for publishing, insights and comments)
+## Yapılandırma (yalnızca yayın, istatistik ve yorumlar için gerekli)
 
 ```bash
-export IG_ACCESS_TOKEN=...        # long-lived token; never commit it
-export IG_USER_ID=...             # Instagram professional account ID
-export IG_GRAPH_HOST=graph.instagram.com   # if using "Instagram Login"; default graph.facebook.com
+export IG_ACCESS_TOKEN=...        # uzun ömürlü token; asla commit'leme
+export IG_USER_ID=...             # Instagram profesyonel hesap ID'si
+export IG_GRAPH_HOST=graph.instagram.com   # "Instagram Login" kullanıyorsan; varsayılan graph.facebook.com
 ```
 
-See `instagram-agent-skill/references/graph-api.md` for app setup and permissions.
+Uygulama kurulumu ve izinler için `instagram-agent-skill/references/graph-api.md` dosyasına bak.
 
-## Example prompts
+## Örnek istekler
 
-- "Write 3 caption options for our new oat-milk latte launch, playful tone, goal = saves."
-- "Turn this blog post into a 7-slide carousel outline with alt text."
-- "Script a 20-second Reel showing our packing process."
-- "Check this caption against Instagram's limits."
-- "Publish this carousel with these image URLs." (Claude shows a dry run first, then publishes only after you approve.)
-- "How did my last 5 posts perform? What should I post more of?"
+- "Yeni yulaf sütlü latte lansmanımız için 3 açıklama seçeneği yaz, eğlenceli ton, amaç = kaydetme."
+- "Bu blog yazısını alt text'leriyle birlikte 7 slaytlık bir carousel taslağına dönüştür."
+- "Paketleme sürecimizi gösteren 20 saniyelik bir Reels senaryosu yaz."
+- "Bu açıklamayı Instagram limitlerine göre kontrol et."
+- "Bu görsel URL'leriyle carousel'i yayınla." (Claude önce deneme çalıştırmasını gösterir, yalnızca sen onayladıktan sonra yayınlar.)
+- "Son 5 gönderim nasıl performans gösterdi? Neyi daha çok paylaşmalıyım?"
 
-## Safety
+## Güvenlik
 
-Every write command is a dry run unless `--yes` is passed. Claude is instructed to get your approval before publishing or replying. The skill refuses to scrape, automate follows/likes/DMs, or use password logins.
+`--yes` verilmedikçe her yazma komutu deneme çalıştırmasıdır. Claude'a yayınlamadan veya yanıtlamadan önce senden onay alması söylenmiştir. Skill; veri kazımayı, takip/beğeni/DM otomasyonunu ve şifreyle girişi reddeder.
