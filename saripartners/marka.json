@@ -1,16 +1,29 @@
 {
-  "_not": "Geçici marka ayarları. Logo ve kurumsal renkler gelince güncellenecek.",
-  "ad": "SARI PARTNERS",
+  "_not": "Renkler ve yazı tipleri saripartners.com sitesinden alınmıştır (Kasım 2026).",
+  "ad": "Sarı Avukatlık Ortaklığı",
   "instagram": "@saripartners",
+  "logo": "marka/logo-orijinal.png",
   "renkler": {
-    "zemin": "#14213D",
-    "zemin_acik": "#F6F3EC",
-    "vurgu": "#E3A82B",
-    "metin": "#FFFFFF",
-    "metin_koyu": "#14213D",
-    "soluk": "#9AA3B5"
+    "altin": "#B8892B",
+    "altin_acik": "#E1B043",
+    "altin_koyu": "#9C7424",
+    "antrasit": "#1E2427",
+    "gri": "#5F6468",
+    "bej": "#C9BFAE",
+    "krem": "#F4EFE4",
+    "krem_acik": "#F7F3EC",
+    "altin_zemin": "#FBF3DF",
+    "beyaz": "#FFFFFF"
   },
-  "font_baslik": "Caladea",
-  "font_govde": "Inter",
-  "yasal_not": "Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz."
+  "font_baslik": "Playfair Display",
+  "font_govde": "Manrope",
+  "yasal_not": "Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.",
+  "seriler": {
+    "gundem": "Hukuk Gündemi",
+    "rehber": "Alan Rehberi",
+    "sozluk": "Hukuk Sözlüğü",
+    "soru": "Doğru mu, Yanlış mı?",
+    "ozel": "Özel Günler",
+    "global": "Yurt Dışından"
+  }
 }

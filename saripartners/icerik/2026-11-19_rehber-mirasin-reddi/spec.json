@@ -1,0 +1,11 @@
+{
+  "format": "post", "seri": "rehber", "etiket": "Miras Hukuku · Alan Rehberi",
+  "slaytlar": [
+    {"tip": "kapak", "baslik": "Mirası reddetmek için\n*üç ayınız var.*", "alt": "Mirasın reddi hakkında bilinmesi gereken temel noktalar.", "ipucu": "Kaydırın"},
+    {"tip": "metin", "ust": "Kimler reddedebilir?", "baslik": "Yasal ve atanmış *mirasçılar*", "govde": "Yasal ve atanmış mirasçılar mirası reddedebilir. Ret, mirasçının borçlar dahil **tüm mirastan** vazgeçmesi sonucunu doğurur."},
+    {"tip": "kart", "ust": "Süre", "baslik": "Üç aylık *hak düşürücü süre*", "alinti": "Yasal mirasçılar için süre, mirasbırakanın ölümünü öğrendikleri tarihten başlar.", "kaynak": "TMK m.606"},
+    {"tip": "liste", "ust": "Nasıl yapılır?", "baslik": "Ret *beyanı*", "kartlar": [{"baslik": "Nereye?", "govde": "Mirasbırakanın son yerleşim yerindeki **sulh hukuk mahkemesine**."}, {"baslik": "Nasıl?", "govde": "Sözlü veya yazılı beyanla; beyan **kayıtsız ve şartsız** olmalıdır."}]},
+    {"tip": "metin", "ust": "Bilmeniz gereken", "baslik": "Borca batık terekede *hükmen ret*", "govde": "Mirasbırakanın ölüm tarihinde **ödemeden aczi açıkça belli** veya resmen tespit edilmişse miras reddedilmiş sayılır."},
+    {"tip": "kapanis", "baslik": "Kaynak", "govde": "4721 sayılı Türk Medeni Kanunu m.605, 606, 609"}
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "format": "post",
+  "format": "post", "seri": "ozel",
   "slaytlar": [
-    {"tip": "kapak", "acik": true, "ust": "24 Kasım", "baslik": "Öğretmenler Günü", "alt": "Bize hakkı, adaleti ve sorumluluğu ilk kez anlatan tüm öğretmenlerimizin gününü saygıyla kutlarız."}
+    {"tip": "ozel", "gun": "24", "ay": "Kasım", "baslik": "Öğretmenler *Günü*", "alt": "Bize hakkı, adaleti ve sorumluluğu ilk kez anlatan tüm öğretmenlerimizin gününü saygıyla kutlarız."}
   ]
 }

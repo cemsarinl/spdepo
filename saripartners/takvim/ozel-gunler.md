@@ -41,6 +41,4 @@ Bayram kutlamaları **G** formatında, arife günü veya bayramın 1. günü sab
 
 ## Haftalık yayın ritmi
 
-- **Pazartesi 10:00**: Haftanın hukuk gündemi (K). Resmî Gazete'deki yeni kanun ve yönetmelikler, önemli yüksek mahkeme kararları.
-- **Perşembe 10:00** (isteğe bağlı): "Biliyor muydunuz?" kısa bilgi (G veya R).
-- **Özel günler**: o günün sabahı 09:30–10:00.
+Seriler, yayın günleri ve dört haftalık plan için bkz. `rehber/seri-plani.md`. Özel gün içerikleri o günün sabahı 09:30–10:00 arasında paylaşılır.

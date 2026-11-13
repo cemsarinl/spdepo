@@ -1,10 +1,10 @@
 {
-  "format": "reel",
+  "format": "reel", "seri": "ozel", "tema": "koyu",
   "slaytlar": [
-    {"tip": "kapak", "ust": "20 Kasım", "baslik": "Dünya Çocuk Hakları Günü"},
-    {"tip": "metin", "ust": "1989'da bugün", "baslik": "Bir sözleşme, bütün çocuklar için", "govde": "BM Çocuk Haklarına Dair Sözleşme **20 Kasım 1989**'da kabul edildi.\n\nTürkiye Sözleşme'yi 1990'da imzaladı; Sözleşme 1995'te iç hukukta yürürlüğe girdi."},
-    {"tip": "metin", "ust": "Kim çocuktur?", "baslik": "18 yaşın altındaki herkes", "govde": "Sözleşme'ye göre, daha erken yaşta reşit olmadıkça **18 yaşın altındaki her insan** çocuktur."},
-    {"tip": "liste", "ust": "Sözleşmenin temel ilkeleri", "baslik": "Dört ilke", "maddeler": ["Ayrımcılık yasağı", "Çocuğun **üstün yararı**", "Yaşama ve gelişme hakkı", "Çocuğun görüşlerine saygı"]},
-    {"tip": "kapanis", "baslik": "Her çocuk,\nhakların öznesidir.", "not": "Kaynak: BM Çocuk Haklarına Dair Sözleşme m.1, 2, 3, 6, 12"}
+    {"tip": "ozel", "gun": "20", "ay": "Kasım", "baslik": "Dünya Çocuk\n*Hakları Günü*"},
+    {"tip": "metin", "ust": "1989'da bugün", "baslik": "Bir sözleşme, *bütün çocuklar* için", "govde": "BM Çocuk Haklarına Dair Sözleşme **20 Kasım 1989**'da kabul edildi.\n\nTürkiye Sözleşme'yi 1990'da imzaladı; Sözleşme 1995'te iç hukukta yürürlüğe girdi."},
+    {"tip": "kart", "ust": "Kim çocuktur?", "alinti": "Daha erken yaşta reşit olmadıkça 18 yaşına kadar her insan çocuk sayılır.", "kaynak": "Sözleşme m.1"},
+    {"tip": "liste", "ust": "Temel ilkeler", "baslik": "Sözleşmenin *dört ilkesi*", "maddeler": ["Ayrımcılık yasağı", "Çocuğun **üstün yararı**", "Yaşama ve gelişme hakkı", "Çocuğun görüşlerine saygı"]},
+    {"tip": "kapanis", "baslik": "Her çocuk,\n*hakların öznesidir.*", "not": "Kaynak: BM Çocuk Haklarına Dair Sözleşme m.1, 2, 3, 6, 12. Bu paylaşım genel bilgilendirme amaçlıdır."}
   ]
 }

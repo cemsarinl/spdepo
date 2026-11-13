@@ -1,11 +1,12 @@
 {
   "format": "post",
+  "seri": "gundem",
   "slaytlar": [
-    {"tip": "kapak", "ust": "Mevzuat güncellemesi", "baslik": "Belirsiz alacak davası kaldırıldı.\nŞimdi ne olacak?", "alt": "7589 sayılı Kanun (12. Yargı Paketi) ile HMK'da yapılan değişiklik", "ipucu": "Kaydırın"},
-    {"tip": "metin", "ust": "Ne değişti?", "baslik": "HMK m.107 yürürlükten kalktı", "govde": "31 Temmuz 2026 tarihli ve 33326 sayılı Resmî Gazete'de yayımlanan **7589 sayılı Kanun** ile Hukuk Muhakemeleri Kanunu'nun 107. maddesinde düzenlenen **belirsiz alacak davası** yürürlükten kaldırıldı."},
-    {"tip": "metin", "ust": "Yerine ne geldi?", "baslik": "Kısmi davada tek seferlik talep artırımı", "govde": "HMK m.109'a eklenen hükümle kısmi davada **bir defaya mahsus talep artırımı** imkânı getirildi.\n\nArtırılan kısım bakımından zamanaşımının **dava tarihinde kesilmiş** sayılması öngörülüyor."},
-    {"tip": "metin", "ust": "Görülmekte olan davalar", "baslik": "Eski davalar eski hükme tabi", "govde": "31 Temmuz 2026'dan önce açılmış belirsiz alacak davaları, **açıldıkları tarihte yürürlükte olan** HMK m.107 hükümlerine göre görülmeye devam eder."},
-    {"tip": "liste", "ust": "Pratikte", "baslik": "Nelere dikkat etmeli?", "maddeler": ["Yeni davalar kısmi dava olarak kurgulanmalı.", "Talep artırımı **yalnızca bir kez** yapılabiliyor; zamanlaması iyi planlanmalı.", "Zamanaşımı süreleri dava açılmadan önce ayrıca kontrol edilmeli."]},
+    {"tip": "kapak", "baslik": "Belirsiz alacak davası kaldırıldı.\n*Şimdi ne olacak?*", "alt": "7589 sayılı Kanun (12. Yargı Paketi) ile Hukuk Muhakemeleri Kanunu'nda yapılan değişiklik.", "ipucu": "Kaydırın"},
+    {"tip": "kart", "ust": "Ne değişti?", "baslik": "HMK m.107 *yürürlükten kalktı*", "alinti": "Belirsiz alacak davası, 7589 sayılı Kanun ile yürürlükten kaldırıldı.", "kaynak": "RG 31.07.2026 · Sayı 33326"},
+    {"tip": "metin", "ust": "Yerine ne geldi?", "baslik": "Kısmi davada *tek seferlik* talep artırımı", "govde": "HMK m.109'a eklenen hükümle kısmi davada **bir defaya mahsus talep artırımı** imkânı getirildi.\n\nArtırılan kısım bakımından zamanaşımının **dava tarihinde kesilmiş** sayılması öngörülüyor."},
+    {"tip": "metin", "ust": "Görülmekte olan davalar", "baslik": "Eski davalar *eski hükme* tabi", "govde": "31 Temmuz 2026'dan önce açılmış belirsiz alacak davaları, **açıldıkları tarihte yürürlükte olan** HMK m.107 hükümlerine göre görülmeye devam eder."},
+    {"tip": "liste", "ust": "Pratikte", "baslik": "Nelere *dikkat* etmeli?", "maddeler": ["Yeni davalar kısmi dava olarak kurgulanmalı.", "Talep artırımı **yalnızca bir kez** yapılabiliyor; zamanlaması iyi planlanmalı.", "Zamanaşımı süreleri dava açılmadan önce ayrıca kontrol edilmeli."]},
     {"tip": "kapanis", "baslik": "Kaynak", "govde": "7589 sayılı Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun, RG 31.07.2026, S. 33326"}
   ]
 }

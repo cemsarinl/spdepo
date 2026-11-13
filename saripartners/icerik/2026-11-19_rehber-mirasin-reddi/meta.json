@@ -1,0 +1,7 @@
+{
+  "tarih": "2026-11-19", "saat": "10:00", "tur": "rehber", "format": "carousel",
+  "durum": "taslak", "hukukcu_onayi": false,
+  "alt_text": ["Krem zeminde 'Mirası reddetmek için üç ayınız var.' başlığı.", "Mirası kimlerin reddedebileceğini anlatan metin.", "TMK m.606'daki üç aylık süreyi anlatan alıntı kartı.", "Ret beyanının nereye ve nasıl yapılacağını anlatan iki kart.", "Borca batık terekede hükmen reddi anlatan metin.", "Kaynak ve yasal uyarı."],
+  "kaynaklar": ["4721 sayılı TMK m.605, 606, 609 (mevzuat.gov.tr)"],
+  "dogrulanacak": ["TMK m.606'daki sürenin başlangıcına ilişkin ifadeler (yasal mirasçılar / vasiyetname ile atanmış mirasçılar ayrımı) kanun metninden teyit edilmeli."]
+}
