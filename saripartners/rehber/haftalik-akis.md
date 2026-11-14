@@ -32,6 +32,13 @@ Video **indirilmez**. Yeni gönderi, "ekran görüntüsü" tarzında Sarı tasar
 3. `python3 repost.py hazirla <medya_id> <tarih> <kisa-ad> "<kanca>"` komutuyla kartı ve 8 saniyelik Reels'i hazırla. Tarih, haftanın boş bir günü olmalı.
 4. "sığmıyor" uyarısı çıkarsa kanca metnini kısaltıp kartı yeniden üret. Kartı gözle kontrol et.
 
+## A4. Aylık rakip analizi (her ayın ilk Perşembesi)
+
+1. `python3 rakip_analizi.py` çalıştır; `rakip/son_analiz.md` güncellenir.
+2. `rehber/rakip-analizi.md` belgesindeki tablo ve stil kararlarını yeni verilere göre güncelle. Yeni benzer hesap bulduysan `rakip/hesaplar.json` listesine ekle.
+3. @saripartners'ın son 30 günlük istatistiklerini (`ig_api.py insights`, `account-insights`) çek; en iyi çalışan konu ve formatları not et.
+4. Önemli değişiklikleri haftalık onay paketinin başında kullanıcıya kısa bir özetle bildir.
+
 ## B. Onay
 
 Kullanıcı bir gönderiyi onayladığında (ör. "16 Kasım gönderisini onaylıyorum") şunları yap:

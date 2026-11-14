@@ -31,6 +31,8 @@ Görsel dil ve uyum kuralları değişmez (`seri-plani.md` §1, `uyum-kurallari.
 | Boş bir gün | 10:00 | D · Bu Senin Hakkın (yeni video varsa) |
 | **Her an** | Onaydan hemen sonra | C · Acil Gündem |
 
+**Reels kesitleri (rakip analizine göre, `rakip-analizi.md` §4):** Her "Haklarınız" ve "Hollanda'daki Türkler" kaydırmalısından 15–20 saniyelik bir Reels kesiti üretilir ve 2–3 gün sonra (örneğin Salı ve Cumartesi) paylaşılır. Haftalık toplam 5–6 içerik hedeflenir.
+
 **Perşembe 13:35:** gelecek haftanın paketi onayınıza gelir. **Her gün 09:50:** onaylanan içerik yayınlanır.
 
 ---
