@@ -41,7 +41,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 - [ ] 30 gün kuralı raf ve fiyat etiketleri için geçerli; reklamlarda Bakanlık kılavuzuyla farklı (10 günlük) bir pencere uygulanıyor olabilir. Gönderi etiket fiyatı üzerinden anlatıyor.
 - [ ] Cayma hakkı istisnaları (Mesafeli Sözleşmeler Yön. m.15) açıklamada genel olarak sayıldı.
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---
 
@@ -67,7 +67,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 
 - [ ] Kanca metni videonun içeriğiyle örtüşüyor mu?
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---
 
@@ -102,7 +102,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 - [ ] m.27/A başvurusunda konsoloslukların istediği belge listesi (apostil ve tercüme şekli) Lahey Büyükelçiliği uygulamasıyla teyit edilmeli.
 - [ ] Felemenkçe özet bir Felemenkçe bilen tarafından okunmalı.
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---
 
@@ -136,7 +136,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 - [ ] Gerekçe özeti ikincil kaynaklara dayanıyor; karar metniyle karşılaştırılmalı.
 - [ ] Bağlayıcılık için 2797 s. Kanun m.45 atfının fıkrası teyit edilmeli.
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---
 
@@ -170,6 +170,6 @@ Bu paylaşım genel bilgilendirme amaçlıdır.
 
 - [ ] Türkiye'de yürürlük yılı (1995) Resmî Gazete kaydından teyit edilmeli.
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---

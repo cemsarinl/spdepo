@@ -2,7 +2,7 @@
 
 Bu dosya, zamanlanmış görevler tetiklendiğinde Claude'un izleyeceği adımları tanımlar.
 
-## A. Haftalık taslak hazırlama (her Perşembe)
+## A. Haftalık taslak hazırlama (her Pazar, 20:47; paket Pazar akşamı kullanıcıya gönderilir)
 
 1. `rehber/uyum-kurallari.md`, `rehber/seri-plani.md`, `takvim/ozel-gunler.md` ve `marka.json` dosyalarını oku. Görsel kimlik kurallarına ve seri planına uy; Alan Rehberi sırasını takip et.
 2. **Gündem araştırması** (son 7 gün; `icerik-plani.md` §3). İnsanların gündemde karşılaştığı durumları ve bu durumlardaki haklarını ara. Mevzuat değişikliklerini yalnızca günlük hayata etkisi üzerinden ele al:
@@ -23,7 +23,7 @@ Bu dosya, zamanlanmış görevler tetiklendiğinde Claude'un izleyeceği adımla
 6. Uyum kurallarına göre son kontrolü yap: reklam dili, başarı paylaşımı ve iletişim çağrısı olmamalı, sonda yasal not bulunmalı.
 7. `python3 onay_paketi.py <haftanın ilk günü> <son günü>` ile onay paketini üret. Commit'le ve push'la. Ardından kullanıcıya gönderi başına görselleri, açıklamayı, planlanan tarihi ve `dogrulanacak` maddelerini gönder ve onay iste.
 
-## A2. @buseninhakkin kontrolü (her Perşembe, A ile birlikte)
+## A2. @buseninhakkin kontrolü (her Pazar, A ile birlikte)
 
 Video **indirilmez**. Yeni gönderi, "ekran görüntüsü" tarzında Sarı tasarımlı bir kart olarak @saripartners'ta Reels'e dönüştürülür.
 
@@ -32,7 +32,7 @@ Video **indirilmez**. Yeni gönderi, "ekran görüntüsü" tarzında Sarı tasar
 3. `python3 repost.py hazirla <medya_id> <tarih> <kisa-ad> "<kanca>"` komutuyla kartı ve 8 saniyelik Reels'i hazırla. Tarih, haftanın boş bir günü olmalı.
 4. "sığmıyor" uyarısı çıkarsa kanca metnini kısaltıp kartı yeniden üret. Kartı gözle kontrol et.
 
-## A4. Aylık rakip analizi (her ayın ilk Perşembesi)
+## A4. Aylık rakip analizi (her ayın ilk Pazarı)
 
 1. `python3 rakip_analizi.py` çalıştır; `rakip/son_analiz.md` güncellenir.
 2. `rehber/rakip-analizi.md` belgesindeki tablo ve stil kararlarını yeni verilere göre güncelle. Yeni benzer hesap bulduysan `rakip/hesaplar.json` listesine ekle.

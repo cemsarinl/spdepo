@@ -3,8 +3,8 @@
   "saat": "10:00",
   "tur": "haklariniz",
   "format": "carousel",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "alt_text": [
     "Krem zeminde 'İndirimde aldım, iade edebilir miyim?' başlığı.",
     "İnternet alışverişinde 14 günlük cayma hakkı ve 14 gün içinde iade.",
@@ -21,5 +21,6 @@
   "dogrulanacak": [
     "30 gün kuralı raf ve fiyat etiketleri için geçerli; reklamlarda Bakanlık kılavuzuyla farklı (10 günlük) bir pencere uygulanıyor olabilir. Gönderi etiket fiyatı üzerinden anlatıyor.",
     "Cayma hakkı istisnaları (Mesafeli Sözleşmeler Yön. m.15) açıklamada genel olarak sayıldı."
-  ]
+  ],
+  "onay": "Kullanıcı onayı, 14.11.2026"
 }

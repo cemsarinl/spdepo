@@ -3,8 +3,8 @@
   "saat": "10:00",
   "tur": "repost",
   "format": "reel",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "kanca": "Okulda zorbalık mı?\\n*Sessiz kalmayın.*",
   "kaynak_medya_id": "17870940825659058",
   "kaynak_permalink": "https://www.instagram.com/reel/DfhIYbfIqPG/",
@@ -14,5 +14,6 @@
   ],
   "dogrulanacak": [
     "Kanca metni videonun içeriğiyle örtüşüyor mu?"
-  ]
+  ],
+  "onay": "Kullanıcı onayı, 14.11.2026"
 }

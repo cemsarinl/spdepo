@@ -3,8 +3,8 @@
   "saat": "10:00",
   "tur": "hollanda",
   "format": "carousel",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "alt_text": [
     "Krem zeminde 'Hollanda'da boşandım. Türkiye'de hâlâ evli miyim?' başlığı.",
     "Boşanma kararının nüfusa kendiliğinden işlenmediğini anlatan metin.",
@@ -23,5 +23,6 @@
   "dogrulanacak": [
     "m.27/A başvurusunda konsoloslukların istediği belge listesi (apostil ve tercüme şekli) Lahey Büyükelçiliği uygulamasıyla teyit edilmeli.",
     "Felemenkçe özet bir Felemenkçe bilen tarafından okunmalı."
-  ]
+  ],
+  "onay": "Kullanıcı onayı, 14.11.2026"
 }
