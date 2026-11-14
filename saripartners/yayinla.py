@@ -72,7 +72,10 @@ def publish(folder: Path, yes: bool):
         sys.exit(f"Bilinmeyen format: {fmt}")
     if yes:
         cmd.append("--yes")
-    env = dict(os.environ, IG_GRAPH_HOST=os.environ.get("IG_GRAPH_HOST", "graph.instagram.com"))
+    marka = json.loads((ROOT / "marka.json").read_text(encoding="utf-8"))
+    env = dict(os.environ,
+               IG_GRAPH_HOST=os.environ.get("IG_GRAPH_HOST", marka.get("graph_host", "graph.facebook.com")),
+               IG_USER_ID=os.environ.get("IG_USER_ID", marka["instagram_user_id"]))
     r = subprocess.run([sys.executable, str(IG), *cmd], capture_output=True, text=True, env=env)
     print(r.stdout, end="")
     if r.returncode:
