@@ -11,7 +11,7 @@ Bu dosya, zamanlanmış görevler tetiklendiğinde Claude'un izleyeceği adımla
    - Yargıtay İBK, Danıştay İDDK ve AYM kararları (özellikle bireysel başvuru ve iptal kararları)
    - KVKK, Rekabet Kurumu, SPK ve BDDK gibi kurumların duyuruları
    Geniş kitleyi ilgilendiren, somut ve doğrulanabilir **bir** konu seç. Her iddia için birincil kaynak (RG sayısı, karar künyesi) bul. Yalnızca haber sitesinde geçen bilgiyi `dogrulanacak` listesine yaz.
-3. Seri planındaki gelecek haftanın diğer gönderilerini (Alan Rehberi, Hukuk Sözlüğü vb.) hazırla. Önümüzdeki 10 günde `takvim/ozel-gunler.md`'de bir özel gün varsa onun içeriğini de hazırla.
+3. `icerik-plani.md` §2–3'e göre gelecek haftanın **Hollanda'daki Türkler** gönderisini (Çarşamba) ve isteğe bağlı Cuma gönderisini hazırla. Hollanda için Türk medyası, Rijksoverheid/SVB ve konsolosluk duyurularını tara. Önümüzdeki 10 günde `takvim/ozel-gunler.md`'de bir özel gün varsa onun içeriğini de hazırla.
 4. Her gönderi için `icerik/YYYY-AA-GG_kisa-ad/` klasörü oluştur ve içine şu dosyaları koy: `spec.json`, `caption.txt`, `meta.json` (`durum: "taslak"`, `hukukcu_onayi: false`, `alt_text`, `kaynaklar`, `dogrulanacak`).
 5. Görselleri üret ve kontrol et:
    ```bash
@@ -38,6 +38,16 @@ Kullanıcı bir gönderiyi onayladığında (ör. "16 Kasım gönderisini onayl�
 - İstenen düzeltmeleri uygula, görselleri yeniden üret.
 - `meta.json` içinde `hukukcu_onayi: true` ve `durum: "onaylandi"` değerlerini ayarla.
 - Commit'le ve push'la.
+
+## A3. Acil gündem taraması (günde 3 kez: 08:40, 13:40, 21:40)
+
+1. `icerik-plani.md` §4'teki ölçütlere göre son saatlerin Türkiye ve Hollanda haberlerini tara.
+2. Acil bir olay yoksa kısa bir not düş ve bitir; kullanıcıyı rahatsız etme.
+3. Acil bir olay varsa:
+   - Önce aynı olay için daha önce uyarı verilip verilmediğini `acil/kayit.json` dosyasından kontrol et.
+   - Verilmediyse kullanıcıya **telefon bildirimi** (PushNotification) ve sohbet mesajı gönder. Mesajda olay, önerilen hukuki konu ve kaynak bulunsun.
+   - `seri: "acil"` ile taslak hazırla ve onay iste. Kullanıcı "acil onay" derse `meta.json`'da tarihi bugün yap ve hemen yayınla.
+4. Afetlerde tonla ilgili `icerik-plani.md` §4 kurallarına uy.
 
 ## C. Günlük yayın (her gün 09:50, Türkiye saati)
 

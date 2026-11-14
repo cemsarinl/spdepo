@@ -114,8 +114,6 @@ Türk Medeni Kanunu'na göre yasal ve atanmış mirasçılar mirası reddedebili
 📌 Şekil: Sözlü veya yazılı, kayıtsız ve şartsız beyan
 📌 Borca batık terekede miras reddedilmiş sayılabilir (hükmen ret)
 
-🎥 "Miras kaldı ama borç çıktı" konusunun videolu anlatımı @buseninhakkin hesabında.
-
 Daha sonra dönüp bakmak için kaydedebilirsiniz.
 
 Kaynak: TMK m.605, 606, 609
@@ -150,8 +148,6 @@ Sözleşmenin dört temel ilkesi:
 4️⃣ Çocuğun görüşlerine saygı
 
 Her çocuk, hakların öznesidir.
-
-🎥 Okulda akran zorbalığı ve okulun sorumluluğu hakkındaki videomuz için: @buseninhakkin
 
 Bu paylaşım genel bilgilendirme amaçlıdır.
 

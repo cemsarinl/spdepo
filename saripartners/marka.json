@@ -19,13 +19,15 @@
   "font_govde": "Manrope",
   "yasal_not": "Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.",
   "seriler": {
-    "gundem": "Hukuk Gündemi",
+    "gundem": "Haftanın Gündemi",
     "rehber": "Alan Rehberi",
     "sozluk": "Hukuk Sözlüğü",
     "soru": "Doğru mu, Yanlış mı?",
     "ozel": "Özel Günler",
     "global": "Yurt Dışından",
-    "repost": "Bu Senin Hakkın"
+    "repost": "Bu Senin Hakkın",
+    "hollanda": "Hollanda'daki Türkler",
+    "acil": "Acil Gündem"
   },
   "instagram_user_id": "17841445002467222",
   "graph_host": "graph.facebook.com",
