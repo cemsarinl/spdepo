@@ -84,17 +84,39 @@ Meta, yeni uygulamaların yalnızca izin verilen hesaplarla çalışmasına izin
 
 ---
 
-## BÖLÜM 5: Anahtarı (token) üretin (bilgisayarda, 3 dakika)
+## BÖLÜM 5: Anahtarı (token) üretin (bilgisayarda, 5 dakika)
 
-1. Uygulama panelinde sol menüde **"Instagram"** → **"API setup with Instagram business login"** (Instagram işletme girişi ile API kurulumu) yazısına basın.
-   Bu yazıyı göremiyorsanız sol menüde **"Kullanım alanları"** (Use cases) → Instagram satırındaki **"Özelleştir"** (Customize) düğmesine basın.
-2. Sayfada **"1. Generate access tokens"** başlığını bulun.
-3. **"Add account"** (Hesap ekle) düğmesine basın.
-4. Küçük bir Instagram giriş penceresi açılır. **@saripartners** kullanıcı adı ve şifresiyle giriş yapın.
-   - Pencere açılmıyorsa tarayıcı açılır pencereyi engelliyordur. Adres çubuğunun sağındaki 🚫 simgesine basıp **"Her zaman izin ver"**i seçin ve tekrar deneyin.
-5. İzinler ekranında **hepsini işaretli bırakın** ve **"İzin ver"** (Allow) deyin.
-6. Pencere kapanır. Listede **saripartners** görünür; yanında **"Generate token"** düğmesi vardır. Bu düğmeye basın.
-7. Uyarı penceresinde **"Anladım"** kutusunu işaretleyin. Uzun bir metin (harf ve rakamlar) görünür. Bu metin **anahtardır**. Yanındaki **kopyala** düğmesine basın.
+> **İpucu:** Meta'nın Türkçe çevirileri değişken. Sayfanın en altındaki dil seçicisinden **English (US)**'yi seçerseniz ekrandaki yazılar bu rehberdekilerle birebir aynı olur.
+
+### 5A. Uygulamanızın paneline girin
+
+1. Chrome'da **developers.facebook.com/apps** adresine gidin.
+2. Uygulamalarınızın listesi açılır. **SariPartners Icerik** kutusuna tıklayın.
+3. Uygulama paneli (**Dashboard / Pano**) açılır. Sol tarafta dikey bir menü görürsünüz.
+   - Sol menü görünmüyorsa pencere dar olabilir. Sol üstteki **☰** simgesine basın veya pencereyi büyütün.
+
+### 5B. Instagram ayar sayfasını bulun
+
+4. Sol menüde **"Use cases"** (Türkçe ekranda "Kullanım durumları" veya "Kullanım örnekleri") yazısına tıklayın.
+5. Ortada bir kart listesi açılır. **"Manage messaging & content on Instagram"** kartını bulun.
+6. Bu kartın sağındaki **"Customize"** (Özelleştir) düğmesine basın.
+7. Yeni sayfanın solunda iki-üç sekme görünür. **"API setup with Instagram business login"** sekmesine tıklayın.
+   (Diğer sekmeler "Permissions and features" ve "API setup with Facebook login"dur; onlara dokunmayın.)
+
+**Kart listede yoksa:** Uygulamayı oluştururken başka bir kullanım alanı seçilmiş demektir. Aynı sayfanın sağ üstündeki **"Add use case"** (Kullanım alanı ekle) düğmesine basın, **"Manage messaging & content on Instagram"**ı seçip ekleyin, sonra 5. adıma dönün.
+
+### 5C. Anahtarı üretin
+
+8. Açılan sayfada numaralı başlıklar görürsünüz. En üsttekine bakın: **"1. Generate access tokens"**.
+9. Bu başlığın altındaki **"Add account"** düğmesine basın.
+10. Küçük bir Instagram penceresi açılır. **saripartners** kullanıcı adı ve şifresiyle giriş yapın.
+    - Pencere açılmıyorsa adres çubuğunun sağındaki 🚫 simgesine basın, **"Her zaman izin ver"**i seçin ve **Add account**'a tekrar basın.
+    - Pencerede başka bir Instagram hesabı açık geliyorsa **"Siz değil misiniz?"** / **"Hesap değiştir"** deyip saripartners ile girin.
+11. İzinler ekranında hiçbir işareti kaldırmayın ve **"Allow"** (İzin ver) düğmesine basın.
+12. Pencere kapanır. "1. Generate access tokens" başlığının altında **saripartners** satırı görünür.
+13. Bu satırın sağındaki **"Generate token"** düğmesine basın.
+14. Açılan pencerede **"I Understand"** (Anladım) kutusunu işaretleyin.
+15. Harf ve rakamlardan oluşan uzun bir metin görünür. Bu metin **anahtardır**. Yanındaki **kopyala** simgesine (iki üst üste kâğıt) basın.
 
 ⚠️ Bu metni **sohbete, e-postaya veya WhatsApp'a yapıştırmayın.** Bir sonraki bölümde güvenli forma yapıştıracaksınız.
 
