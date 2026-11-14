@@ -115,9 +115,10 @@ Görsel dil ve uyum kuralları değişmez (`seri-plani.md` §1, `uyum-kurallari.
 - Toplu tüketici mağduriyetleri: havayolu iptalleri, bir şirketin iflası, dolandırıcılık dalgası
 - Hemen yürürlüğe giren ve çok kişiyi etkileyen düzenlemeler
 - Hollanda'daki Türkleri Türkiye bağlantısıyla doğrudan etkileyen ani gelişmeler: konsolosluk işlemleri, uçuşlar, sınır ve gümrük kuralları
+- **Toplumda ilgi çeken anlık olaylar:** sosyal medyada viral olan, haber gündeminin üst sıralarına çıkan ve hukuki bir soruyu gündeme getiren olaylar. Örnekler: çok konuşulan bir dava veya mahkeme kararı, viral bir tüketici mağduriyeti, kamuoyunu meşgul eden bir kira veya miras anlaşmazlığı, ünlülerin karıştığı hukuki tartışmalar. Ünlü ve kişi olaylarında kişiler hakkında yorum yapılmaz; yalnızca genel hukuki soru ele alınır ("Böyle bir durumda haklar nelerdir?").
 
 **Akış:**
-1. **Uyarı:** olay tespit edilince size **telefon bildirimi** ve bu sohbete mesaj gelir. Mesajda olay, önerilen haklar konusu ve kaynak bulunur.
+1. **Uyarı:** olay tespit edilince size **telefon bildirimi** ve bu sohbete mesaj gelir. Mesajda olay, kaynak ve **somut bir gönderi önerisi** bulunur: kapak başlığı, format ve 3–4 maddelik içerik özeti.
 2. **Taslak:** **2 saat içinde** hazırlanır.
 3. **Yayın:** "**acil onay**" dediğinizde hemen yayınlanır.
 
