@@ -24,8 +24,10 @@
     "sozluk": "Hukuk Sözlüğü",
     "soru": "Doğru mu, Yanlış mı?",
     "ozel": "Özel Günler",
-    "global": "Yurt Dışından"
+    "global": "Yurt Dışından",
+    "repost": "Bu Senin Hakkın"
   },
   "instagram_user_id": "17841445002467222",
-  "graph_host": "graph.facebook.com"
+  "graph_host": "graph.facebook.com",
+  "repost_kaynak": "buseninhakkin"
 }

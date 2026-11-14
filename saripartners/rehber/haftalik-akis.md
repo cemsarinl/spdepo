@@ -23,6 +23,14 @@ Bu dosya, zamanlanmış görevler tetiklendiğinde Claude'un izleyeceği adımla
 6. Uyum kurallarına göre son kontrolü yap: reklam dili, başarı paylaşımı ve iletişim çağrısı olmamalı, sonda yasal not bulunmalı.
 7. Commit'le ve push'la. Ardından kullanıcıya gönderi başına görselleri, açıklamayı, planlanan tarihi ve `dogrulanacak` maddelerini gönder ve onay iste.
 
+## A2. @buseninhakkin kontrolü (her Perşembe, A ile birlikte)
+
+1. `python3 repost.py kontrol` ile son kontrolden bu yana paylaşılan videoları listele.
+2. Her uygun video için içeriği anlamak üzere videodan birkaç kare çıkar ve açıklamayı oku. 2–6 kelimelik, dikkat çekici bir **kanca metni** yaz (ikinci satır *italik altın*). Metin videonun içeriğiyle birebir örtüşmeli, abartı veya sonuç vaadi içermemeli.
+3. `python3 repost.py hazirla <medya_id> <tarih> <kisa-ad> "<Soru?\n*Vurgu.*>"` komutuyla taslağı hazırla. Tarih, haftanın boş bir günü olmalı.
+4. Kareleri gözle kontrol et: şerit yüzü veya videodaki yazıları kapatmamalı.
+5. Telifli müzik nedeniyle atlanan videoları `python3 repost.py isaretle <medya_id> atlandi` ile kaydet ve kullanıcıya bildir.
+
 ## B. Onay
 
 Kullanıcı bir gönderiyi onayladığında (ör. "16 Kasım gönderisini onaylıyorum") şunları yap:
