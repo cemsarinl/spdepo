@@ -4,40 +4,42 @@ Onaylamak için sohbete gönderilerin tarihlerini yazmanız yeterli, örneğin *
 
 | # | Tarih | Seri | Format | Önizleme |
 |---|---|---|---|---|
-| 1 | 16 Kasım Pazartesi 10:00 | Hukuk Gündemi | Kaydırmalı | [önizleme](onay/01_2026-11-16_belirsiz-alacak.jpg) |
+| 1 | 16 Kasım Pazartesi 10:00 | Haftanın Gündemi · Haklarınız | Kaydırmalı | [önizleme](onay/01_2026-11-16_haklariniz-indirim-iade.jpg) |
 | 2 | 17 Kasım Salı 10:00 | Bu Senin Hakkın | Reels | [önizleme](onay/02_2026-11-17_repost-akran-zorbaligi.jpg) |
-| 3 | 18 Kasım Çarşamba 10:00 | Hukuk Sözlüğü | Tek görsel | [önizleme](onay/03_2026-11-18_sozluk-tenfiz.jpg) |
-| 4 | 19 Kasım Perşembe 10:00 | Alan Rehberi | Kaydırmalı | [önizleme](onay/04_2026-11-19_rehber-mirasin-reddi.jpg) |
+| 3 | 18 Kasım Çarşamba 10:00 | Hollanda'daki Türkler | Kaydırmalı | [önizleme](onay/03_2026-11-18_hollanda-bosanma-tescil.jpg) |
+| 4 | 19 Kasım Perşembe 10:00 | İçtihat Notu | Kaydırmalı | [önizleme](onay/04_2026-11-19_ictihat-kismi-islah.jpg) |
 | 5 | 20 Kasım Cuma 10:00 | Özel Günler | Reels | [önizleme](onay/05_2026-11-20_cocuk-haklari.jpg) |
 
 
-## 1. 16 Kasım Pazartesi · Hukuk Gündemi · Kaydırmalı
+## 1. 16 Kasım Pazartesi · Haftanın Gündemi · Haklarınız · Kaydırmalı
 
-![2026-11-16_belirsiz-alacak](onay/01_2026-11-16_belirsiz-alacak.jpg)
+![2026-11-16_haklariniz-indirim-iade](onay/01_2026-11-16_haklariniz-indirim-iade.jpg)
 
 **Açıklama metni:**
 
 ```
-Belirsiz alacak davası artık yok. Peki alacağın miktarını baştan bilemeyenler ne yapacak? ⚖️
+İndirimde aldığınız ürünü iade edebilir misiniz? Evet, çoğu durumda. 🛍️
 
-12. Yargı Paketi olarak bilinen 7589 sayılı Kanun ile HMK m.107 yürürlükten kaldırıldı. Yerine kısmi davada bir defaya mahsus talep artırımı imkânı getirildi.
+Kasım indirimlerinde en çok sorulan sorulara kısa yanıtlar:
 
-📌 Değişiklik 31 Temmuz 2026'da yürürlüğe girdi.
-📌 Bu tarihten önce açılan belirsiz alacak davaları eski hükme göre görülmeye devam ediyor.
-📌 Talep artırımı yalnızca bir kez yapılabiliyor.
+📦 İnternetten aldıysanız: teslimden itibaren 14 gün içinde gerekçe göstermeden cayma hakkınız var. Satıcı, bildiriminiz ulaştıktan sonra 14 gün içinde paranızı iade etmek zorunda.
+🏷️ İndirim gerçek olmalı: önceki fiyat, indirimden önceki 30 gün içindeki en düşük fiyattır.
+🔧 Ürün ayıplıysa: onarım, değişim, bedelde indirim veya iade arasında seçim yapabilirsiniz.
 
-Ayrıntılar kaydırmalı görselde. Daha sonra dönüp bakmak için kaydedebilirsiniz.
+⚠️ Cayma hakkının istisnaları var: kişiye özel üretilen ürünler, çabuk bozulan ürünler ve ambalajı açılmış hijyen ürünleri gibi.
 
-Kaynak: 7589 s. Kanun, RG 31.07.2026, S. 33326
+Kaydedin; alışverişten önce bir kez daha bakın.
+
+Kaynak: 6502 s. TKHK m.11, 48, 68 · Mesafeli Sözleşmeler Yönetmeliği · Fiyat Etiketi Yönetmeliği
 Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
 
-#hukuk #yargıpaketi #HMK #medeniusul #mevzuat
+#tüketicihakları #caymahakkı #indirim #iade #haklarınız
 ```
 
 **Kontrol edilecekler:**
 
-- [ ] İkincil kaynaklarla teyit edildi (aşağıdaki kaynaklar): HMK m.107 31.07.2026'da yürürlükten kalktı; m.109/4 tahkikat sonuna kadar bir defalık artırım ve zamanaşımının dava tarihinde kesilmesi. Resmî Gazete metnine bu ortamdan erişilemedi; avukat kontrolü önerilir.
-- [ ] Faiz başlangıcı konusunda kanun sessiz; gönderide faizden söz edilmiyor.
+- [ ] 30 gün kuralı raf ve fiyat etiketleri için geçerli; reklamlarda Bakanlık kılavuzuyla farklı (10 günlük) bir pencere uygulanıyor olabilir. Gönderi etiket fiyatı üzerinden anlatıyor.
+- [ ] Cayma hakkı istisnaları (Mesafeli Sözleşmeler Yön. m.15) açıklamada genel olarak sayıldı.
 
 **Durum:** ⏳ Onay bekliyor
 
@@ -69,62 +71,70 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 
 ---
 
-## 3. 18 Kasım Çarşamba · Hukuk Sözlüğü · Tek görsel
+## 3. 18 Kasım Çarşamba · Hollanda'daki Türkler · Kaydırmalı
 
-![2026-11-18_sozluk-tenfiz](onay/03_2026-11-18_sozluk-tenfiz.jpg)
+![2026-11-18_hollanda-bosanma-tescil](onay/03_2026-11-18_hollanda-bosanma-tescil.jpg)
 
 **Açıklama metni:**
 
 ```
-Hukuk Sözlüğü: Tenfiz 📖
+Hollanda'da boşandınız ama Türkiye'de hâlâ evli mi görünüyorsunuz? 🇳🇱🇹🇷
 
-Yurt dışında verilen bir boşanma, alacak veya ticari karar Türkiye'de kendiliğinden geçerli olmaz.
+Hollanda'da verilen boşanma kararı, Türkiye'deki nüfus kaydına kendiliğinden işlenmez. Bunun iki yolu var:
 
-▫️ Tanıma: Yabancı kararın kesin hüküm ya da delil etkisinden yararlanmak için yeterlidir. Örneğin yurt dışında boşanan birinin nüfus kaydının güncellenmesi.
-▫️ Tenfiz: Kararın Türkiye'de icra yoluyla zorla uygulanabilmesi için gereklidir. Örneğin yabancı mahkemenin hükmettiği bir alacağın tahsili.
+1️⃣ Konsolosluk veya nüfus müdürlüğü üzerinden, dava açmadan tescil (5490 s. K. m.27/A). Eşler birlikte, bizzat ya da vekil aracılığıyla başvurur. Eski eş yabancıysa veya vefat etmişse Türk vatandaşı eş tek başına başvurabilir.
+2️⃣ Birlikte başvuru mümkün değilse, Türkiye'de aile mahkemesinde tanıma davası (MÖHUK m.58).
 
-Her iki süreç de 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun'da (m.50–59) düzenlenir.
+📄 Hazırlanacaklar: kesinleşmiş boşanma kararı, apostil, yeminli tercüme, gerekirse konsoloslukta düzenlenmiş vekaletname.
 
-Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
+Bu bilgiye ihtiyacı olabilecek biriyle paylaşın.
 
-#hukuksözlüğü #tenfiz #tanıma #MÖHUK #yurtdışıboşanma
+🇳🇱 Samenvatting: Een echtscheiding die in Nederland is uitgesproken, wordt niet automatisch in het Turkse bevolkingsregister verwerkt. Dit kan zonder rechtszaak via het Turkse consulaat (art. 27/A Wet Bevolkingsdiensten). Lukt dat niet, dan volgt een erkenningsprocedure bij de Turkse familierechtbank.
+
+Kaynak: 5490 s. Nüfus Hizmetleri K. m.27/A · 5718 s. MÖHUK m.58
+Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz. Hollanda tarafındaki işlemler için yerel bir uzmana danışın.
+
+#HollandadakiTürkler #boşanma #tanıma #nüfus #konsolosluk
 ```
 
 **Kontrol edilecekler:**
 
-- [ ] İkincil kaynaklarla teyit edildi: tanıma ile ilam kesin hüküm/kesin delil etkisi kazanır, tenfiz icra edilebilirlik sağlar (MÖHUK m.50 vd., m.58). Avukat kontrolü önerilir.
+- [ ] m.27/A başvurusunda konsoloslukların istediği belge listesi (apostil ve tercüme şekli) Lahey Büyükelçiliği uygulamasıyla teyit edilmeli.
+- [ ] Felemenkçe özet bir Felemenkçe bilen tarafından okunmalı.
 
 **Durum:** ⏳ Onay bekliyor
 
 ---
 
-## 4. 19 Kasım Perşembe · Alan Rehberi · Kaydırmalı
+## 4. 19 Kasım Perşembe · İçtihat Notu · Kaydırmalı
 
-![2026-11-19_rehber-mirasin-reddi](onay/04_2026-11-19_rehber-mirasin-reddi.jpg)
+![2026-11-19_ictihat-kismi-islah](onay/04_2026-11-19_ictihat-kismi-islah.jpg)
 
 **Açıklama metni:**
 
 ```
-Mirası reddetmek mümkün; ama süre kısa. ⏳
+İçtihat Notu | Kısmi ıslahla, dava dilekçesinde yer almayan yeni bir talep eklenemez.
 
-Türk Medeni Kanunu'na göre yasal ve atanmış mirasçılar mirası reddedebilir. Ret, borçlar dahil tüm mirastan vazgeçmek anlamına gelir.
+Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu kararı.
 
-📌 Süre: 3 ay (TMK m.606)
-📌 Yer: Mirasbırakanın son yerleşim yerindeki sulh hukuk mahkemesi
-📌 Şekil: Sözlü veya yazılı, kayıtsız ve şartsız beyan
-📌 Borca batık terekede miras reddedilmiş sayılabilir (hükmen ret)
+Künye: E. 2021/8, K. 2026/1, T. 08.05.2026 (RG 30.06.2026, S. 33296)
 
-Daha sonra dönüp bakmak için kaydedebilirsiniz.
+Yüksek Mahkeme, daireler arasındaki görüş ayrılığını oy çokluğuyla gidermiştir. Gerekçede, kısmi ıslahın mevcut talep üzerinde düzeltme imkânı tanıdığı; dilekçede hiç bulunmayan bir istemin bu yolla eklenmesinin ıslahı fiilen ikinci bir dava açma aracına dönüştüreceği vurgulanmaktadır.
 
-Kaynak: TMK m.605, 606, 609
+Uygulama açısından:
+▪️ Talepler dava dilekçesinde eksiksiz belirtilmelidir.
+▪️ Dilekçede yer almayan bağımsız talepler için ayrı dava ve zamanaşımı denetimi gerekir.
+▪️ 7589 s. Kanun ile belirsiz alacak davasının kaldırılmasıyla birlikte talebin baştan doğru kurgulanması daha da önem kazanmıştır.
+
 Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
 
-#mirashukuku #mirasınreddi #TMK #aile #miras
+#Yargıtay #içtihadıbirleştirme #ıslah #HMK #medeniusulhukuku
 ```
 
 **Kontrol edilecekler:**
 
-- [ ] İkincil kaynaklarla teyit edildi: TMK m.606 süre 3 ay; yasal mirasçılar için ölümü öğrenme tarihinden (mirasçı olduğunu sonradan öğrenen için o tarihten), atanmış mirasçılar için tasarrufun resmen bildirildiği tarihten başlar. Hükmen ret için 3 aylık süre uygulanmaz. Avukat kontrolü önerilir.
+- [ ] Gerekçe özeti ikincil kaynaklara dayanıyor; karar metniyle karşılaştırılmalı.
+- [ ] Bağlayıcılık için 2797 s. Kanun m.45 atfının fıkrası teyit edilmeli.
 
 **Durum:** ⏳ Onay bekliyor
 

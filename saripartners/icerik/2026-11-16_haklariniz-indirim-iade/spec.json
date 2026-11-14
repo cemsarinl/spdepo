@@ -1,0 +1,60 @@
+{
+  "format": "post",
+  "seri": "haklariniz",
+  "slaytlar": [
+    {
+      "tip": "kapak",
+      "baslik": "İndirimde aldım,\n*iade edebilir miyim?*",
+      "alt": "Kasım indirimlerinde tüketici olarak haklarınız ve atmanız gereken adımlar.",
+      "ipucu": "Kaydırın"
+    },
+    {
+      "tip": "liste",
+      "ust": "İnternetten aldıysanız",
+      "baslik": "*14 gün* cayma hakkı",
+      "kartlar": [
+        {
+          "baslik": "Gerekçesiz iade",
+          "govde": "Ürünü, teslim tarihinden itibaren **14 gün içinde** gerekçe göstermeden ve cezai şart ödemeden iade edebilirsiniz."
+        },
+        {
+          "baslik": "Paranız 14 günde",
+          "govde": "Satıcı, cayma bildiriminiz kendisine ulaştıktan sonra **14 gün içinde** ödemenizi iade etmek zorundadır."
+        }
+      ]
+    },
+    {
+      "tip": "metin",
+      "ust": "İndirim gerçek mi?",
+      "baslik": "Önceki fiyat = *son 30 günün en düşüğü*",
+      "govde": "İndirimden önceki fiyat olarak, indirimin başladığı tarihten önceki **30 gün içinde uygulanan en düşük fiyat** gösterilmelidir.\n\nÖnce zam yapıp sonra \"indirim\" demek bu kurala aykırıdır."
+    },
+    {
+      "tip": "liste",
+      "ust": "Ürün bozuk veya hasarlı çıktıysa",
+      "baslik": "Seçimlik *haklarınız*",
+      "maddeler": [
+        "Ücretsiz onarım",
+        "Ayıpsız yenisiyle değişim",
+        "Bedelde indirim",
+        "Sözleşmeden dönme (bedel iadesi)"
+      ]
+    },
+    {
+      "tip": "liste",
+      "ust": "Ne yapmalı?",
+      "baslik": "Adım *adım*",
+      "maddeler": [
+        "Sipariş, fatura ve indirim ekranının **ekran görüntüsünü** saklayın.",
+        "Kargo hasarlıysa teslim anında **tutanak** tutturun.",
+        "Satıcıya **yazılı** başvurun.",
+        "Sonuç alamazsanız e-Devlet'teki **Tüketici Bilgi Sistemi** üzerinden tüketici hakem heyetine başvurun."
+      ]
+    },
+    {
+      "tip": "kapanis",
+      "baslik": "Kaynak",
+      "govde": "6502 sayılı Tüketicinin Korunması Hakkında Kanun m.11, 48, 68 · Mesafeli Sözleşmeler Yönetmeliği · Fiyat Etiketi Yönetmeliği (indirimli satışlar)"
+    }
+  ]
+}

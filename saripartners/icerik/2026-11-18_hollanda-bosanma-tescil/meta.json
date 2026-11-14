@@ -1,0 +1,27 @@
+{
+  "tarih": "2026-11-18",
+  "saat": "10:00",
+  "tur": "hollanda",
+  "format": "carousel",
+  "durum": "taslak",
+  "hukukcu_onayi": false,
+  "alt_text": [
+    "Krem zeminde 'Hollanda'da boşandım. Türkiye'de hâlâ evli miyim?' başlığı.",
+    "Boşanma kararının nüfusa kendiliğinden işlenmediğini anlatan metin.",
+    "İki yol: konsolosluk yoluyla tescil ve tanıma davası.",
+    "Eski eş yabancıysa tek başına başvuru.",
+    "Hollanda'dan hazırlanacak belgelerin listesi.",
+    "Tescilin sonucu.",
+    "Kaynak ve yasal uyarı."
+  ],
+  "kaynaklar": [
+    "5490 s. Nüfus Hizmetleri K. m.27/A",
+    "5718 s. MÖHUK m.58",
+    "https://okyayevren.com/yayinlar/yabanci-mahkeme-bosanma-nufusa-tescil/",
+    "https://kulacoglu.av.tr/yurtdisi-bosanma-karari/"
+  ],
+  "dogrulanacak": [
+    "m.27/A başvurusunda konsoloslukların istediği belge listesi (apostil ve tercüme şekli) Lahey Büyükelçiliği uygulamasıyla teyit edilmeli.",
+    "Felemenkçe özet bir Felemenkçe bilen tarafından okunmalı."
+  ]
+}

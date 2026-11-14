@@ -12,7 +12,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 GUN = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"]
 AY = ["", "Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
-SERI = {"haftalik-hukuk": "Hukuk Gündemi", "ozel-gun": "Özel Günler", "sozluk": "Hukuk Sözlüğü",
+SERI = {"haklariniz": "Haftanın Gündemi · Haklarınız", "hollanda": "Hollanda'daki Türkler", "ictihat": "İçtihat Notu", "acil": "Acil Gündem",
+        "haftalik-hukuk": "Hukuk Gündemi", "ozel-gun": "Özel Günler", "sozluk": "Hukuk Sözlüğü",
         "rehber": "Alan Rehberi", "repost": "Bu Senin Hakkın", "soru": "Doğru mu, Yanlış mı?", "global": "Yurt Dışından"}
 FMT = {"carousel": "Kaydırmalı", "tek-gorsel": "Tek görsel", "reel": "Reels"}
 
