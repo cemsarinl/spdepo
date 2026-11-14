@@ -34,7 +34,7 @@ Görsel dil, saripartners.com ile aynı sistem üzerine kuruludur. Böylece web 
 | **Hukuk Sözlüğü** | Tek bir terimin sade tanımı ve kanun maddesi | Tek görsel | Antrasit | İki haftada bir Çarşamba |
 | **Doğru mu, Yanlış mı?** | Yaygın bir hukuki yanlışı düzeltmek | Kaydırmalı, 3–4 slayt | Krem/antrasit | Ayda bir |
 | **Özel Günler** | Takvimdeki özel gün ve haftalar | Reels veya tek görsel, büyük tarih | Antrasit (kutlamalarda krem) | Takvime göre |
-| **Bu Senin Hakkın** | @buseninhakkin'deki yeni videoyu Sarı tasarımlı kanca metniyle Reels olarak yeniden paylaşmak | Reels: 2,5 sn açılış kartı + video, üstte ince kanca şeridi | Antrasit kart | Haftada bir (yeni video oldukça) |
+| **Bu Senin Hakkın** | @buseninhakkin'deki yeni gönderiyi duyurmak | Reels (8 sn): kanca metni + gönderinin "ekran görüntüsü" kartı; video indirilmez | Antrasit | Yeni gönderi oldukça (haftalık kontrol) |
 | **Yurt Dışından** | Yabancı yatırımcılar ve yurt dışında yaşayanlar için (tanıma-tenfiz, taşınmaz edinimi) | Kaydırmalı, TR + EN açıklama | Krem | Ayda bir |
 
 ### Alan Rehberi dönüşümü (faaliyet alanlarınız)
@@ -62,7 +62,7 @@ Yedi haftada bir tur tamamlanır. Gündemle ilgili bir alan varsa sıra değişt
 | 24 Kas Sal | Özel Günler | Öğretmenler Günü | G | Krem | Taslak hazır |
 | 25 Kas Çar | Özel Günler | Kadına Yönelik Şiddete Karşı Mücadele Günü (6284) | R | Antrasit | Taslak hazır |
 | 26 Kas Per | Alan Rehberi · İş | Kıdem tazminatı hangi hallerde ödenir? | K | Krem | Planlandı |
-| 27 Kas Cum | Bu Senin Hakkın | Arabanıza biri mi çarptı? Önce bunu izleyin. (@buseninhakkin, 4 Kas) | R | Antrasit | Taslak hazır |
+| 27 Kas Cum | Bu Senin Hakkın | Kaza mı yaptınız? Önce bunu izleyin. (@buseninhakkin, 4 Kas) | R | Antrasit | Taslak hazır |
 | 30 Kas Pzt | Hukuk Gündemi | Belirlenecek | K | Krem | Planlandı |
 | 2 Ara Çar | Hukuk Sözlüğü | Saklı pay | G | Antrasit | Planlandı |
 | 3 Ara Per | Özel Günler | Dünya Engelliler Günü: temel haklar (5378 s. K.) | K | Krem | Planlandı |
@@ -101,5 +101,5 @@ python3 render/make_reel.py icerik/<klasor>/gorseller icerik/<klasor>/reel.mp4  
 | Kötü niyetli mal sahibinden tazminat (260) | Alan Rehberi · Gayrimenkul: Kiracının hakları |
 | Maaş hesabına haciz (173) | Doğru mu, Yanlış mı? · İcra |
 
-- **Yeniden paylaşım akışı** (`repost.py`): her Perşembe yeni videolar kontrol edilir. Uygun olanlara 2–6 kelimelik kanca metni yazılır, Reels taslağı hazırlanır ve onaya gönderilir. Telifli müzik içeren videolarda API video adresi vermediği için bu videolar atlanır.
+- **Duyuru akışı** (`repost.py`): her Perşembe yeni gönderiler kontrol edilir. Her biri için 2–6 kelimelik kanca metni yazılır. Gönderinin kapak görseli ve açıklamasıyla "ekran görüntüsü" tarzında bir kart çizilir, 8 saniyelik Reels'e dönüştürülür ve onaya gönderilir. Video indirilmez; izleyici videonun tamamı için @buseninhakkin'e yönlendirilir.
 

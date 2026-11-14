@@ -21,15 +21,16 @@ Bu dosya, zamanlanmış görevler tetiklendiğinde Claude'un izleyeceği adımla
    ```
    "sığmıyor" uyarısı veren slaytları kısalt. Görselleri bir temas sayfasında (montage) gözle kontrol et.
 6. Uyum kurallarına göre son kontrolü yap: reklam dili, başarı paylaşımı ve iletişim çağrısı olmamalı, sonda yasal not bulunmalı.
-7. Commit'le ve push'la. Ardından kullanıcıya gönderi başına görselleri, açıklamayı, planlanan tarihi ve `dogrulanacak` maddelerini gönder ve onay iste.
+7. `python3 onay_paketi.py <haftanın ilk günü> <son günü>` ile onay paketini üret. Commit'le ve push'la. Ardından kullanıcıya gönderi başına görselleri, açıklamayı, planlanan tarihi ve `dogrulanacak` maddelerini gönder ve onay iste.
 
 ## A2. @buseninhakkin kontrolü (her Perşembe, A ile birlikte)
 
-1. `python3 repost.py kontrol` ile son kontrolden bu yana paylaşılan videoları listele.
-2. Her uygun video için içeriği anlamak üzere videodan birkaç kare çıkar ve açıklamayı oku. 2–6 kelimelik, dikkat çekici bir **kanca metni** yaz (ikinci satır *italik altın*). Metin videonun içeriğiyle birebir örtüşmeli, abartı veya sonuç vaadi içermemeli.
-3. `python3 repost.py hazirla <medya_id> <tarih> <kisa-ad> "<Soru?\n*Vurgu.*>"` komutuyla taslağı hazırla. Tarih, haftanın boş bir günü olmalı.
-4. Kareleri gözle kontrol et: şerit yüzü veya videodaki yazıları kapatmamalı.
-5. Telifli müzik nedeniyle atlanan videoları `python3 repost.py isaretle <medya_id> atlandi` ile kaydet ve kullanıcıya bildir.
+Video **indirilmez**. Yeni gönderi, "ekran görüntüsü" tarzında Sarı tasarımlı bir kart olarak @saripartners'ta Reels'e dönüştürülür.
+
+1. `python3 repost.py kontrol` ile son kontrolden bu yana paylaşılan gönderileri listele.
+2. Her gönderi için açıklamayı oku ve 2–6 kelimelik, dikkat çekici bir **kanca metni** yaz. Biçim: "Soru?\n*Vurgu.*", ikinci satır italik altın olur. Metin gönderinin konusuyla birebir örtüşmeli, abartı veya sonuç vaadi içermemeli.
+3. `python3 repost.py hazirla <medya_id> <tarih> <kisa-ad> "<kanca>"` komutuyla kartı ve 8 saniyelik Reels'i hazırla. Tarih, haftanın boş bir günü olmalı.
+4. "sığmıyor" uyarısı çıkarsa kanca metnini kısaltıp kartı yeniden üret. Kartı gözle kontrol et.
 
 ## B. Onay
 

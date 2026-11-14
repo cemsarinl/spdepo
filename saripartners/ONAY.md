@@ -1,17 +1,14 @@
-# Onay paketi: 16–27 Kasım 2026
+# Onay paketi: 16 Kasım Pazartesi – 22 Kasım Pazar
 
-Her gönderi için önizleme, açıklama metni ve kontrol edilecek noktalar aşağıda. Onaylamak için sohbete şöyle yazmanız yeterli: **"16, 17 ve 24 Kasım'ı onaylıyorum"**. Düzeltme isterseniz gönderinin tarihini ve değişikliği yazın.
+Onaylamak için sohbete gönderilerin tarihlerini yazmanız yeterli, örneğin **"16, 17 ve 18 Kasım'ı onaylıyorum"**. Düzeltme isterseniz tarihi ve değişikliği yazın. Onaylanan gönderiler planlanan gün sabah 09:50'de yayınlanır.
 
 | # | Tarih | Seri | Format | Önizleme |
 |---|---|---|---|---|
-| 1 | 16 Kasım Pazartesi | Hukuk Gündemi | Kaydırmalı | [onay/01_2026-11-16_belirsiz-alacak.jpg](onay/01_2026-11-16_belirsiz-alacak.jpg) |
-| 2 | 17 Kasım Salı | Bu Senin Hakkın | Reels | [onay/02_2026-11-17_repost-akran-zorbaligi.jpg](onay/02_2026-11-17_repost-akran-zorbaligi.jpg) |
-| 3 | 18 Kasım Çarşamba | Hukuk Sözlüğü | Tek görsel | [onay/03_2026-11-18_sozluk-tenfiz.jpg](onay/03_2026-11-18_sozluk-tenfiz.jpg) |
-| 4 | 19 Kasım Perşembe | Alan Rehberi | Kaydırmalı | [onay/04_2026-11-19_rehber-mirasin-reddi.jpg](onay/04_2026-11-19_rehber-mirasin-reddi.jpg) |
-| 5 | 20 Kasım Cuma | Özel Günler | Reels | [onay/05_2026-11-20_cocuk-haklari.jpg](onay/05_2026-11-20_cocuk-haklari.jpg) |
-| 6 | 24 Kasım Salı | Özel Günler | Tek görsel | [onay/06_2026-11-24_ogretmenler-gunu.jpg](onay/06_2026-11-24_ogretmenler-gunu.jpg) |
-| 7 | 25 Kasım Çarşamba | Özel Günler | Reels | [onay/07_2026-11-25_kadina-siddet.jpg](onay/07_2026-11-25_kadina-siddet.jpg) |
-| 8 | 27 Kasım Cuma | Bu Senin Hakkın | Reels | [onay/08_2026-11-27_repost-arac-hasari.jpg](onay/08_2026-11-27_repost-arac-hasari.jpg) |
+| 1 | 16 Kasım Pazartesi 10:00 | Hukuk Gündemi | Kaydırmalı | [önizleme](onay/01_2026-11-16_belirsiz-alacak.jpg) |
+| 2 | 17 Kasım Salı 10:00 | Bu Senin Hakkın | Reels | [önizleme](onay/02_2026-11-17_repost-akran-zorbaligi.jpg) |
+| 3 | 18 Kasım Çarşamba 10:00 | Hukuk Sözlüğü | Tek görsel | [önizleme](onay/03_2026-11-18_sozluk-tenfiz.jpg) |
+| 4 | 19 Kasım Perşembe 10:00 | Alan Rehberi | Kaydırmalı | [önizleme](onay/04_2026-11-19_rehber-mirasin-reddi.jpg) |
+| 5 | 20 Kasım Cuma 10:00 | Özel Günler | Reels | [önizleme](onay/05_2026-11-20_cocuk-haklari.jpg) |
 
 
 ## 1. 16 Kasım Pazartesi · Hukuk Gündemi · Kaydırmalı
@@ -39,9 +36,8 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 
 **Kontrol edilecekler:**
 
-- [ ] HMK m.109'a eklenen fıkranın tam lafzı ve zamanaşımının 'dava tarihinde kesilmiş sayılması' ifadesi Resmî Gazete metninden teyit edilmeli.
-- [ ] Geçiş hükmünün (geçici madde) numarası ve kapsamı teyit edilmeli.
-- [ ] Bazı kaynaklar bazı maddelerin 31.10.2026'da yürürlüğe girdiğini yazıyor; HMK 107'ye ilişkin hükmün yürürlük tarihi Kanun'un yürürlük maddesinden kontrol edilmeli.
+- [ ] İkincil kaynaklarla teyit edildi (aşağıdaki kaynaklar): HMK m.107 31.07.2026'da yürürlükten kalktı; m.109/4 tahkikat sonuna kadar bir defalık artırım ve zamanaşımının dava tarihinde kesilmesi. Resmî Gazete metnine bu ortamdan erişilemedi; avukat kontrolü önerilir.
+- [ ] Faiz başlangıcı konusunda kanun sessiz; gönderide faizden söz edilmiyor.
 
 **Durum:** ⏳ Onay bekliyor
 
@@ -56,19 +52,18 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 ```
 Çocuğunuz okulda akran zorbalığına maruz kalıyorsa sessiz kalmak zorunda değilsiniz.
 
-🎥 Videonun tamamı ve daha fazlası için: @buseninhakkin
+🎥 Videonun tamamı @buseninhakkin hesabında.
 
 Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
 
 #BuSeninHakkın #SarıAvukatlıkOrtaklığı
 ```
 
-**Kaynak video:** https://www.instagram.com/reel/DfhIYbfIqPG/  ·  **Kanca:** Okulda zorbalık mı? *Sessiz kalmayın.*
+**Kaynak gönderi:** https://www.instagram.com/reel/DfhIYbfIqPG/
 
 **Kontrol edilecekler:**
 
 - [ ] Kanca metni videonun içeriğiyle örtüşüyor mu?
-- [ ] Videoda telifli müzik varsa Instagram sesi kapatabilir; kontrol edin.
 
 **Durum:** ⏳ Onay bekliyor
 
@@ -97,7 +92,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 
 **Kontrol edilecekler:**
 
-- [ ] Madde aralığı (tenfiz m.50–57, tanıma m.58–59) ve tanıma örneğinin (nüfus kaydı) doğruluğu teyit edilmeli.
+- [ ] İkincil kaynaklarla teyit edildi: tanıma ile ilam kesin hüküm/kesin delil etkisi kazanır, tenfiz icra edilebilirlik sağlar (MÖHUK m.50 vd., m.58). Avukat kontrolü önerilir.
 
 **Durum:** ⏳ Onay bekliyor
 
@@ -131,7 +126,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 
 **Kontrol edilecekler:**
 
-- [ ] TMK m.606'daki sürenin başlangıcına ilişkin ifadeler (yasal mirasçılar / vasiyetname ile atanmış mirasçılar ayrımı) kanun metninden teyit edilmeli.
+- [ ] İkincil kaynaklarla teyit edildi: TMK m.606 süre 3 ay; yasal mirasçılar için ölümü öğrenme tarihinden (mirasçı olduğunu sonradan öğrenen için o tarihten), atanmış mirasçılar için tasarrufun resmen bildirildiği tarihten başlar. Hükmen ret için 3 aylık süre uygulanmaz. Avukat kontrolü önerilir.
 
 **Durum:** ⏳ Onay bekliyor
 
@@ -168,84 +163,6 @@ Bu paylaşım genel bilgilendirme amaçlıdır.
 **Kontrol edilecekler:**
 
 - [ ] Türkiye'de yürürlük yılı (1995) Resmî Gazete kaydından teyit edilmeli.
-
-**Durum:** ⏳ Onay bekliyor
-
----
-
-## 6. 24 Kasım Salı · Özel Günler · Tek görsel
-
-![2026-11-24_ogretmenler-gunu](onay/06_2026-11-24_ogretmenler-gunu.jpg)
-
-**Açıklama metni:**
-
-```
-Hakkı, adaleti ve sorumluluğu bize ilk kez sınıfta anlattılar. 📚
-
-Başta Başöğretmenimiz Mustafa Kemal Atatürk olmak üzere tüm öğretmenlerimizin 24 Kasım Öğretmenler Günü'nü saygıyla kutlarız.
-
-#24KasımÖğretmenlerGünü #ÖğretmenlerGünü
-```
-
-**Kontrol edilecekler:**
-
-- [ ] Genel kontrol
-
-**Durum:** ⏳ Onay bekliyor
-
----
-
-## 7. 25 Kasım Çarşamba · Özel Günler · Reels
-
-![2026-11-25_kadina-siddet](onay/07_2026-11-25_kadina-siddet.jpg)
-
-**Açıklama metni:**
-
-```
-25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü 🟣
-
-6284 sayılı Kanun'a göre, şiddete uğrayan ya da uğrama tehlikesi bulunan kişiler için koruyucu ve önleyici tedbir kararı verilebilir. Tedbir kararı için şiddetin uygulandığına dair delil veya belge aranmaz.
-
-📍 Başvuru: aile mahkemesi, Cumhuriyet başsavcılığı, polis/jandarma, vali/kaymakamlık
-📞 Acil: 112 · ALO 183 · KADES uygulaması
-
-Bu bilgiye ihtiyacı olabilecek biriyle paylaşın.
-
-Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
-
-#25Kasım #KadınaŞiddeteHayır #6284 #KADES
-```
-
-**Kontrol edilecekler:**
-
-- [ ] Acil hat numaralarının güncelliği (ALO 183, KADES) kontrol edilmeli.
-
-**Durum:** ⏳ Onay bekliyor
-
----
-
-## 8. 27 Kasım Cuma · Bu Senin Hakkın · Reels
-
-![2026-11-27_repost-arac-hasari](onay/08_2026-11-27_repost-arac-hasari.jpg)
-
-**Açıklama metni:**
-
-```
-Aracınız zarar gördüğünde nasıl bir yol izlemeniz gerektiğini biliyor musunuz?🤔
-
-🎥 Videonun tamamı ve daha fazlası için: @buseninhakkin
-
-Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
-
-#BuSeninHakkın #SarıAvukatlıkOrtaklığı
-```
-
-**Kaynak video:** https://www.instagram.com/reel/DfUFQAWoFGC/  ·  **Kanca:** Arabanıza biri mi çarptı? *Önce bunu izleyin.*
-
-**Kontrol edilecekler:**
-
-- [ ] Kanca metni videonun içeriğiyle örtüşüyor mu?
-- [ ] Videoda telifli müzik varsa Instagram sesi kapatabilir; kontrol edin.
 
 **Durum:** ⏳ Onay bekliyor
 
