@@ -72,7 +72,7 @@ function css(dark) {
   html,body{width:${W}px;height:${H}px}
   body{background:${bg};color:${ink};font-family:'Manrope',sans-serif;-webkit-font-smoothing:antialiased;
        position:relative;overflow:hidden;padding:${P.t}px 92px ${P.b}px;display:flex;flex-direction:column;justify-content:center}
-  body:before{content:'';position:absolute;inset:0;pointer-events:none;
+  body:before{content:'';position:absolute;inset:0;pointer-events:none;${spec.stil === 'vurucu' ? 'display:none;' : ''}
        background:radial-gradient(900px 700px at 100% 0%, ${dark ? 'rgba(225,176,67,.10)' : 'rgba(225,176,67,.22)'}, transparent 70%),
                   repeating-linear-gradient(135deg, ${dark ? 'rgba(255,255,255,.025)' : 'rgba(184,137,43,.05)'} 0 1px, transparent 1px 14px)}
   .hc{position:absolute;right:-40px;top:${reel ? 230 : -40}px}
@@ -119,6 +119,20 @@ function css(dark) {
   .date .m{font-size:40px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;padding-bottom:14px}
   .verdict{display:inline-flex;align-items:center;gap:14px;border-radius:999px;padding:14px 30px;font-size:30px;font-weight:800;
       letter-spacing:.08em;text-transform:uppercase;margin-bottom:36px;color:#fff;background:${acc}}
+  /* --- vurucu stil --- */
+  .q{font-size:${reel ? 48 : 44}px;font-weight:600;line-height:1.3;color:${sub};margin-bottom:28px}
+  .big{font-family:'Manrope',sans-serif;font-weight:800;font-size:${reel ? 132 : 122}px;line-height:1.1;letter-spacing:-.03em;color:${ink}}
+  .big b{color:${acc}}
+  .after{margin-top:40px;font-size:${reel ? 46 : 42}px;font-weight:700;color:${acc}}
+  .ans{display:flex;flex-direction:column;gap:${reel ? 56 : 48}px}
+  .ans .h{font-weight:800;font-size:${reel ? 88 : 80}px;line-height:1;letter-spacing:-.02em;color:${ink}}
+  .ans .h span{color:${acc}}
+  .ans .d{margin-top:14px;font-size:${reel ? 40 : 36}px;line-height:1.35;color:${sub};font-weight:500}
+  .steps{display:flex;flex-direction:column;gap:${reel ? 40 : 34}px}
+  .steps div{font-size:${reel ? 54 : 50}px;font-weight:800;line-height:1.15;color:${ink};padding-left:44px;position:relative}
+  .steps div:before{content:'';position:absolute;left:0;top:.42em;width:20px;height:20px;border-radius:50%;background:${acc}}
+  .steps div small{display:block;font-size:${reel ? 34 : 30}px;font-weight:500;color:${sub};margin-top:6px}
+  .src2{margin-top:56px;font-size:22px;line-height:1.45;color:${sub};opacity:.8;max-width:860px}
   .note{margin-top:48px;font-size:24px;line-height:1.5;color:${sub};max-width:820px;opacity:.85}
   `;
 }
@@ -153,6 +167,16 @@ function slide(s, i, n) {
         ? `<div><span class="verdict">${esc(s.cevap)}</span></div><h2>${fmt(s.ifade)}</h2><p class="body">${fmt(s.aciklama)}</p>`
         : `<div class="kick">Doğru mu, yanlış mı?</div><h1>“${fmt(s.ifade)}”</h1>${s.ipucu ? `<div class="hint">${esc(s.ipucu)}<span>→</span></div>` : ''}`;
       break;
+    case 'vurgu':
+      inner = `${s.soru ? `<div class="q">${fmt(s.soru)}</div>` : ''}<div class="big">${fmt(s.buyuk)}</div>
+        ${s.sonra ? `<div class="after">${fmt(s.sonra)}</div>` : ''}`; break;
+    case 'cevap':
+      inner = `${s.soru ? `<div class="q">${fmt(s.soru)}</div>` : ''}<div class="ans">${s.cevaplar.map((c, k) =>
+        `<div><div class="h"><span>${k + 1}.</span> ${fmt(c.baslik)}</div><div class="d">${fmt(c.aciklama)}</div></div>`).join('')}</div>`; break;
+    case 'adimlar':
+      inner = `${s.soru ? `<div class="q">${fmt(s.soru)}</div>` : ''}<div class="steps">${s.maddeler.map(m =>
+        `<div>${fmt(m.baslik)}${m.aciklama ? `<small>${fmt(m.aciklama)}</small>` : ''}</div>`).join('')}</div>
+        <div class="src2">${fmt(s.kaynak ? s.kaynak + ' · ' : '')}${fmt(brand.yasal_not)}</div>`; break;
     case 'kapanis':
       inner = `<h2>${fmt(s.baslik)}</h2>${s.govde ? `<p class="body">${fmt(s.govde)}</p>` : ''}
         <p class="note">${fmt(s.not || brand.yasal_not)}</p>`; break;
@@ -161,7 +185,7 @@ function slide(s, i, n) {
   const logo = dark ? `<div class="chip"><img class="logo m" src="${LOGO}"></div>` : `<img class="logo m" src="${LOGO}">`;
   const count = n > 1 && !reel ? `<div class="count"><b>${nn(i + 1)}</b> / ${nn(n)}</div>` : '';
   return `<!doctype html><html><head><meta charset="utf-8"><style>${css(dark)}</style></head><body>
-    ${honeycomb(dark)}<div class="wm">Sarı</div>
+    ${spec.stil === 'vurucu' ? '' : honeycomb(dark) + '<div class="wm">Sarı</div>'}
     ${etiket ? `<div class="badge"><i></i>${esc(etiket)}</div>` : ''}
     <main>${inner}</main>
     <div class="foot">${logo}${count}</div></body></html>`;

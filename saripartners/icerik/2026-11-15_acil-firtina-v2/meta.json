@@ -1,0 +1,25 @@
+{
+  "tarih": "2026-11-16",
+  "saat": "10:00",
+  "tur": "acil",
+  "format": "carousel",
+  "durum": "taslak",
+  "hukukcu_onayi": false,
+  "not": "İlk sürümün (15.11.2026, 6 slayt) yerine sade ve vurucu 3 slaytlık yeni tasarım.",
+  "alt_text": [
+    "Antrasit zeminde küçük yazıyla 'Fırtınada aracınıza ağaç mı devrildi?', büyük harflerle 'Trafik sigortası ÖDEMEZ.'",
+    "Kim öder? 1. Kaskonuz, 2. Belediye.",
+    "Hemen yapın: fotoğraf ve video, tutanak, 1 yıl içinde belediyeye başvuru."
+  ],
+  "kaynaklar": [
+    "https://www.memurlar.net/haber/1184114/istanbul-valiligi-nden-firtina-aciklamasi.html",
+    "https://www.trtv.net/2026/11/15/istanbul-siddetli-lodos-firtina-uyarisi-akom/",
+    "https://www.sigortamnews.com/firtinada-arac-hasarini-kim-oder-kasko-mu-trafik-mi",
+    "https://www.sunayyildirim.com.tr/agac-devrilmesi-ve-cisim-dusmesini-kasko-karsilar-mi",
+    "2577 s. İYUK m.13"
+  ],
+  "dogrulanacak": [
+    "İYUK m.13'teki 30 günlük yanıt süresi ve 1 yıl / 5 yıl süreleri kanun metninden teyit edilmeli.",
+    "Standart kaskoda fırtına ve ağaç devrilmesinin ana teminat mı ek teminat mı olduğu poliçeye göre değişebilir; gönderi 'poliçenizi kontrol edin' diyor."
+  ]
+}
