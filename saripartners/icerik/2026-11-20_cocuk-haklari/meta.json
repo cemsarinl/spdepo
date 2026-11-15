@@ -3,8 +3,8 @@
   "saat": "10:00",
   "tur": "ozel-gun",
   "format": "reel",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "not": "15.11.2026 revizyonu: kısa ve vurucu dil, 3–4 slayt.",
   "kaynaklar": [
     "BM Çocuk Haklarına Dair Sözleşme (UNICEF Türkiye metni)",
@@ -12,5 +12,6 @@
   ],
   "dogrulanacak": [
     "Türkiye'de yürürlük yılı (1995) Resmî Gazete kaydından teyit edilmeli."
-  ]
+  ],
+  "onay": "Kullanıcı onayı (final revizyon), 15.11.2026"
 }

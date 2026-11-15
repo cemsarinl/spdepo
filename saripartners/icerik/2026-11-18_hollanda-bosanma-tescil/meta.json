@@ -3,8 +3,8 @@
   "saat": "10:00",
   "tur": "hollanda",
   "format": "carousel",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "kaynaklar": [
     "5490 s. Nüfus Hizmetleri K. m.27/A",
     "5718 s. MÖHUK m.58",
@@ -20,5 +20,6 @@
     "Krem zeminde 'Hollanda'da boşandınız mı?' ve büyük harflerle 'Türkiye'de hâlâ EVLİ görünüyor olabilirsiniz.'",
     "İki yol: konsolosluk ve tanıma davası.",
     "Hazırlanacaklar: kesinleşmiş karar, apostil ve tercüme, konsolosluk randevusu."
-  ]
+  ],
+  "onay": "Kullanıcı onayı (final revizyon), 15.11.2026"
 }

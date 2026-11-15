@@ -3,8 +3,8 @@
   "saat": "10:00",
   "tur": "haklariniz",
   "format": "carousel",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "kaynaklar": [
     "6502 s. TKHK m.11, 48, 68",
     "Mesafeli Sözleşmeler Yönetmeliği m.9, 13, 15",
@@ -19,5 +19,6 @@
     "Krem zeminde 'İndirimde aldınız, pişman mı oldunuz?' ve büyük harflerle 'İade hakkınız: 14 GÜN.'",
     "Bilmeniz gereken üç madde: para iadesi 14 gün, sahte indirim yasağı, bozuk üründe seçimlik haklar.",
     "Sorun varsa üç adım: ekran görüntüsü, yazılı başvuru, tüketici hakem heyeti."
-  ]
+  ],
+  "onay": "Kullanıcı onayı (final revizyon), 15.11.2026"
 }
