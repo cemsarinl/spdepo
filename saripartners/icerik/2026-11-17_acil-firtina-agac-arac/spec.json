@@ -1,0 +1,51 @@
+{
+  "format": "post",
+  "seri": "acil",
+  "tema": "koyu",
+  "slaytlar": [
+    {
+      "tip": "kapak",
+      "baslik": "Fırtınada aracınıza ağaç devrildi.\n*Zararı kim öder?*",
+      "alt": "İstanbul'da 18 Kasım'dan itibaren yeniden kuvvetli lodos bekleniyor. Bilmeniz gerekenler.",
+      "ipucu": "Kaydırın"
+    },
+    {
+      "tip": "liste",
+      "ust": "Hemen yapın",
+      "baslik": "İlk *adımlar*",
+      "maddeler": [
+        "Güvendeyseniz hasarı **fotoğraf ve videoyla** belgeleyin; ağacın gövdesi ve kökü dahil.",
+        "Polise veya belediyenin **153 Beyaz Masa** hattına bildirin, **tutanak** isteyin.",
+        "Sigorta şirketinize **gecikmeden** hasar ihbarında bulunun.",
+        "Meteoroloji ve AKOM uyarılarının ekran görüntüsünü saklayın."
+      ]
+    },
+    {
+      "tip": "metin",
+      "ust": "Önce kasko",
+      "baslik": "Trafik sigortası *ödemez*",
+      "govde": "Fırtınada devrilen ağacın verdiği zarar **zorunlu trafik sigortasının** kapsamında değildir.\n\nBakılacak poliçe **kaskonuzdur**. Poliçenizdeki fırtına ve ağaç devrilmesi teminatını kontrol edin."
+    },
+    {
+      "tip": "metin",
+      "ust": "Kasko yoksa veya yetmezse",
+      "baslik": "Belediyenin *sorumluluğu*",
+      "govde": "Ağaç **bakımsız veya çürükse** ve bakımı belediyenin görevindeyse, **hizmet kusuru** nedeniyle idareden tazminat istenebilir. Kaskonun karşılamadığı muafiyet ve **değer kaybı** da talep edilebilir.\n\nAğaç sağlıklıysa ve fırtına olağanüstüyse idare **mücbir sebep** savunması yapabilir."
+    },
+    {
+      "tip": "liste",
+      "ust": "Süreler",
+      "baslik": "İdareye başvuru *takvimi*",
+      "maddeler": [
+        "Zararı öğrendiğiniz tarihten itibaren **1 yıl** içinde (her hâlde olaydan itibaren 5 yıl) belediyeye **yazılı başvuru**",
+        "Başvuru reddedilirse veya **30 gün** içinde yanıt gelmezse",
+        "**60 gün** içinde idare mahkemesinde **tam yargı davası**"
+      ]
+    },
+    {
+      "tip": "kapanis",
+      "baslik": "Kaynak",
+      "govde": "2577 sayılı İYUK m.2/1-b ve m.13 · Kasko Genel Şartları · Somut olayda ağacın durumu ve fırtınanın şiddeti bilirkişi incelemesiyle değerlendirilir."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "tarih": "2026-11-17",
+  "saat": "10:00",
+  "tur": "acil",
+  "format": "carousel",
+  "durum": "taslak",
+  "hukukcu_onayi": false,
+  "not": "Acil gündem: 18 Kasım lodos uyarısı öncesi. 'Acil onay' gelirse hemen yayınlanır; gelmezse 17 Kasım için onay beklenir (aynı gün 17 Kasım Bu Senin Hakkın Reels'i de var).",
+  "alt_text": [
+    "Antrasit zeminde 'Fırtınada aracınıza ağaç devrildi. Zararı kim öder?' başlığı.",
+    "Hasar sonrası ilk dört adım.",
+    "Trafik sigortasının ödemediği, kaskonun kontrol edilmesi gerektiği.",
+    "Belediyenin hizmet kusuru sorumluluğu ve mücbir sebep.",
+    "İdareye başvuru ve dava süreleri.",
+    "Kaynak ve yasal uyarı."
+  ],
+  "kaynaklar": [
+    "https://www.memurlar.net/haber/1184114/istanbul-valiligi-nden-firtina-aciklamasi.html",
+    "https://www.trtv.net/2026/11/15/istanbul-siddetli-lodos-firtina-uyarisi-akom/",
+    "https://www.sigortamnews.com/firtinada-arac-hasarini-kim-oder-kasko-mu-trafik-mi",
+    "https://www.sunayyildirim.com.tr/agac-devrilmesi-ve-cisim-dusmesini-kasko-karsilar-mi",
+    "2577 s. İYUK m.13"
+  ],
+  "dogrulanacak": [
+    "İYUK m.13'teki 30 günlük yanıt süresi ve 1 yıl / 5 yıl süreleri kanun metninden teyit edilmeli.",
+    "Standart kaskoda fırtına ve ağaç devrilmesinin ana teminat mı ek teminat mı olduğu poliçeye göre değişebilir; gönderi 'poliçenizi kontrol edin' diyor."
+  ]
+}
