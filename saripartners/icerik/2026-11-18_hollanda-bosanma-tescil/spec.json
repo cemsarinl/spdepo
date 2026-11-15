@@ -3,7 +3,7 @@
     {
       "tip": "vurgu",
       "soru": "Hollanda'da boşandınız mı?",
-      "buyuk": "Türkiye'de hâlâ\n**EVLİ** görünüyor\nolabilirsiniz.",
+      "buyuk": "Türkiye'de hâlâ\n**EVLİ** görünüyor\nolabilirsiniz",
       "sonra": "Karar nüfusa kendiliğinden işlenmez. →"
     },
     {
@@ -12,27 +12,27 @@
       "cevaplar": [
         {
           "baslik": "Konsolosluk",
-          "aciklama": "Dava açmadan, eşlerle birlikte başvuru (5490 s. K. m.27/A). Eski eş yabancıysa tek başınıza."
+          "aciklama": "Dava açmadan, eşlerle birlikte başvuru (5490 s. K. m.27/A). Eski eş yabancıysa tek başınıza"
         },
         {
           "baslik": "Tanıma davası",
-          "aciklama": "Birlikte başvuru olmazsa Türkiye'de aile mahkemesinde (MÖHUK m.58)."
+          "aciklama": "Birlikte başvuru olmazsa Türkiye'de aile mahkemesinde (MÖHUK m.58)"
         }
       ]
     },
     {
       "tip": "adimlar",
-      "soru": "Hazırlayın:",
+      "soru": "Hazırlayın",
       "maddeler": [
         {
-          "baslik": "Kesinleşmiş boşanma kararı."
+          "baslik": "Kesinleşmiş boşanma kararı"
         },
         {
-          "baslik": "Apostil ve yeminli tercüme."
+          "baslik": "Apostil ve yeminli tercüme"
         },
         {
-          "baslik": "Konsolosluk randevusu.",
-          "aciklama": "Lahey, Amsterdam, Rotterdam veya Deventer."
+          "baslik": "Konsolosluk randevusu",
+          "aciklama": "Lahey, Amsterdam, Rotterdam veya Deventer"
         }
       ],
       "kaynak": "Kaynak: 5490 s. K. m.27/A · 5718 s. MÖHUK m.58 · Hollanda tarafı için yerel uzmana danışın."

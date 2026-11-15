@@ -100,7 +100,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 
 - [ ] Kanca metni videonun içeriğiyle örtüşüyor mu?
 
-**Durum:** ✅ Onaylandı
+**Durum:** ⏳ Onay bekliyor
 
 ---
 
@@ -168,7 +168,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 - [ ] Gerekçe özeti ikincil kaynaklara dayanıyor; karar metniyle karşılaştırılmalı.
 - [ ] Bağlayıcılık için 2797 s. Kanun m.45 atfının fıkrası teyit edilmeli.
 
-**Durum:** ✅ Onaylandı
+**Durum:** ⏳ Onay bekliyor
 
 ---
 

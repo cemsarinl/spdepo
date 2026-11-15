@@ -3,8 +3,8 @@
   "saat": "10:00",
   "tur": "ictihat",
   "format": "carousel",
-  "durum": "onaylandi",
-  "hukukcu_onayi": true,
+  "durum": "taslak",
+  "hukukcu_onayi": false,
   "alt_text": [
     "Antrasit zeminde 'Kısmi ıslahla yeni talep eklenemez.' başlığı ve karar künyesi.",
     "Kararın hükmü ve Resmî Gazete bilgisi.",
@@ -20,6 +20,5 @@
   "dogrulanacak": [
     "Gerekçe özeti ikincil kaynaklara dayanıyor; karar metniyle karşılaştırılmalı.",
     "Bağlayıcılık için 2797 s. Kanun m.45 atfının fıkrası teyit edilmeli."
-  ],
-  "onay": "Kullanıcı onayı, 14.11.2026"
+  ]
 }

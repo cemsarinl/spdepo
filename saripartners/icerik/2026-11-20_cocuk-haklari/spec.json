@@ -8,8 +8,8 @@
     },
     {
       "tip": "vurgu",
-      "soru": "BM Çocuk Haklarına Dair Sözleşme'ye göre:",
-      "buyuk": "18 yaşın altındaki\n**HERKES**\nçocuktur."
+      "soru": "BM Çocuk Haklarına Dair Sözleşme'ye göre",
+      "buyuk": "18 yaşın altındaki\n**HERKES**\nçocuktur"
     },
     {
       "tip": "liste",
@@ -24,7 +24,7 @@
     },
     {
       "tip": "kapanis",
-      "baslik": "Her çocuk,\n*hakların öznesidir.*",
+      "baslik": "Her çocuk,\n*hakların öznesidir*",
       "not": "Kaynak: BM Çocuk Haklarına Dair Sözleşme m.1, 2, 3, 6, 12. Bu paylaşım genel bilgilendirme amaçlıdır."
     }
   ],

@@ -6,7 +6,7 @@
     {
       "tip": "vurgu",
       "soru": "Fırtınada aracınıza ağaç mı devrildi?",
-      "buyuk": "Trafik sigortası\n**ÖDEMEZ.**",
+      "buyuk": "Trafik sigortası\n**ÖDEMEZ**",
       "sonra": "Peki kim öder? →"
     },
     {
@@ -15,29 +15,29 @@
       "cevaplar": [
         {
           "baslik": "Kaskonuz",
-          "aciklama": "Poliçenizde fırtına teminatı varsa."
+          "aciklama": "Poliçenizde fırtına teminatı varsa"
         },
         {
           "baslik": "Belediye",
-          "aciklama": "Ağaç bakımsızsa: hizmet kusuru. Kaskonun ödemediği kısım dahil."
+          "aciklama": "Ağaç bakımsızsa: hizmet kusuru. Kaskonun ödemediği kısım dahil"
         }
       ]
     },
     {
       "tip": "adimlar",
-      "soru": "Hemen yapın:",
+      "soru": "Hemen yapın",
       "maddeler": [
         {
-          "baslik": "Fotoğraf ve video çekin.",
-          "aciklama": "Ağacın gövdesi ve kökü dahil."
+          "baslik": "Fotoğraf ve video çekin",
+          "aciklama": "Ağacın gövdesi ve kökü dahil"
         },
         {
-          "baslik": "Tutanak tutturun.",
-          "aciklama": "Polis veya 153 Beyaz Masa."
+          "baslik": "Tutanak tutturun",
+          "aciklama": "Polis veya 153 Beyaz Masa"
         },
         {
-          "baslik": "1 yıl içinde belediyeye yazılı başvurun.",
-          "aciklama": "Yanıt gelmezse 30 gün, ardından 60 gün içinde idare mahkemesi."
+          "baslik": "1 yıl içinde belediyeye yazılı başvurun",
+          "aciklama": "Yanıt gelmezse 30 gün, ardından 60 gün içinde idare mahkemesi"
         }
       ],
       "kaynak": "Kaynak: 2577 s. İYUK m.13"

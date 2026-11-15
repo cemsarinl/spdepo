@@ -3,24 +3,24 @@
     {
       "tip": "vurgu",
       "soru": "İndirimde aldınız, pişman mı oldunuz?",
-      "buyuk": "İade hakkınız:\n**14 GÜN.**",
+      "buyuk": "İade hakkınız\n**14 GÜN**",
       "sonra": "İnternetten aldıysanız, gerekçe gerekmez. →"
     },
     {
       "tip": "cevap",
-      "soru": "Bilmeniz gereken:",
+      "soru": "Bilmeniz gereken",
       "cevaplar": [
         {
           "baslik": "Paranız 14 günde",
-          "aciklama": "Satıcı, iade bildiriminizden sonra 14 gün içinde ödemeyi geri vermek zorunda."
+          "aciklama": "Satıcı, iade bildiriminizden sonra 14 gün içinde ödemeyi geri vermek zorunda"
         },
         {
           "baslik": "Sahte indirim yasak",
-          "aciklama": "Eski fiyat, son 30 günün en düşük fiyatı olmalı."
+          "aciklama": "Eski fiyat, son 30 günün en düşük fiyatı olmalı"
         },
         {
           "baslik": "Ürün bozuksa",
-          "aciklama": "Onarım, değişim, indirim veya iade: seçim sizin."
+          "aciklama": "Onarım, değişim, indirim veya iade: seçim sizin"
         }
       ]
     },
@@ -29,15 +29,15 @@
       "soru": "Sorun mu var?",
       "maddeler": [
         {
-          "baslik": "Ekran görüntüsü alın.",
-          "aciklama": "Sipariş, fatura, indirim ekranı."
+          "baslik": "Ekran görüntüsü alın",
+          "aciklama": "Sipariş, fatura, indirim ekranı"
         },
         {
-          "baslik": "Satıcıya yazılı başvurun."
+          "baslik": "Satıcıya yazılı başvurun"
         },
         {
-          "baslik": "Sonuç yoksa: tüketici hakem heyeti.",
-          "aciklama": "e-Devlet → Tüketici Bilgi Sistemi."
+          "baslik": "Sonuç yoksa: tüketici hakem heyeti",
+          "aciklama": "e-Devlet → Tüketici Bilgi Sistemi"
         }
       ],
       "kaynak": "Kaynak: 6502 s. TKHK m.11, 48 · Mesafeli Sözleşmeler Yön. · Fiyat Etiketi Yön."
