@@ -3,24 +3,24 @@
     {
       "tip": "vurgu",
       "soru": "İndirimde aldınız, pişman mı oldunuz?",
-      "buyuk": "İade hakkınız\n**14 GÜN**",
-      "sonra": "İnternetten aldıysanız, gerekçe gerekmez. →"
+      "buyuk": "İade hakkınız:\n**14 GÜN.**",
+      "sonra": "İnternetten aldıysanız, gerekçe göstermeniz gerekmez."
     },
     {
       "tip": "cevap",
-      "soru": "Bilmeniz gereken",
+      "soru": "Bilmeniz gerekenler:",
       "cevaplar": [
         {
-          "baslik": "Paranız 14 günde",
-          "aciklama": "Satıcı, iade bildiriminizden sonra 14 gün içinde ödemeyi geri vermek zorunda"
+          "baslik": "Paranız 14 günde döner.",
+          "aciklama": "Satıcı, iade bildiriminizden sonra 14 gün içinde ödemenizi geri vermek zorundadır."
         },
         {
-          "baslik": "Sahte indirim yasak",
-          "aciklama": "Eski fiyat, son 30 günün en düşük fiyatı olmalı"
+          "baslik": "Sahte indirim yasaktır.",
+          "aciklama": "İndirimden önceki fiyat, son 30 günün en düşük fiyatı olmalıdır."
         },
         {
-          "baslik": "Ürün bozuksa",
-          "aciklama": "Onarım, değişim, indirim veya iade: seçim sizin"
+          "baslik": "Bozuk üründe seçim sizindir.",
+          "aciklama": "Onarım, değişim, bedelde indirim veya iade isteyebilirsiniz."
         }
       ]
     },
@@ -29,18 +29,18 @@
       "soru": "Sorun mu var?",
       "maddeler": [
         {
-          "baslik": "Ekran görüntüsü alın",
-          "aciklama": "Sipariş, fatura, indirim ekranı"
+          "baslik": "Ekran görüntüsü alın.",
+          "aciklama": "Sipariş, fatura ve indirim ekranını saklayın."
         },
         {
-          "baslik": "Satıcıya yazılı başvurun"
+          "baslik": "Satıcıya yazılı başvurun."
         },
         {
-          "baslik": "Sonuç yoksa: tüketici hakem heyeti",
-          "aciklama": "e-Devlet → Tüketici Bilgi Sistemi"
+          "baslik": "Sonuç alamazsanız tüketici hakem heyetine başvurun.",
+          "aciklama": "Başvuru, e-Devlet'teki Tüketici Bilgi Sistemi üzerinden yapılır."
         }
       ],
-      "kaynak": "Kaynak: 6502 s. TKHK m.11, 48 · Mesafeli Sözleşmeler Yön. · Fiyat Etiketi Yön."
+      "kaynak": "Kaynak: 6502 sayılı TKHK m.11 ve m.48, Mesafeli Sözleşmeler Yönetmeliği, Fiyat Etiketi Yönetmeliği."
     }
   ],
   "format": "post",

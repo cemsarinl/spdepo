@@ -3,39 +3,39 @@
     {
       "tip": "vurgu",
       "soru": "Hollanda'da boşandınız mı?",
-      "buyuk": "Türkiye'de hâlâ\n**EVLİ** görünüyor\nolabilirsiniz",
-      "sonra": "Karar nüfusa kendiliğinden işlenmez. →"
+      "buyuk": "Türkiye'de hâlâ\n**EVLİ** görünüyor\nolabilirsiniz.",
+      "sonra": "Boşanma kararı nüfusa kendiliğinden işlenmez."
     },
     {
       "tip": "cevap",
-      "soru": "Çözüm: iki yol",
+      "soru": "Çözüm için iki yol var:",
       "cevaplar": [
         {
-          "baslik": "Konsolosluk",
-          "aciklama": "Dava açmadan, eşlerle birlikte başvuru (5490 s. K. m.27/A). Eski eş yabancıysa tek başınıza"
+          "baslik": "Konsolosluğa başvurun.",
+          "aciklama": "Dava açmadan, eşlerin birlikte başvurusuyla tescil yapılır (5490 s. K. m.27/A). Eski eşiniz yabancıysa tek başınıza başvurabilirsiniz."
         },
         {
-          "baslik": "Tanıma davası",
-          "aciklama": "Birlikte başvuru olmazsa Türkiye'de aile mahkemesinde (MÖHUK m.58)"
+          "baslik": "Tanıma davası açın.",
+          "aciklama": "Birlikte başvuru mümkün değilse, dava Türkiye'de aile mahkemesinde açılır (MÖHUK m.58)."
         }
       ]
     },
     {
       "tip": "adimlar",
-      "soru": "Hazırlayın",
+      "soru": "Hazırlamanız gerekenler:",
       "maddeler": [
         {
-          "baslik": "Kesinleşmiş boşanma kararı"
+          "baslik": "Kesinleşmiş boşanma kararı."
         },
         {
-          "baslik": "Apostil ve yeminli tercüme"
+          "baslik": "Apostil şerhi ve yeminli tercüme."
         },
         {
-          "baslik": "Konsolosluk randevusu",
-          "aciklama": "Lahey, Amsterdam, Rotterdam veya Deventer"
+          "baslik": "Konsolosluk randevusu.",
+          "aciklama": "Lahey, Amsterdam, Rotterdam veya Deventer temsilciliğinden alınabilir."
         }
       ],
-      "kaynak": "Kaynak: 5490 s. K. m.27/A · 5718 s. MÖHUK m.58 · Hollanda tarafı için yerel uzmana danışın."
+      "kaynak": "Kaynak: 5490 sayılı Nüfus Hizmetleri Kanunu m.27/A ve 5718 sayılı MÖHUK m.58. Hollanda tarafındaki işlemler için yerel bir uzmana danışın."
     }
   ],
   "format": "post",

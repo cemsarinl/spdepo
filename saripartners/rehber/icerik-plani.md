@@ -160,3 +160,7 @@ Tasarım (petek motifi, filigran, doku, renkler) aynen korunur. Değişen şey *
 - **Açıklama metni de kısa:** 3–5 satır özet, tek etkileşim çağrısı.
 
 **İstisna: İçtihat Notu (hukukçulara yönelik).** Bu seride ayrıntılı ve teknik anlatım korunur: künye, hüküm, gerekçenin özü, uygulamaya etkisi ve bağlayıcılık ayrı slaytlarda anlatılır (5–6 slayt, ayrıntılı açıklama metni). Kısaltma, genç avukat ve stajyerlerin kararı yanlış anlamasına yol açabilir. Kısa ve vurucu dil yalnızca geniş kitleye yönelik gönderilerde uygulanır.
+
+**Noktalama (kullanıcı kuralı, 15.11.2026):** Cümle sonlarına her zaman nokta konur; virgül ve diğer noktalama işaretleri Türkçe yazım kurallarına göre eksiksiz kullanılır. Cümlenin parçası olmayan süs işaretleri ("→", "≠", gereksiz "·" ayırıcıları) metinde kullanılmaz.
+
+**Öğrenme notu (fırtına gönderisi, 15.11.2026):** İlk sürüm uzun ve kitabi bulundu. Asıl bilgi ("Trafik sigortası ödemez.") büyük ve kalın olmalı; anlatım kısa, tek seferde ve en fazla 3–4 slayt olmalı. Bu not ileriye dönük bir kuraldır; yayınlanmış gönderi yeniden paylaşılmaz.

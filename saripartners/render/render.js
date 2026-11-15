@@ -176,7 +176,7 @@ function slide(s, i, n) {
     case 'adimlar':
       inner = `${s.soru ? `<div class="q">${fmt(s.soru)}</div>` : ''}<div class="steps">${s.maddeler.map(m =>
         `<div>${fmt(m.baslik)}${m.aciklama ? `<small>${fmt(m.aciklama)}</small>` : ''}</div>`).join('')}</div>
-        <div class="src2">${fmt(s.kaynak ? s.kaynak + ' · ' : '')}${fmt(brand.yasal_not)}</div>`; break;
+        <div class="src2">${fmt(s.kaynak ? s.kaynak + ' ' : '')}${fmt(brand.yasal_not)}</div>`; break;
     case 'kapanis':
       inner = `<h2>${fmt(s.baslik)}</h2>${s.govde ? `<p class="body">${fmt(s.govde)}</p>` : ''}
         <p class="note">${fmt(s.not || brand.yasal_not)}</p>`; break;

@@ -8,13 +8,13 @@
     },
     {
       "tip": "vurgu",
-      "soru": "BM Çocuk Haklarına Dair Sözleşme'ye göre",
-      "buyuk": "18 yaşın altındaki\n**HERKES**\nçocuktur"
+      "soru": "BM Çocuk Haklarına Dair Sözleşme'ye göre:",
+      "buyuk": "18 yaşın altındaki\n**HERKES**\nçocuktur."
     },
     {
       "tip": "liste",
       "ust": "Dört temel ilke",
-      "baslik": "Her çocuk için *aynı*",
+      "baslik": "Her çocuk *aynı haklara* sahiptir.",
       "maddeler": [
         "Ayrımcılık yasağı",
         "Çocuğun **üstün yararı**",
@@ -24,8 +24,8 @@
     },
     {
       "tip": "kapanis",
-      "baslik": "Her çocuk,\n*hakların öznesidir*",
-      "not": "Kaynak: BM Çocuk Haklarına Dair Sözleşme m.1, 2, 3, 6, 12. Bu paylaşım genel bilgilendirme amaçlıdır."
+      "baslik": "Her çocuk,\n*hakların öznesidir.*",
+      "not": "Kaynak: BM Çocuk Haklarına Dair Sözleşme m.1, 2, 3, 6 ve 12. Bu paylaşım genel bilgilendirme amaçlıdır."
     }
   ],
   "format": "reel",
