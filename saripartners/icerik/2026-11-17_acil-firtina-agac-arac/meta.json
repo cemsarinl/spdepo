@@ -3,7 +3,7 @@
   "saat": "10:00",
   "tur": "acil",
   "format": "carousel",
-  "durum": "onaylandi",
+  "durum": "yayinlandi",
   "hukukcu_onayi": true,
   "not": "Acil gündem: 18 Kasım lodos uyarısı öncesi. 'Acil onay' gelirse hemen yayınlanır; gelmezse 17 Kasım için onay beklenir (aynı gün 17 Kasım Bu Senin Hakkın Reels'i de var).",
   "alt_text": [
@@ -25,5 +25,8 @@
     "İYUK m.13'teki 30 günlük yanıt süresi ve 1 yıl / 5 yıl süreleri kanun metninden teyit edilmeli.",
     "Standart kaskoda fırtına ve ağaç devrilmesinin ana teminat mı ek teminat mı olduğu poliçeye göre değişebilir; gönderi 'poliçenizi kontrol edin' diyor."
   ],
-  "onay": "Kullanıcı 'acil onay', 15.11.2026"
+  "onay": "Kullanıcı 'acil onay', 15.11.2026",
+  "medya_id": "18113923961612401",
+  "permalink": "https://www.instagram.com/p/DfxdFwRl7ao/",
+  "yayin_zamani": "2026-11-15T18:45:03+0000"
 }
