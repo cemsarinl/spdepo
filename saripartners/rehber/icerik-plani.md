@@ -150,3 +150,11 @@ Görsel dil ve uyum kuralları değişmez (`seri-plani.md` §1, `uyum-kurallari.
 | **7–13 Ara** | Perşembe taramasıyla seçilecek (aday: kira artışı ve yılbaşı) | **Türkiye'ye gelince sağlık hizmeti: GSS ve sosyal güvenlik sözleşmesi** | 10 Ara İnsan Hakları Günü |
 
 Acil Gündem gönderileri bu takvime her an eklenebilir.
+
+## 8. Yazım kuralları (kullanıcı geri bildirimi, 15.11.2026)
+
+Tasarım (petek motifi, filigran, doku, renkler) aynen korunur. Değişen şey **ifade dilidir**:
+- **Kısa ve vurucu yaz.** Kitabi ve uzun cümle yok; her slaytta tek fikir, mümkünse tek cümle.
+- **Asıl çarpıcı bilgi en büyük ve en kalın öğedir.** Örnek: "Trafik sigortası **ÖDEMEZ.**" (`vurgu` slayt tipi).
+- **En fazla 3–4 slayt:** kanca (vurgu), cevap (`cevap` tipi), ne yapmalı (`adimlar` tipi). Kaynak ve yasal not son slaytta küçük yazıyla.
+- **Açıklama metni de kısa:** 3–5 satır özet, tek etkileşim çağrısı.
