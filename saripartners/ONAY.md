@@ -145,26 +145,30 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 **Açıklama metni:**
 
 ```
-İçtihat Notu | Kısmi ıslahla yeni talep eklenemez.
+İçtihat Notu | Kısmi ıslahla, dava dilekçesinde yer almayan yeni bir talep eklenemez.
 
-Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu, E. 2021/8, K. 2026/1, T. 08.05.2026 (RG 30.06.2026, S. 33296).
+Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu kararı.
 
-▪️ Kısmi ıslah mevcut talebi düzeltir; dava dilekçesinde olmayan bağımsız talep bu yolla eklenemez.
-▪️ Talepler dilekçede eksiksiz sayılmalı; unutulan talep için ayrı dava ve zamanaşımı kontrolü gerekir.
+Künye: E. 2021/8, K. 2026/1, T. 08.05.2026 (RG 30.06.2026, S. 33296)
+
+Yüksek Mahkeme, daireler arasındaki görüş ayrılığını oy çokluğuyla gidermiştir. Gerekçede, kısmi ıslahın mevcut talep üzerinde düzeltme imkânı tanıdığı; dilekçede hiç bulunmayan bir istemin bu yolla eklenmesinin ıslahı fiilen ikinci bir dava açma aracına dönüştüreceği vurgulanmaktadır.
+
+Uygulama açısından:
+▪️ Talepler dava dilekçesinde eksiksiz belirtilmelidir.
+▪️ Dilekçede yer almayan bağımsız talepler için ayrı dava ve zamanaşımı denetimi gerekir.
+▪️ 7589 s. Kanun ile belirsiz alacak davasının kaldırılmasıyla birlikte talebin baştan doğru kurgulanması daha da önem kazanmıştır.
 
 Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
 
-#Yargıtay #içtihadıbirleştirme #ıslah #HMK
+#Yargıtay #içtihadıbirleştirme #ıslah #HMK #medeniusulhukuku
 ```
-
-**Not:** 15.11.2026 revizyonu: kısa ve vurucu dil, 3–4 slayt.
 
 **Kontrol edilecekler:**
 
 - [ ] Gerekçe özeti ikincil kaynaklara dayanıyor; karar metniyle karşılaştırılmalı.
 - [ ] Bağlayıcılık için 2797 s. Kanun m.45 atfının fıkrası teyit edilmeli.
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---
 

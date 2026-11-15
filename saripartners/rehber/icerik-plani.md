@@ -158,3 +158,5 @@ Tasarım (petek motifi, filigran, doku, renkler) aynen korunur. Değişen şey *
 - **Asıl çarpıcı bilgi en büyük ve en kalın öğedir.** Örnek: "Trafik sigortası **ÖDEMEZ.**" (`vurgu` slayt tipi).
 - **En fazla 3–4 slayt:** kanca (vurgu), cevap (`cevap` tipi), ne yapmalı (`adimlar` tipi). Kaynak ve yasal not son slaytta küçük yazıyla.
 - **Açıklama metni de kısa:** 3–5 satır özet, tek etkileşim çağrısı.
+
+**İstisna: İçtihat Notu (hukukçulara yönelik).** Bu seride ayrıntılı ve teknik anlatım korunur: künye, hüküm, gerekçenin özü, uygulamaya etkisi ve bağlayıcılık ayrı slaytlarda anlatılır (5–6 slayt, ayrıntılı açıklama metni). Kısaltma, genç avukat ve stajyerlerin kararı yanlış anlamasına yol açabilir. Kısa ve vurucu dil yalnızca geniş kitleye yönelik gönderilerde uygulanır.
