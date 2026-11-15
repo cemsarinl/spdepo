@@ -1,40 +1,45 @@
 {
-  "format": "post",
-  "seri": "ictihat",
-  "tema": "koyu",
   "slaytlar": [
     {
-      "tip": "kapak",
-      "baslik": "Kısmi ıslahla\n*yeni talep eklenemez.*",
-      "alt": "Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu · E. 2021/8 · K. 2026/1 · T. 08.05.2026",
-      "ipucu": "Kaydırın"
+      "tip": "vurgu",
+      "soru": "Yargıtay İBBGK · E. 2021/8 · K. 2026/1",
+      "buyuk": "Kısmi ıslahla\n**yeni talep**\n**eklenemez.**",
+      "sonra": "RG 30.06.2026 · Sayı 33296 →"
     },
     {
-      "tip": "metin",
-      "ust": "Hüküm",
-      "baslik": "Uyuşmazlık *giderildi*",
-      "govde": "Dava dilekçesinde yer almayan **bağımsız bir talebin**, kısmi ıslah yoluyla davaya dahil edilemeyeceğine **oy çokluğuyla** karar verilmiştir.\n\nKarar, 30.06.2026 tarihli ve 33296 sayılı Resmî Gazete'de yayımlanmıştır."
-    },
-    {
-      "tip": "metin",
-      "ust": "Gerekçenin özü",
-      "baslik": "Islah, *ek dava* değildir",
-      "govde": "Kısmi ıslah, mevcut talep üzerinde düzeltme imkânı tanır. Dilekçede hiç bulunmayan bir istemin bu yolla eklenmesi, ıslahın fiilen **ikinci bir dava açma** aracına dönüşmesi anlamına gelir."
-    },
-    {
-      "tip": "liste",
-      "ust": "Uygulamaya etkisi",
-      "baslik": "Dava vekilleri için *notlar*",
-      "maddeler": [
-        "Talepler dava dilekçesinde **eksiksiz** belirtilmeli; sonradan ıslahla tamamlanamaz.",
-        "Dilekçede yer almayan bağımsız talepler için **ayrı dava** ve zamanaşımı denetimi gerekir.",
-        "7589 s. Kanun'la belirsiz alacak davasının kaldırılmasıyla birlikte talebin **baştan doğru kurgulanması** daha da önem kazanmıştır."
+      "tip": "cevap",
+      "soru": "Kararın özü:",
+      "cevaplar": [
+        {
+          "baslik": "Islah ≠ ek dava",
+          "aciklama": "Kısmi ıslah mevcut talebi düzeltir; dilekçede olmayan bağımsız talep eklenemez."
+        },
+        {
+          "baslik": "Bağlayıcı",
+          "aciklama": "İçtihadı birleştirme kararı, oy çokluğuyla (2797 s. K. m.45)."
+        }
       ]
     },
     {
-      "tip": "kapanis",
-      "baslik": "Künye",
-      "govde": "Yargıtay İBBGK, E. 2021/8, K. 2026/1, T. 08.05.2026 · RG 30.06.2026, S. 33296 · İçtihadı birleştirme kararları bağlayıcıdır (2797 s. Yargıtay Kanunu m.45)."
+      "tip": "adimlar",
+      "soru": "Uygulamada:",
+      "maddeler": [
+        {
+          "baslik": "Talepleri dilekçede eksiksiz sayın."
+        },
+        {
+          "baslik": "Unutulan talep: ayrı dava.",
+          "aciklama": "Zamanaşımını ayrıca kontrol edin."
+        },
+        {
+          "baslik": "Belirsiz alacak davası kalktı.",
+          "aciklama": "Talep kurgusu baştan doğru olmalı (7589 s. K.)."
+        }
+      ],
+      "kaynak": "Yargıtay İBBGK, E. 2021/8, K. 2026/1, T. 08.05.2026 · RG 30.06.2026, S. 33296"
     }
-  ]
+  ],
+  "format": "post",
+  "seri": "ictihat",
+  "tema": "koyu"
 }

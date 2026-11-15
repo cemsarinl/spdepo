@@ -3,15 +3,14 @@
   "saat": "10:00",
   "tur": "ozel-gun",
   "format": "reel",
-  "durum": "onaylandi",
-  "hukukcu_onayi": true,
-  "not": "Video sessiz bir ses kanalıyla üretildi. İsterseniz yayından sonra uygulamadan telifsiz müzik eklenebilir.",
+  "durum": "taslak",
+  "hukukcu_onayi": false,
+  "not": "15.11.2026 revizyonu: kısa ve vurucu dil, 3–4 slayt.",
   "kaynaklar": [
     "BM Çocuk Haklarına Dair Sözleşme (UNICEF Türkiye metni)",
     "4058 sayılı Onay Kanunu"
   ],
   "dogrulanacak": [
     "Türkiye'de yürürlük yılı (1995) Resmî Gazete kaydından teyit edilmeli."
-  ],
-  "onay": "Kullanıcı onayı, 14.11.2026"
+  ]
 }

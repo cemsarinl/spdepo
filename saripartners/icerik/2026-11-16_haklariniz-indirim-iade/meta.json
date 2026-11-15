@@ -3,16 +3,8 @@
   "saat": "10:00",
   "tur": "haklariniz",
   "format": "carousel",
-  "durum": "onaylandi",
-  "hukukcu_onayi": true,
-  "alt_text": [
-    "Krem zeminde 'İndirimde aldım, iade edebilir miyim?' başlığı.",
-    "İnternet alışverişinde 14 günlük cayma hakkı ve 14 gün içinde iade.",
-    "İndirim öncesi fiyatın son 30 günün en düşük fiyatı olması kuralı.",
-    "Ayıplı üründe dört seçimlik hak.",
-    "Başvuru adımları: ekran görüntüsü, tutanak, yazılı başvuru, tüketici hakem heyeti.",
-    "Kaynak ve yasal uyarı."
-  ],
+  "durum": "taslak",
+  "hukukcu_onayi": false,
   "kaynaklar": [
     "6502 s. TKHK m.11, 48, 68",
     "Mesafeli Sözleşmeler Yönetmeliği m.9, 13, 15",
@@ -22,5 +14,10 @@
     "30 gün kuralı raf ve fiyat etiketleri için geçerli; reklamlarda Bakanlık kılavuzuyla farklı (10 günlük) bir pencere uygulanıyor olabilir. Gönderi etiket fiyatı üzerinden anlatıyor.",
     "Cayma hakkı istisnaları (Mesafeli Sözleşmeler Yön. m.15) açıklamada genel olarak sayıldı."
   ],
-  "onay": "Kullanıcı onayı, 14.11.2026"
+  "not": "15.11.2026 revizyonu: kısa ve vurucu dil, 3–4 slayt.",
+  "alt_text": [
+    "Krem zeminde 'İndirimde aldınız, pişman mı oldunuz?' ve büyük harflerle 'İade hakkınız: 14 GÜN.'",
+    "Bilmeniz gereken üç madde: para iadesi 14 gün, sahte indirim yasağı, bozuk üründe seçimlik haklar.",
+    "Sorun varsa üç adım: ekran görüntüsü, yazılı başvuru, tüketici hakem heyeti."
+  ]
 }

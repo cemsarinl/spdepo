@@ -34,7 +34,7 @@ def main(bas, son):
         if (d / "meta.json").exists():
             m = json.loads((d / "meta.json").read_text(encoding="utf-8"))
             t = dt.date.fromisoformat(m["tarih"])
-            if b <= t <= s:
+            if b <= t <= s and m.get("durum") != "yayinlandi":
                 items.append((d, m, t))
     for i, (d, m, t) in enumerate(items, 1):
         imgs = sorted(map(str, (d / "gorseller").glob("[0-9][0-9].jpg")))

@@ -3,17 +3,8 @@
   "saat": "10:00",
   "tur": "hollanda",
   "format": "carousel",
-  "durum": "onaylandi",
-  "hukukcu_onayi": true,
-  "alt_text": [
-    "Krem zeminde 'Hollanda'da boşandım. Türkiye'de hâlâ evli miyim?' başlığı.",
-    "Boşanma kararının nüfusa kendiliğinden işlenmediğini anlatan metin.",
-    "İki yol: konsolosluk yoluyla tescil ve tanıma davası.",
-    "Eski eş yabancıysa tek başına başvuru.",
-    "Hollanda'dan hazırlanacak belgelerin listesi.",
-    "Tescilin sonucu.",
-    "Kaynak ve yasal uyarı."
-  ],
+  "durum": "taslak",
+  "hukukcu_onayi": false,
   "kaynaklar": [
     "5490 s. Nüfus Hizmetleri K. m.27/A",
     "5718 s. MÖHUK m.58",
@@ -24,5 +15,10 @@
     "m.27/A başvurusunda konsoloslukların istediği belge listesi (apostil ve tercüme şekli) Lahey Büyükelçiliği uygulamasıyla teyit edilmeli.",
     "Felemenkçe özet bir Felemenkçe bilen tarafından okunmalı."
   ],
-  "onay": "Kullanıcı onayı, 14.11.2026"
+  "not": "15.11.2026 revizyonu: kısa ve vurucu dil, 3–4 slayt.",
+  "alt_text": [
+    "Krem zeminde 'Hollanda'da boşandınız mı?' ve büyük harflerle 'Türkiye'de hâlâ EVLİ görünüyor olabilirsiniz.'",
+    "İki yol: konsolosluk ve tanıma davası.",
+    "Hazırlanacaklar: kesinleşmiş karar, apostil ve tercüme, konsolosluk randevusu."
+  ]
 }

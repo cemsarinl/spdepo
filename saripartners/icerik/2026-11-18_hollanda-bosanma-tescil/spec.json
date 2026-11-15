@@ -1,62 +1,43 @@
 {
-  "format": "post",
-  "seri": "hollanda",
   "slaytlar": [
     {
-      "tip": "kapak",
-      "baslik": "Hollanda'da boşandım.\n*Türkiye'de hâlâ evli miyim?*",
-      "alt": "Hollanda'daki boşanma kararının Türkiye'de nüfusa işlenmesi.",
-      "ipucu": "Kaydırın"
+      "tip": "vurgu",
+      "soru": "Hollanda'da boşandınız mı?",
+      "buyuk": "Türkiye'de hâlâ\n**EVLİ** görünüyor\nolabilirsiniz.",
+      "sonra": "Karar nüfusa kendiliğinden işlenmez. →"
     },
     {
-      "tip": "metin",
-      "ust": "Durum",
-      "baslik": "Karar *kendiliğinden* işlenmez",
-      "govde": "Hollanda'da verilen boşanma kararı, Türkiye'deki nüfus kaydına kendiliğinden işlenmez. Kayıt düzeltilmedikçe Türkiye'de **evli görünmeye devam edersiniz**.\n\nBu durum yeniden evlenme, miras ve mal paylaşımında sorun çıkarabilir."
-    },
-    {
-      "tip": "liste",
-      "ust": "Hakkınız",
-      "baslik": "İki *yol* var",
-      "kartlar": [
+      "tip": "cevap",
+      "soru": "Çözüm: iki yol",
+      "cevaplar": [
         {
-          "baslik": "1 · Konsolosluk yoluyla tescil",
-          "govde": "Dava açmadan, idari yoldan (5490 s. K. m.27/A). Eşler **birlikte**, bizzat veya vekil aracılığıyla başvurur."
+          "baslik": "Konsolosluk",
+          "aciklama": "Dava açmadan, eşlerle birlikte başvuru (5490 s. K. m.27/A). Eski eş yabancıysa tek başınıza."
         },
         {
-          "baslik": "2 · Tanıma davası",
-          "govde": "Birlikte başvuru mümkün değilse veya tescil reddedilirse Türkiye'de **aile mahkemesinde** tanıma davası açılır (MÖHUK m.58)."
+          "baslik": "Tanıma davası",
+          "aciklama": "Birlikte başvuru olmazsa Türkiye'de aile mahkemesinde (MÖHUK m.58)."
         }
       ]
     },
     {
-      "tip": "metin",
-      "ust": "Bilmeniz gereken",
-      "baslik": "Eski eşiniz *yabancıysa*",
-      "govde": "Eski eşiniz Türk vatandaşı değilse veya vefat etmişse, Türk vatandaşı olan eş konsolosluğa **tek başına** başvurabilir."
-    },
-    {
-      "tip": "liste",
-      "ust": "Hollanda'dan adım adım",
-      "baslik": "Belgeleri *hazırlayın*",
+      "tip": "adimlar",
+      "soru": "Hazırlayın:",
       "maddeler": [
-        "Boşanma kararının aslı veya onaylı sureti ve **kesinleştiğini** gösteren belge",
-        "Belgelerin **apostil** şerhi ve **yeminli tercümesi**",
-        "Vekil kullanacaksanız **konsoloslukta** düzenlenmiş vekaletname",
-        "Lahey, Amsterdam, Rotterdam veya Deventer temsilciliğinden **randevu**"
-      ]
-    },
-    {
-      "tip": "metin",
-      "ust": "Sonuç",
-      "baslik": "Tescilden *sonra*",
-      "govde": "Yabancı kararın **kesinleşme tarihi**, boşanma tarihi olarak aile kütüğüne işlenir. Türkiye'deki kaydınız Hollanda'daki durumunuzla uyumlu hâle gelir."
-    },
-    {
-      "tip": "kapanis",
-      "baslik": "Kaynak",
-      "govde": "5490 sayılı Nüfus Hizmetleri Kanunu m.27/A · 5718 sayılı MÖHUK m.58",
-      "not": "Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz. Hollanda tarafındaki işlemler için yerel bir uzmana danışın."
+        {
+          "baslik": "Kesinleşmiş boşanma kararı."
+        },
+        {
+          "baslik": "Apostil ve yeminli tercüme."
+        },
+        {
+          "baslik": "Konsolosluk randevusu.",
+          "aciklama": "Lahey, Amsterdam, Rotterdam veya Deventer."
+        }
+      ],
+      "kaynak": "Kaynak: 5490 s. K. m.27/A · 5718 s. MÖHUK m.58 · Hollanda tarafı için yerel uzmana danışın."
     }
-  ]
+  ],
+  "format": "post",
+  "seri": "hollanda"
 }

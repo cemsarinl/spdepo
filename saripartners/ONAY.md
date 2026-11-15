@@ -1,53 +1,86 @@
-# Onay paketi: 16 Kasım Pazartesi – 22 Kasım Pazar
+# Onay paketi: 15 Kasım Pazar – 22 Kasım Pazar
 
 Onaylamak için sohbete gönderilerin tarihlerini yazmanız yeterli, örneğin **"16, 17 ve 18 Kasım'ı onaylıyorum"**. Düzeltme isterseniz tarihi ve değişikliği yazın. Onaylanan gönderiler planlanan gün sabah 09:50'de yayınlanır.
 
 | # | Tarih | Seri | Format | Önizleme |
 |---|---|---|---|---|
-| 1 | 16 Kasım Pazartesi 10:00 | Haftanın Gündemi · Haklarınız | Kaydırmalı | [önizleme](onay/01_2026-11-16_haklariniz-indirim-iade.jpg) |
-| 2 | 17 Kasım Salı 10:00 | Bu Senin Hakkın | Reels | [önizleme](onay/02_2026-11-17_repost-akran-zorbaligi.jpg) |
-| 3 | 18 Kasım Çarşamba 10:00 | Hollanda'daki Türkler | Kaydırmalı | [önizleme](onay/03_2026-11-18_hollanda-bosanma-tescil.jpg) |
-| 4 | 19 Kasım Perşembe 10:00 | İçtihat Notu | Kaydırmalı | [önizleme](onay/04_2026-11-19_ictihat-kismi-islah.jpg) |
-| 5 | 20 Kasım Cuma 10:00 | Özel Günler | Reels | [önizleme](onay/05_2026-11-20_cocuk-haklari.jpg) |
+| 1 | 16 Kasım Pazartesi 10:00 | Acil Gündem | Kaydırmalı | [önizleme](onay/01_2026-11-15_acil-firtina-v2.jpg) |
+| 2 | 16 Kasım Pazartesi 10:00 | Haftanın Gündemi · Haklarınız | Kaydırmalı | [önizleme](onay/02_2026-11-16_haklariniz-indirim-iade.jpg) |
+| 3 | 17 Kasım Salı 10:00 | Bu Senin Hakkın | Reels | [önizleme](onay/03_2026-11-17_repost-akran-zorbaligi.jpg) |
+| 4 | 18 Kasım Çarşamba 10:00 | Hollanda'daki Türkler | Kaydırmalı | [önizleme](onay/04_2026-11-18_hollanda-bosanma-tescil.jpg) |
+| 5 | 19 Kasım Perşembe 10:00 | İçtihat Notu | Kaydırmalı | [önizleme](onay/05_2026-11-19_ictihat-kismi-islah.jpg) |
+| 6 | 20 Kasım Cuma 10:00 | Özel Günler | Reels | [önizleme](onay/06_2026-11-20_cocuk-haklari.jpg) |
 
 
-## 1. 16 Kasım Pazartesi · Haftanın Gündemi · Haklarınız · Kaydırmalı
+## 1. 16 Kasım Pazartesi · Acil Gündem · Kaydırmalı
 
-![2026-11-16_haklariniz-indirim-iade](onay/01_2026-11-16_haklariniz-indirim-iade.jpg)
+![2026-11-15_acil-firtina-v2](onay/01_2026-11-15_acil-firtina-v2.jpg)
 
 **Açıklama metni:**
 
 ```
-İndirimde aldığınız ürünü iade edebilir misiniz? Evet, çoğu durumda. 🛍️
+Fırtınada aracınıza ağaç devrildiyse: trafik sigortası ödemez. 🌳🚗
 
-Kasım indirimlerinde en çok sorulan sorulara kısa yanıtlar:
+Kim öder?
+1️⃣ Kaskonuz (fırtına teminatı varsa)
+2️⃣ Belediye (ağaç bakımsızsa, hizmet kusuru)
 
-📦 İnternetten aldıysanız: teslimden itibaren 14 gün içinde gerekçe göstermeden cayma hakkınız var. Satıcı, bildiriminiz ulaştıktan sonra 14 gün içinde paranızı iade etmek zorunda.
-🏷️ İndirim gerçek olmalı: önceki fiyat, indirimden önceki 30 gün içindeki en düşük fiyattır.
-🔧 Ürün ayıplıysa: onarım, değişim, bedelde indirim veya iade arasında seçim yapabilirsiniz.
+📸 Fotoğraflayın, tutanak tutturun, 1 yıl içinde belediyeye yazılı başvurun.
 
-⚠️ Cayma hakkının istisnaları var: kişiye özel üretilen ürünler, çabuk bozulan ürünler ve ambalajı açılmış hijyen ürünleri gibi.
+İstanbul'da 18 Kasım'dan itibaren yeniden kuvvetli lodos bekleniyor. Aracını sokakta park eden birine gönderin.
 
-Kaydedin; alışverişten önce bir kez daha bakın.
-
-Kaynak: 6502 s. TKHK m.11, 48, 68 · Mesafeli Sözleşmeler Yönetmeliği · Fiyat Etiketi Yönetmeliği
+Kaynak: 2577 s. İYUK m.13
 Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
 
-#tüketicihakları #caymahakkı #indirim #iade #haklarınız
+#lodos #fırtına #kasko #haklarınız
 ```
+
+**Not:** İlk sürümün (15.11.2026, 6 slayt) yerine sade ve vurucu 3 slaytlık yeni tasarım.
+
+**Kontrol edilecekler:**
+
+- [ ] İYUK m.13'teki 30 günlük yanıt süresi ve 1 yıl / 5 yıl süreleri kanun metninden teyit edilmeli.
+- [ ] Standart kaskoda fırtına ve ağaç devrilmesinin ana teminat mı ek teminat mı olduğu poliçeye göre değişebilir; gönderi 'poliçenizi kontrol edin' diyor.
+
+**Durum:** ⏳ Onay bekliyor
+
+---
+
+## 2. 16 Kasım Pazartesi · Haftanın Gündemi · Haklarınız · Kaydırmalı
+
+![2026-11-16_haklariniz-indirim-iade](onay/02_2026-11-16_haklariniz-indirim-iade.jpg)
+
+**Açıklama metni:**
+
+```
+İndirimde aldığınız ürünü iade edebilirsiniz: internetten aldıysanız 14 gün içinde, gerekçe göstermeden. 🛍️
+
+💸 Paranız 14 günde iade edilmeli.
+🏷️ Eski fiyat = son 30 günün en düşük fiyatı.
+🔧 Ürün bozuksa onarım, değişim, indirim veya iade.
+
+Alışverişe çıkmadan kaydedin.
+
+Kaynak: 6502 s. TKHK m.11, 48 · Mesafeli Sözleşmeler Yönetmeliği · Fiyat Etiketi Yönetmeliği
+Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
+
+#tüketicihakları #caymahakkı #indirim #iade
+```
+
+**Not:** 15.11.2026 revizyonu: kısa ve vurucu dil, 3–4 slayt.
 
 **Kontrol edilecekler:**
 
 - [ ] 30 gün kuralı raf ve fiyat etiketleri için geçerli; reklamlarda Bakanlık kılavuzuyla farklı (10 günlük) bir pencere uygulanıyor olabilir. Gönderi etiket fiyatı üzerinden anlatıyor.
 - [ ] Cayma hakkı istisnaları (Mesafeli Sözleşmeler Yön. m.15) açıklamada genel olarak sayıldı.
 
-**Durum:** ✅ Onaylandı
+**Durum:** ⏳ Onay bekliyor
 
 ---
 
-## 2. 17 Kasım Salı · Bu Senin Hakkın · Reels
+## 3. 17 Kasım Salı · Bu Senin Hakkın · Reels
 
-![2026-11-17_repost-akran-zorbaligi](onay/02_2026-11-17_repost-akran-zorbaligi.jpg)
+![2026-11-17_repost-akran-zorbaligi](onay/03_2026-11-17_repost-akran-zorbaligi.jpg)
 
 **Açıklama metni:**
 
@@ -71,105 +104,93 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 
 ---
 
-## 3. 18 Kasım Çarşamba · Hollanda'daki Türkler · Kaydırmalı
+## 4. 18 Kasım Çarşamba · Hollanda'daki Türkler · Kaydırmalı
 
-![2026-11-18_hollanda-bosanma-tescil](onay/03_2026-11-18_hollanda-bosanma-tescil.jpg)
+![2026-11-18_hollanda-bosanma-tescil](onay/04_2026-11-18_hollanda-bosanma-tescil.jpg)
 
 **Açıklama metni:**
 
 ```
-Hollanda'da boşandınız ama Türkiye'de hâlâ evli mi görünüyorsunuz? 🇳🇱🇹🇷
+Hollanda'da boşandınız ama Türkiye'de hâlâ evli görünüyor olabilirsiniz. 🇳🇱🇹🇷
 
-Hollanda'da verilen boşanma kararı, Türkiye'deki nüfus kaydına kendiliğinden işlenmez. Bunun iki yolu var:
+Karar nüfusa kendiliğinden işlenmez. İki yol var:
+1️⃣ Konsolosluk: dava açmadan, eşlerle birlikte başvuru (eski eş yabancıysa tek başınıza).
+2️⃣ Tanıma davası: Türkiye'de aile mahkemesinde.
 
-1️⃣ Konsolosluk veya nüfus müdürlüğü üzerinden, dava açmadan tescil (5490 s. K. m.27/A). Eşler birlikte, bizzat ya da vekil aracılığıyla başvurur. Eski eş yabancıysa veya vefat etmişse Türk vatandaşı eş tek başına başvurabilir.
-2️⃣ Birlikte başvuru mümkün değilse, Türkiye'de aile mahkemesinde tanıma davası (MÖHUK m.58).
+İhtiyacı olan birine gönderin.
 
-📄 Hazırlanacaklar: kesinleşmiş boşanma kararı, apostil, yeminli tercüme, gerekirse konsoloslukta düzenlenmiş vekaletname.
+🇳🇱 Een Nederlandse echtscheiding wordt niet automatisch in het Turkse register verwerkt. Registratie kan zonder rechtszaak via het Turkse consulaat, anders via een erkenningsprocedure bij de Turkse familierechtbank.
 
-Bu bilgiye ihtiyacı olabilecek biriyle paylaşın.
+Kaynak: 5490 s. K. m.27/A · 5718 s. MÖHUK m.58
+Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
 
-🇳🇱 Samenvatting: Een echtscheiding die in Nederland is uitgesproken, wordt niet automatisch in het Turkse bevolkingsregister verwerkt. Dit kan zonder rechtszaak via het Turkse consulaat (art. 27/A Wet Bevolkingsdiensten). Lukt dat niet, dan volgt een erkenningsprocedure bij de Turkse familierechtbank.
-
-Kaynak: 5490 s. Nüfus Hizmetleri K. m.27/A · 5718 s. MÖHUK m.58
-Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz. Hollanda tarafındaki işlemler için yerel bir uzmana danışın.
-
-#HollandadakiTürkler #boşanma #tanıma #nüfus #konsolosluk
+#HollandadakiTürkler #boşanma #konsolosluk #nüfus
 ```
+
+**Not:** 15.11.2026 revizyonu: kısa ve vurucu dil, 3–4 slayt.
 
 **Kontrol edilecekler:**
 
 - [ ] m.27/A başvurusunda konsoloslukların istediği belge listesi (apostil ve tercüme şekli) Lahey Büyükelçiliği uygulamasıyla teyit edilmeli.
 - [ ] Felemenkçe özet bir Felemenkçe bilen tarafından okunmalı.
 
-**Durum:** ✅ Onaylandı
+**Durum:** ⏳ Onay bekliyor
 
 ---
 
-## 4. 19 Kasım Perşembe · İçtihat Notu · Kaydırmalı
+## 5. 19 Kasım Perşembe · İçtihat Notu · Kaydırmalı
 
-![2026-11-19_ictihat-kismi-islah](onay/04_2026-11-19_ictihat-kismi-islah.jpg)
+![2026-11-19_ictihat-kismi-islah](onay/05_2026-11-19_ictihat-kismi-islah.jpg)
 
 **Açıklama metni:**
 
 ```
-İçtihat Notu | Kısmi ıslahla, dava dilekçesinde yer almayan yeni bir talep eklenemez.
+İçtihat Notu | Kısmi ıslahla yeni talep eklenemez.
 
-Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu kararı.
+Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu, E. 2021/8, K. 2026/1, T. 08.05.2026 (RG 30.06.2026, S. 33296).
 
-Künye: E. 2021/8, K. 2026/1, T. 08.05.2026 (RG 30.06.2026, S. 33296)
-
-Yüksek Mahkeme, daireler arasındaki görüş ayrılığını oy çokluğuyla gidermiştir. Gerekçede, kısmi ıslahın mevcut talep üzerinde düzeltme imkânı tanıdığı; dilekçede hiç bulunmayan bir istemin bu yolla eklenmesinin ıslahı fiilen ikinci bir dava açma aracına dönüştüreceği vurgulanmaktadır.
-
-Uygulama açısından:
-▪️ Talepler dava dilekçesinde eksiksiz belirtilmelidir.
-▪️ Dilekçede yer almayan bağımsız talepler için ayrı dava ve zamanaşımı denetimi gerekir.
-▪️ 7589 s. Kanun ile belirsiz alacak davasının kaldırılmasıyla birlikte talebin baştan doğru kurgulanması daha da önem kazanmıştır.
+▪️ Kısmi ıslah mevcut talebi düzeltir; dava dilekçesinde olmayan bağımsız talep bu yolla eklenemez.
+▪️ Talepler dilekçede eksiksiz sayılmalı; unutulan talep için ayrı dava ve zamanaşımı kontrolü gerekir.
 
 Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
 
-#Yargıtay #içtihadıbirleştirme #ıslah #HMK #medeniusulhukuku
+#Yargıtay #içtihadıbirleştirme #ıslah #HMK
 ```
+
+**Not:** 15.11.2026 revizyonu: kısa ve vurucu dil, 3–4 slayt.
 
 **Kontrol edilecekler:**
 
 - [ ] Gerekçe özeti ikincil kaynaklara dayanıyor; karar metniyle karşılaştırılmalı.
 - [ ] Bağlayıcılık için 2797 s. Kanun m.45 atfının fıkrası teyit edilmeli.
 
-**Durum:** ✅ Onaylandı
+**Durum:** ⏳ Onay bekliyor
 
 ---
 
-## 5. 20 Kasım Cuma · Özel Günler · Reels
+## 6. 20 Kasım Cuma · Özel Günler · Reels
 
-![2026-11-20_cocuk-haklari](onay/05_2026-11-20_cocuk-haklari.jpg)
+![2026-11-20_cocuk-haklari](onay/06_2026-11-20_cocuk-haklari.jpg)
 
 **Açıklama metni:**
 
 ```
 20 Kasım Dünya Çocuk Hakları Günü 🧒
 
-BM Çocuk Haklarına Dair Sözleşme 20 Kasım 1989'da kabul edildi. Bugün dünyada en çok taraf olunan insan hakları sözleşmelerinden biri.
-
-Sözleşmenin dört temel ilkesi:
-1️⃣ Ayrımcılık yasağı
-2️⃣ Çocuğun üstün yararı
-3️⃣ Yaşama ve gelişme hakkı
-4️⃣ Çocuğun görüşlerine saygı
+18 yaşın altındaki herkes çocuktur ve dört temel ilkeyle korunur: ayrımcılık yasağı, çocuğun üstün yararı, yaşama ve gelişme hakkı, görüşlerine saygı.
 
 Her çocuk, hakların öznesidir.
 
-Bu paylaşım genel bilgilendirme amaçlıdır.
-
-#DünyaÇocukHaklarıGünü #20Kasım #çocukhakları #insanhakları
+Kaynak: BM Çocuk Haklarına Dair Sözleşme
+#DünyaÇocukHaklarıGünü #20Kasım #çocukhakları
 ```
 
-**Not:** Video sessiz bir ses kanalıyla üretildi. İsterseniz yayından sonra uygulamadan telifsiz müzik eklenebilir.
+**Not:** 15.11.2026 revizyonu: kısa ve vurucu dil, 3–4 slayt.
 
 **Kontrol edilecekler:**
 
 - [ ] Türkiye'de yürürlük yılı (1995) Resmî Gazete kaydından teyit edilmeli.
 
-**Durum:** ✅ Onaylandı
+**Durum:** ⏳ Onay bekliyor
 
 ---
