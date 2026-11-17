@@ -3,7 +3,7 @@
   "saat": "anlık",
   "tur": "acil",
   "format": "carousel",
-  "durum": "onaylandi",
+  "durum": "yayinlandi",
   "hukukcu_onayi": true,
   "alt_text": [
     "Antrasit zeminde 'Aracınız sel suyunda mı kaldı?' ve büyük harflerle 'Motoru ÇALIŞTIRMAYIN.'",
@@ -20,5 +20,8 @@
     "Sel ve su baskını kaskoda genellikle ek teminattır; gönderi 'poliçenizde varsa' diyor.",
     "İYUK m.13 süreleri ikincil kaynaklardan teyit edildi."
   ],
-  "onay": "Kullanıcı 'acil onay', 17.11.2026"
+  "onay": "Kullanıcı 'acil onay', 17.11.2026",
+  "medya_id": "18154710853543907",
+  "permalink": "https://www.instagram.com/p/Df1ODm6F2JT/",
+  "yayin_zamani": "2026-11-17T05:50:38+0000"
 }
