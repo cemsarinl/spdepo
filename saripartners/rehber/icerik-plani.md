@@ -164,3 +164,8 @@ Tasarım (petek motifi, filigran, doku, renkler) aynen korunur. Değişen şey *
 **Noktalama (kullanıcı kuralı, 15.11.2026):** Cümle sonlarına her zaman nokta konur; virgül ve diğer noktalama işaretleri Türkçe yazım kurallarına göre eksiksiz kullanılır. Cümlenin parçası olmayan süs işaretleri ("→", "≠", gereksiz "·" ayırıcıları) metinde kullanılmaz.
 
 **Öğrenme notu (fırtına gönderisi, 15.11.2026):** İlk sürüm uzun ve kitabi bulundu. Asıl bilgi ("Trafik sigortası ödemez.") büyük ve kalın olmalı; anlatım kısa, tek seferde ve en fazla 3–4 slayt olmalı. Bu not ileriye dönük bir kuraldır; yayınlanmış gönderi yeniden paylaşılmaz.
+
+**UltraLaw ile doğrulama (17.11.2026):** Her hukuki bilgi yayından önce büronun UltraLaw kaynaklarıyla doğrulanır:
+- **Karar künyeleri ve gerekçe:** UltraLaw karar deposu (Yargıtay, Danıştay, AYM, UYAP Emsal, kurul kararları). Künye doğrulanır, karar metni açılır; gönderideki gerekçe karar metninden alınır, doktrin görüşü kararın gerekçesi gibi sunulmaz.
+- **Kanun maddesi, süre, oran ve Resmî Gazete:** UltraLaw mevzuat ve Resmî Gazete araçları. Bu araçlar ile siteler üzerinde canlı arama ve Lexpera, Lebib Yalkın, Sinerji bankaları, büroda UltraLaw'ın açık olduğu bir bilgisayar gerektirir. Bilgisayar açık değilse ikincil kaynaklarla doğrulanır ve bu durum onay paketinde belirtilir.
+- Büronun müvekkil, dosya ve mali kayıtları bu iş için kullanılmaz.
