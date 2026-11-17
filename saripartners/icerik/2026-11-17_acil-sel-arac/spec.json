@@ -1,0 +1,45 @@
+{
+  "format": "post",
+  "seri": "acil",
+  "tema": "koyu",
+  "slaytlar": [
+    {
+      "tip": "vurgu",
+      "soru": "Aracınız sel suyunda mı kaldı?",
+      "buyuk": "Motoru\n**ÇALIŞTIRMAYIN.**",
+      "sonra": "Motoru çalıştırmak hasarı büyütebilir ve sigorta sürecini zorlaştırabilir."
+    },
+    {
+      "tip": "cevap",
+      "soru": "Zararı kim öder?",
+      "cevaplar": [
+        {
+          "baslik": "Kaskonuz.",
+          "aciklama": "Poliçenizde sel ve su baskını teminatı varsa."
+        },
+        {
+          "baslik": "Belediye veya su idaresi.",
+          "aciklama": "Altyapı yetersizse veya kanallar temizlenmemişse hizmet kusuru söz konusu olabilir."
+        }
+      ]
+    },
+    {
+      "tip": "adimlar",
+      "soru": "Hemen yapın:",
+      "maddeler": [
+        {
+          "baslik": "Fotoğraf ve video çekin.",
+          "aciklama": "Suyun yüksekliği görünecek şekilde."
+        },
+        {
+          "baslik": "Sigortanıza ve belediyeye bildirin."
+        },
+        {
+          "baslik": "1 yıl içinde idareye yazılı başvurun.",
+          "aciklama": "Yanıt gelmezse 30 gün, ardından 60 gün içinde idare mahkemesine başvurulabilir."
+        }
+      ],
+      "kaynak": "Kaynak: 2577 sayılı İYUK m.2/1-b ve m.13, Kasko Genel Şartları."
+    }
+  ]
+}

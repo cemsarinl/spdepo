@@ -1,0 +1,23 @@
+{
+  "tarih": "2026-11-17",
+  "saat": "anlık",
+  "tur": "acil",
+  "format": "carousel",
+  "durum": "taslak",
+  "hukukcu_onayi": false,
+  "alt_text": [
+    "Antrasit zeminde 'Aracınız sel suyunda mı kaldı?' ve büyük harflerle 'Motoru ÇALIŞTIRMAYIN.'",
+    "Zararı kim öder: 1. Kaskonuz, 2. Belediye veya su idaresi.",
+    "Hemen yapın: fotoğraf ve video, bildirim, 1 yıl içinde idareye başvuru."
+  ],
+  "kaynaklar": [
+    "https://www.aydinlik.com.tr/haber/meteoroloji-17-kasimda-13-ili-sari-kodla-uyardi-istanbul-bursa-izmir-ve-5-gunluk-hava-durumu-599269",
+    "https://www.politikam.com/istanbulda-17-kasim-icin-kuvvetli-saganak-uyarisi-21-50-kgm2-yagis-bekleniyor-ani-sel-ve-su-baskini-riski-var",
+    "https://www.kazimceylan.av.tr/md/sel-durumunda-idareden-tazminat-yolu",
+    "https://oner.av.tr/selden-zarar-goren-araclar/"
+  ],
+  "dogrulanacak": [
+    "Sel ve su baskını kaskoda genellikle ek teminattır; gönderi 'poliçenizde varsa' diyor.",
+    "İYUK m.13 süreleri ikincil kaynaklardan teyit edildi."
+  ]
+}
