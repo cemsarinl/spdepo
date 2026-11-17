@@ -3,8 +3,8 @@
   "saat": "anlık",
   "tur": "acil",
   "format": "carousel",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "alt_text": [
     "Antrasit zeminde 'Aracınız sel suyunda mı kaldı?' ve büyük harflerle 'Motoru ÇALIŞTIRMAYIN.'",
     "Zararı kim öder: 1. Kaskonuz, 2. Belediye veya su idaresi.",
@@ -19,5 +19,6 @@
   "dogrulanacak": [
     "Sel ve su baskını kaskoda genellikle ek teminattır; gönderi 'poliçenizde varsa' diyor.",
     "İYUK m.13 süreleri ikincil kaynaklardan teyit edildi."
-  ]
+  ],
+  "onay": "Kullanıcı 'acil onay', 17.11.2026"
 }
