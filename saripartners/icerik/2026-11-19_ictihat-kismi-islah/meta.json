@@ -3,7 +3,7 @@
   "saat": "10:00",
   "tur": "ictihat",
   "format": "carousel",
-  "durum": "onaylandi",
+  "durum": "yayinlandi",
   "hukukcu_onayi": true,
   "alt_text": [
     "Antrasit zeminde 'Kısmi ıslahla yeni talep eklenemez.' başlığı ve karar künyesi.",
@@ -22,5 +22,8 @@
     "Künye, hüküm, oy çokluğu ve Resmî Gazete bilgisi UltraLaw deposunda karar metninden doğrulandı (17.11.2026). Gerekçe slaytı karar metnine göre düzeltildi.",
     "Uygulama notlarındaki 7589 s. Kanun yorumu büronun değerlendirmesidir; karar metninde geçmez."
   ],
-  "onay": "Kullanıcı onayı (düzeltilmiş gerekçe), 19.11.2026"
+  "onay": "Kullanıcı onayı (düzeltilmiş gerekçe), 19.11.2026",
+  "medya_id": "18140337976632727",
+  "permalink": "https://www.instagram.com/p/Df7vRGwF9Pq/",
+  "yayin_zamani": "2026-11-19T18:36:12+0000"
 }
