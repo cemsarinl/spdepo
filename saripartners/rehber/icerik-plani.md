@@ -169,3 +169,8 @@ Tasarım (petek motifi, filigran, doku, renkler) aynen korunur. Değişen şey *
 - **Karar künyeleri ve gerekçe:** UltraLaw karar deposu (Yargıtay, Danıştay, AYM, UYAP Emsal, kurul kararları). Künye doğrulanır, karar metni açılır; gönderideki gerekçe karar metninden alınır, doktrin görüşü kararın gerekçesi gibi sunulmaz.
 - **Kanun maddesi, süre, oran ve Resmî Gazete:** UltraLaw mevzuat ve Resmî Gazete araçları. Bu araçlar ile siteler üzerinde canlı arama ve Lexpera, Lebib Yalkın, Sinerji bankaları, büroda UltraLaw'ın açık olduğu bir bilgisayar gerektirir. Bilgisayar açık değilse ikincil kaynaklarla doğrulanır ve bu durum onay paketinde belirtilir.
 - Büronun müvekkil, dosya ve mali kayıtları bu iş için kullanılmaz.
+
+**İlk hafta verisine göre kararlar (kullanıcı onayı, 19.11.2026):**
+- **Hareketli Reels:** 8 saniyelik sabit kart Reels'i zayıf kaldı (ortalama izlenme 2,5 sn). Bunun yerine her kaydırmalı gönderinin slaytlarını sırayla gösteren 15–20 saniyelik Reels üretilir (`render/make_reel.py`, `format: "reel"` ile çizilmiş slaytlar). "Bu Senin Hakkın" duyurusu da en az 3 kareden oluşur: kanca, gönderi kartı, yönlendirme.
+- **Güncel olaya bağlı içerik:** En çok erişimi Acil Gündem gönderileri aldı. Her hafta en az bir gönderi güncel bir olaya bağlanır.
+- **Ortak gönderi:** @buseninhakkin'de video paylaşılırken @saripartners ortak çalışan olarak eklenir (kullanıcı yapar); haftalık pakette hatırlatılır.
