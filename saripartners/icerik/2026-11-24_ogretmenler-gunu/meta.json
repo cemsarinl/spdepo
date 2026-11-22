@@ -3,7 +3,10 @@
   "saat": "09:30",
   "tur": "ozel-gun",
   "format": "tek-gorsel",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
-  "alt_text": ["Krem zemin üzerinde '24 Kasım Öğretmenler Günü' yazısı ve kutlama mesajı."]
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
+  "alt_text": [
+    "Krem zemin üzerinde '24 Kasım Öğretmenler Günü' yazısı ve kutlama mesajı."
+  ],
+  "onay": "Kullanıcı onayı (haftalık paket), 22.11.2026"
 }

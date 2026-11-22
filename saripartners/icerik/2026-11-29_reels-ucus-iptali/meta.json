@@ -1,7 +1,7 @@
 {
   "saat": "10:00",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "kaynaklar": [
     "SHY-YOLCU (RG 10.12.2024, S. 32748 ile değişik m.8)",
     "https://halilbakirci.av.tr/ucus-iptali-tazminat/",
@@ -14,5 +14,6 @@
   ],
   "tarih": "2026-11-29",
   "tur": "haklariniz",
-  "format": "reel"
+  "format": "reel",
+  "onay": "Kullanıcı onayı (haftalık paket), 22.11.2026"
 }

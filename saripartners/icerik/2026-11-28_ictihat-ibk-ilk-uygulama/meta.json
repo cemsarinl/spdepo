@@ -1,7 +1,7 @@
 {
   "saat": "10:00",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "tarih": "2026-11-28",
   "tur": "ictihat",
   "format": "carousel",
@@ -20,5 +20,6 @@
   "dogrulanacak": [
     "Künye, olay, gerekçe (26–27. paragraflar), bağlayıcılık (22–23. paragraflar) ve hüküm UltraLaw deposunda karar metninden doğrulandı (22.11.2026).",
     "Son uygulama notu büronun değerlendirmesidir; kararda geçmez."
-  ]
+  ],
+  "onay": "Kullanıcı onayı (haftalık paket), 22.11.2026"
 }

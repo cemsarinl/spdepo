@@ -1,7 +1,7 @@
 {
   "saat": "10:00",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "kaynaklar": [
     "SHY-YOLCU (RG 10.12.2024, S. 32748 ile değişik m.8)",
     "https://halilbakirci.av.tr/ucus-iptali-tazminat/",
@@ -20,5 +20,6 @@
     "Havayolunun sağlaması gerekenler: iade veya yeni uçuş, ikram, konaklama.",
     "Tazminatın ne zaman ödendiği ve tutarları.",
     "Ne yapmalı: bildirimi saklama, yazılı başvuru, tüketici hakem heyeti."
-  ]
+  ],
+  "onay": "Kullanıcı onayı (haftalık paket), 22.11.2026"
 }

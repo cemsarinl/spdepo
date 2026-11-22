@@ -3,8 +3,8 @@
   "saat": "10:00",
   "tur": "repost",
   "format": "reel",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "kanca": "\"İade yoktur\" mu?\\n*Vazgeçmeyin.*",
   "kaynak_medya_id": "18100788884439058",
   "kaynak_permalink": "https://www.instagram.com/reel/DfzC2iEIhPr/",
@@ -14,5 +14,6 @@
   ],
   "dogrulanacak": [
     "Kanca metni videonun içeriğiyle örtüşüyor mu?"
-  ]
+  ],
+  "onay": "Kullanıcı onayı (haftalık paket), 22.11.2026"
 }

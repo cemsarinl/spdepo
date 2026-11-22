@@ -1,7 +1,7 @@
 {
   "saat": "10:00",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "tarih": "2026-11-25",
   "tur": "ozel-gun",
   "format": "reel",
@@ -11,5 +11,6 @@
   "dogrulanacak": [
     "6284 s. K. m.8/3 ifadesi ikincil kaynaklarla uyumlu; büroda UltraLaw açık olmadığı için madde metni açılamadı.",
     "Acil hat numaralarının güncelliği (ALO 183, KADES) kontrol edilmeli."
-  ]
+  ],
+  "onay": "Kullanıcı onayı (haftalık paket), 22.11.2026"
 }

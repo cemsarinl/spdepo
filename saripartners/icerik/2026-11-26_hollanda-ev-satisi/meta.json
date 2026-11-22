@@ -1,7 +1,7 @@
 {
   "saat": "10:00",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "tarih": "2026-11-26",
   "tur": "hollanda",
   "format": "carousel",
@@ -19,5 +19,6 @@
     "Noterlik Kanunu m.89 atfı (tapu işlemlerine ilişkin vekâletnamelerin düzenleme şeklinde yapılması) kanun metninden teyit edilmeli; büroda UltraLaw açık olmadığı için madde açılamadı.",
     "Fotoğraf zorunluluğu TKGM genelgesine dayanıyor; güncel genelge sayısı teyit edilmeli.",
     "Felemenkçe özet bir Felemenkçe bilen tarafından okunmalı."
-  ]
+  ],
+  "onay": "Kullanıcı onayı (haftalık paket), 22.11.2026"
 }

@@ -42,7 +42,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 - [ ] Tazminat tutarları (100 / 250 / 400 / 600 avro) ve yedi günlük iade süresi ikincil kaynaklardan alındı; SHY-YOLCU metninden teyit edilmeli. Büroda UltraLaw açık olmadığı için yönetmelik metni açılamadı.
 - [ ] İptal en az 14 gün önce bildirilmişse tazminat doğmaz; gönderide bu ayrıntı yer almıyor.
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---
 
@@ -64,7 +64,7 @@ Başta Başöğretmenimiz Mustafa Kemal Atatürk olmak üzere tüm öğretmenler
 
 - [ ] Genel kontrol
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---
 
@@ -95,7 +95,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 - [ ] 6284 s. K. m.8/3 ifadesi ikincil kaynaklarla uyumlu; büroda UltraLaw açık olmadığı için madde metni açılamadı.
 - [ ] Acil hat numaralarının güncelliği (ALO 183, KADES) kontrol edilmeli.
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---
 
@@ -130,7 +130,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 - [ ] Fotoğraf zorunluluğu TKGM genelgesine dayanıyor; güncel genelge sayısı teyit edilmeli.
 - [ ] Felemenkçe özet bir Felemenkçe bilen tarafından okunmalı.
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---
 
@@ -156,7 +156,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 
 - [ ] Kanca metni videonun içeriğiyle örtüşüyor mu?
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---
 
@@ -187,7 +187,7 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 - [ ] Künye, olay, gerekçe (26–27. paragraflar), bağlayıcılık (22–23. paragraflar) ve hüküm UltraLaw deposunda karar metninden doğrulandı (22.11.2026).
 - [ ] Son uygulama notu büronun değerlendirmesidir; kararda geçmez.
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---
 
@@ -213,6 +213,6 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 - [ ] Tazminat tutarları (100 / 250 / 400 / 600 avro) ve yedi günlük iade süresi ikincil kaynaklardan alındı; SHY-YOLCU metninden teyit edilmeli. Büroda UltraLaw açık olmadığı için yönetmelik metni açılamadı.
 - [ ] İptal en az 14 gün önce bildirilmişse tazminat doğmaz; gönderide bu ayrıntı yer almıyor.
 
-**Durum:** ⏳ Onay bekliyor
+**Durum:** ✅ Onaylandı
 
 ---
