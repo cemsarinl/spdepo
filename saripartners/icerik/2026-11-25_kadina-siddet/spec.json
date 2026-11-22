@@ -1,11 +1,45 @@
 {
-  "format": "reel", "seri": "ozel", "tema": "koyu",
+  "format": "reel",
+  "seri": "ozel",
+  "tema": "koyu",
   "slaytlar": [
-    {"tip": "ozel", "gun": "25", "ay": "Kasım", "baslik": "Kadına Yönelik Şiddete Karşı *Uluslararası Mücadele Günü*"},
-    {"tip": "metin", "ust": "6284 sayılı Kanun", "baslik": "Koruma *bir haktır*", "govde": "Şiddete uğrayan ya da uğrama tehlikesi bulunan kişiler için **koruyucu ve önleyici tedbir** kararı verilebilir."},
-    {"tip": "kart", "ust": "Önemli", "alinti": "Tedbir kararı verilmesi için şiddetin uygulandığına dair delil veya belge aranmaz.", "kaynak": "6284 s. Kanun m.8/3"},
-    {"tip": "liste", "ust": "Nereye başvurulur?", "baslik": "Başvuru *yerleri*", "maddeler": ["Aile mahkemesi", "Cumhuriyet başsavcılığı", "Kolluk (polis, jandarma)", "Mülki amir (vali, kaymakam)"]},
-    {"tip": "liste", "ust": "Acil durumda", "baslik": "Hemen *ulaşın*", "maddeler": ["**112** Acil Çağrı", "**ALO 183** Sosyal Destek Hattı", "**KADES** mobil uygulaması"]},
-    {"tip": "kapanis", "baslik": "Sessiz kalmayın.\n*Yardım isteyin.*", "not": "Kaynak: 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun. Bu paylaşım genel bilgilendirme amaçlıdır."}
+    {
+      "tip": "ozel",
+      "gun": "25",
+      "ay": "Kasım",
+      "baslik": "Kadına Yönelik Şiddete Karşı *Uluslararası Mücadele Günü*"
+    },
+    {
+      "tip": "vurgu",
+      "soru": "6284 sayılı Kanun'a göre:",
+      "buyuk": "Koruma kararı için\n**DELİL**\naranmaz.",
+      "sonra": "Şiddet tehlikesi altında olmanız yeterlidir."
+    },
+    {
+      "tip": "liste",
+      "ust": "Nereye başvurulur?",
+      "baslik": "Başvuru *yerleri*",
+      "maddeler": [
+        "Aile mahkemesi",
+        "Cumhuriyet başsavcılığı",
+        "Polis veya jandarma",
+        "Valilik veya kaymakamlık"
+      ]
+    },
+    {
+      "tip": "liste",
+      "ust": "Acil durumda",
+      "baslik": "Hemen *ulaşın.*",
+      "maddeler": [
+        "**112** Acil Çağrı",
+        "**ALO 183** Sosyal Destek Hattı",
+        "**KADES** mobil uygulaması"
+      ]
+    },
+    {
+      "tip": "kapanis",
+      "baslik": "Sessiz kalmayın.\n*Yardım isteyin.*",
+      "not": "Kaynak: 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun m.8. Bu paylaşım genel bilgilendirme amaçlıdır."
+    }
   ]
 }

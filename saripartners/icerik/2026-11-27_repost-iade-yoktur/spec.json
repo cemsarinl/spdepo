@@ -1,0 +1,18 @@
+{
+  "format": "reel",
+  "seri": "repost",
+  "tema": "koyu",
+  "slaytlar": [
+    {
+      "tip": "vurgu",
+      "soru": "Mağazada bu yazıyı gördünüz mü?",
+      "buyuk": "\"İade\n**YOKTUR.**\"",
+      "sonra": "Bu yazı, haklarınızı ortadan kaldırmaz."
+    },
+    {
+      "tip": "kapanis",
+      "baslik": "Videonun tamamı\n*@buseninhakkin* hesabında.",
+      "not": "Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz."
+    }
+  ]
+}

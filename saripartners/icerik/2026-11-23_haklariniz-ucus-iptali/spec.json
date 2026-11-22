@@ -1,0 +1,61 @@
+{
+  "format": "post",
+  "seri": "haklariniz",
+  "slaytlar": [
+    {
+      "tip": "vurgu",
+      "soru": "Uçuşunuz fırtına yüzünden iptal mi oldu?",
+      "buyuk": "Bilet paranızı\n**GERİ ALIRSINIZ.**",
+      "sonra": "Hava koşullarında tazminat ödenmez, ancak diğer haklarınız sürer."
+    },
+    {
+      "tip": "cevap",
+      "soru": "Havayolu şunları sağlamak zorundadır:",
+      "cevaplar": [
+        {
+          "baslik": "Bilet iadesi veya yeni uçuş.",
+          "aciklama": "Seçim sizindir. İade, yedi gün içinde yapılır."
+        },
+        {
+          "baslik": "Yiyecek ve içecek.",
+          "aciklama": "Bekleme sürenize göre ücretsiz ikram verilir."
+        },
+        {
+          "baslik": "Gerekirse konaklama.",
+          "aciklama": "Otel ve havalimanı ile otel arası ulaşım karşılanır."
+        }
+      ]
+    },
+    {
+      "tip": "cevap",
+      "soru": "Tazminat ne zaman ödenir?",
+      "cevaplar": [
+        {
+          "baslik": "İptal havayolundan kaynaklanıyorsa.",
+          "aciklama": "İç hatta 100 avro; dış hatta mesafeye göre 250, 400 veya 600 avro ödenir."
+        },
+        {
+          "baslik": "Olağanüstü hâlde ödenmez.",
+          "aciklama": "Fırtına gibi hava koşulları olağanüstü hâl sayılır; bunu havayolu ispatlamalıdır."
+        }
+      ]
+    },
+    {
+      "tip": "adimlar",
+      "soru": "Ne yapmalı?",
+      "maddeler": [
+        {
+          "baslik": "İptal bildirimini saklayın."
+        },
+        {
+          "baslik": "Havayoluna yazılı başvurun."
+        },
+        {
+          "baslik": "Sonuç alamazsanız tüketici hakem heyetine başvurun.",
+          "aciklama": "Şikâyetinizi Sivil Havacılık Genel Müdürlüğüne de iletebilirsiniz."
+        }
+      ],
+      "kaynak": "Kaynak: Hava Yoluyla Seyahat Eden Yolcuların Haklarına Dair Yönetmelik (SHY-YOLCU)."
+    }
+  ]
+}

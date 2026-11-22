@@ -1,56 +1,147 @@
-# Onay paketi: 16 Kasım Pazartesi – 22 Kasım Pazar
+# Onay paketi: 23 Kasım Pazartesi – 29 Kasım Pazar
 
 Onaylamak için sohbete gönderilerin tarihlerini yazmanız yeterli, örneğin **"16, 17 ve 18 Kasım'ı onaylıyorum"**. Düzeltme isterseniz tarihi ve değişikliği yazın. Onaylanan gönderiler planlanan gün sabah 09:50'de yayınlanır.
 
 | # | Tarih | Seri | Format | Önizleme |
 |---|---|---|---|---|
-| 1 | 16 Kasım Pazartesi 10:00 | Haftanın Gündemi · Haklarınız | Kaydırmalı | [önizleme](onay/01_2026-11-16_haklariniz-indirim-iade.jpg) |
-| 2 | 17 Kasım Salı 10:00 | Bu Senin Hakkın | Reels | [önizleme](onay/02_2026-11-17_repost-akran-zorbaligi.jpg) |
-| 3 | 18 Kasım Çarşamba 10:00 | Hollanda'daki Türkler | Kaydırmalı | [önizleme](onay/03_2026-11-18_hollanda-bosanma-tescil.jpg) |
-| 4 | 19 Kasım Perşembe 10:00 | İçtihat Notu | Kaydırmalı | [önizleme](onay/04_2026-11-19_ictihat-kismi-islah.jpg) |
-| 5 | 20 Kasım Cuma 10:00 | Özel Günler | Reels | [önizleme](onay/05_2026-11-20_cocuk-haklari.jpg) |
+| 1 | 23 Kasım Pazartesi 10:00 | Haftanın Gündemi · Haklarınız | Kaydırmalı | [önizleme](onay/01_2026-11-23_haklariniz-ucus-iptali.jpg) |
+| 2 | 24 Kasım Salı 09:30 | Özel Günler | Tek görsel | [önizleme](onay/02_2026-11-24_ogretmenler-gunu.jpg) |
+| 3 | 25 Kasım Çarşamba 10:00 | Özel Günler | Reels | [önizleme](onay/03_2026-11-25_kadina-siddet.jpg) |
+| 4 | 26 Kasım Perşembe 10:00 | Hollanda'daki Türkler | Kaydırmalı | [önizleme](onay/04_2026-11-26_hollanda-ev-satisi.jpg) |
+| 5 | 27 Kasım Cuma 10:00 | Bu Senin Hakkın | Reels | [önizleme](onay/05_2026-11-27_repost-iade-yoktur.jpg) |
+| 6 | 28 Kasım Cumartesi 10:00 | İçtihat Notu | Kaydırmalı | [önizleme](onay/06_2026-11-28_ictihat-ibk-ilk-uygulama.jpg) |
+| 7 | 29 Kasım Pazar 10:00 | Haftanın Gündemi · Haklarınız | Reels | [önizleme](onay/07_2026-11-29_reels-ucus-iptali.jpg) |
 
 
-## 1. 16 Kasım Pazartesi · Haftanın Gündemi · Haklarınız · Kaydırmalı
+## 1. 23 Kasım Pazartesi · Haftanın Gündemi · Haklarınız · Kaydırmalı
 
-![2026-11-16_haklariniz-indirim-iade](onay/01_2026-11-16_haklariniz-indirim-iade.jpg)
+![2026-11-23_haklariniz-ucus-iptali](onay/01_2026-11-23_haklariniz-ucus-iptali.jpg)
 
 **Açıklama metni:**
 
 ```
-İnternetten aldığınız ürünü, indirimde alsanız bile 14 gün içinde gerekçe göstermeden iade edebilirsiniz. 🛍️
+Uçuşunuz fırtına yüzünden iptal edildiyse bilet paranızı geri alabilirsiniz. ✈️
 
-💸 Paranız 14 gün içinde iade edilmelidir.
-🏷️ İndirimden önceki fiyat, son 30 günün en düşük fiyatı olmalıdır.
-🔧 Ürün bozuksa onarım, değişim, bedelde indirim veya iade isteyebilirsiniz.
+Havayolu size şunları sağlamak zorundadır:
+1️⃣ Bilet iadesi veya yeni uçuş. Seçim sizindir.
+2️⃣ Bekleme sürenize göre yiyecek ve içecek.
+3️⃣ Gerekirse konaklama ve ulaşım.
 
-Alışverişe çıkmadan önce kaydedin.
+Fırtına gibi olağanüstü hâllerde ayrıca tazminat ödenmez. İptal havayolundan kaynaklanıyorsa iç hatta 100 avro, dış hatta mesafeye göre 250, 400 veya 600 avro tazminat ödenir.
 
-Kaynak: 6502 sayılı TKHK m.11 ve m.48, Mesafeli Sözleşmeler Yönetmeliği, Fiyat Etiketi Yönetmeliği.
+Yakında uçacak birine gönderin.
+
+Kaynak: Hava Yoluyla Seyahat Eden Yolcuların Haklarına Dair Yönetmelik (SHY-YOLCU).
 Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
 
-#tüketicihakları #caymahakkı #indirim #iade
+#yolcuhakları #uçuşiptali #tüketicihakları #haklarınız
 ```
-
-**Not:** 15.11.2026 revizyonu: kısa ve vurucu dil, 3–4 slayt.
 
 **Kontrol edilecekler:**
 
-- [ ] 30 gün kuralı raf ve fiyat etiketleri için geçerli; reklamlarda Bakanlık kılavuzuyla farklı (10 günlük) bir pencere uygulanıyor olabilir. Gönderi etiket fiyatı üzerinden anlatıyor.
-- [ ] Cayma hakkı istisnaları (Mesafeli Sözleşmeler Yön. m.15) açıklamada genel olarak sayıldı.
+- [ ] Tazminat tutarları (100 / 250 / 400 / 600 avro) ve yedi günlük iade süresi ikincil kaynaklardan alındı; SHY-YOLCU metninden teyit edilmeli. Büroda UltraLaw açık olmadığı için yönetmelik metni açılamadı.
+- [ ] İptal en az 14 gün önce bildirilmişse tazminat doğmaz; gönderide bu ayrıntı yer almıyor.
 
-**Durum:** ✅ Onaylandı
+**Durum:** ⏳ Onay bekliyor
 
 ---
 
-## 2. 17 Kasım Salı · Bu Senin Hakkın · Reels
+## 2. 24 Kasım Salı · Özel Günler · Tek görsel
 
-![2026-11-17_repost-akran-zorbaligi](onay/02_2026-11-17_repost-akran-zorbaligi.jpg)
+![2026-11-24_ogretmenler-gunu](onay/02_2026-11-24_ogretmenler-gunu.jpg)
 
 **Açıklama metni:**
 
 ```
-Çocuğunuz okulda akran zorbalığına maruz kalıyorsa sessiz kalmak zorunda değilsiniz.
+Hakkı, adaleti ve sorumluluğu bize ilk kez sınıfta anlattılar. 📚
+
+Başta Başöğretmenimiz Mustafa Kemal Atatürk olmak üzere tüm öğretmenlerimizin 24 Kasım Öğretmenler Günü'nü saygıyla kutlarız.
+
+#24KasımÖğretmenlerGünü #ÖğretmenlerGünü
+```
+
+**Kontrol edilecekler:**
+
+- [ ] Genel kontrol
+
+**Durum:** ⏳ Onay bekliyor
+
+---
+
+## 3. 25 Kasım Çarşamba · Özel Günler · Reels
+
+![2026-11-25_kadina-siddet](onay/03_2026-11-25_kadina-siddet.jpg)
+
+**Açıklama metni:**
+
+```
+25 Kasım, Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü. 🟣
+
+6284 sayılı Kanun'a göre, koruyucu tedbir kararı verilmesi için şiddetin uygulandığına dair delil veya belge aranmaz.
+
+📍 Başvuru: aile mahkemesi, Cumhuriyet başsavcılığı, polis veya jandarma, valilik veya kaymakamlık.
+📞 Acil durumda: 112, ALO 183 ve KADES uygulaması.
+
+Bu bilgiye ihtiyacı olabilecek biriyle paylaşın.
+
+Kaynak: 6284 sayılı Kanun m.8.
+Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
+
+#25Kasım #KadınaŞiddeteHayır #6284 #KADES
+```
+
+**Kontrol edilecekler:**
+
+- [ ] 6284 s. K. m.8/3 ifadesi ikincil kaynaklarla uyumlu; büroda UltraLaw açık olmadığı için madde metni açılamadı.
+- [ ] Acil hat numaralarının güncelliği (ALO 183, KADES) kontrol edilmeli.
+
+**Durum:** ⏳ Onay bekliyor
+
+---
+
+## 4. 26 Kasım Perşembe · Hollanda'daki Türkler · Kaydırmalı
+
+![2026-11-26_hollanda-ev-satisi](onay/04_2026-11-26_hollanda-ev-satisi.jpg)
+
+**Açıklama metni:**
+
+```
+Türkiye'deki evinizi satmak için Türkiye'ye gelmeniz gerekmez. 🇳🇱🇹🇷
+
+Satış, vekâletnameyle yapılabilir. Vekâletname için iki yol vardır:
+1️⃣ Türk konsolosluğu: Burada düzenlenen vekâletname, Türkiye'deki noter vekâletnamesiyle aynı değerdedir.
+2️⃣ Hollanda noteri: Vekâletnameye apostil şerhi ve yeminli Türkçe tercüme gerekir.
+
+Vekâletname fotoğraflı olmalı; satış ve bedeli alma yetkisi açıkça yazılmalıdır.
+
+Türkiye'de evi olan bir yakınınıza gönderin.
+
+🇳🇱 Uw woning in Turkije verkopen kan zonder zelf naar Turkije te reizen. U geeft een volmacht af bij het Turkse consulaat, of bij een Nederlandse notaris met apostille en beëdigde vertaling. De volmacht moet een pasfoto bevatten en de verkoopbevoegdheid uitdrukkelijk vermelden.
+
+Kaynak: 1512 sayılı Noterlik Kanunu m.89, Tapu ve Kadastro Genel Müdürlüğü genelgeleri.
+Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz. Hollanda tarafındaki işlemler için yerel bir uzmana danışın.
+
+#HollandadakiTürkler #tapu #vekâletname #konsolosluk
+```
+
+**Kontrol edilecekler:**
+
+- [ ] Noterlik Kanunu m.89 atfı (tapu işlemlerine ilişkin vekâletnamelerin düzenleme şeklinde yapılması) kanun metninden teyit edilmeli; büroda UltraLaw açık olmadığı için madde açılamadı.
+- [ ] Fotoğraf zorunluluğu TKGM genelgesine dayanıyor; güncel genelge sayısı teyit edilmeli.
+- [ ] Felemenkçe özet bir Felemenkçe bilen tarafından okunmalı.
+
+**Durum:** ⏳ Onay bekliyor
+
+---
+
+## 5. 27 Kasım Cuma · Bu Senin Hakkın · Reels
+
+![2026-11-27_repost-iade-yoktur](onay/05_2026-11-27_repost-iade-yoktur.jpg)
+
+**Açıklama metni:**
+
+```
+“İade yoktur” yazısını gördünüz diye haklarınızdan vazgeçmeyin! 👀
 
 🎥 Videonun tamamı @buseninhakkin hesabında.
 
@@ -59,107 +150,69 @@ Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye nit
 #BuSeninHakkın #SarıAvukatlıkOrtaklığı
 ```
 
-**Kaynak gönderi:** https://www.instagram.com/reel/DfhIYbfIqPG/
+**Kaynak gönderi:** https://www.instagram.com/reel/DfzC2iEIhPr/
 
 **Kontrol edilecekler:**
 
 - [ ] Kanca metni videonun içeriğiyle örtüşüyor mu?
 
-**Durum:** ✅ Onaylandı
+**Durum:** ⏳ Onay bekliyor
 
 ---
 
-## 3. 18 Kasım Çarşamba · Hollanda'daki Türkler · Kaydırmalı
+## 6. 28 Kasım Cumartesi · İçtihat Notu · Kaydırmalı
 
-![2026-11-18_hollanda-bosanma-tescil](onay/03_2026-11-18_hollanda-bosanma-tescil.jpg)
+![2026-11-28_ictihat-ibk-ilk-uygulama](onay/06_2026-11-28_ictihat-ibk-ilk-uygulama.jpg)
 
 **Açıklama metni:**
 
 ```
-Hollanda'da boşandınız, ancak Türkiye'de hâlâ evli görünüyor olabilirsiniz. 🇳🇱🇹🇷
+İçtihat Notu | İçtihadı birleştirme kararından sonraki ilk Hukuk Genel Kurulu kararı.
 
-Boşanma kararı, Türkiye'deki nüfus kaydına kendiliğinden işlenmez. Bunun için iki yol vardır:
-1️⃣ Konsolosluğa başvuru: Dava açmadan, eşlerin birlikte başvurusuyla tescil yapılır. Eski eşiniz yabancıysa tek başınıza başvurabilirsiniz.
-2️⃣ Tanıma davası: Birlikte başvuru mümkün değilse, Türkiye'de aile mahkemesinde dava açılır.
+Yargıtay Hukuk Genel Kurulu, E. 2020/672, K. 2026/448, T. 01.07.2026.
 
-Bu bilgiye ihtiyacı olabilecek biriyle paylaşın.
+Rücuen tazminat davasında davacı, kısmi ıslah dilekçesiyle dava dilekçesinde yer almayan kamulaştırma bedelini ve temyiz masraflarını da talep etmiştir. Genel Kurul, bu istemin mevcut talebin artırılması değil, daha önce hiç talep edilmeyen yeni bir talebin eklenmesi olduğunu; dava konusu edilmeyen bir şeyin kısmen ıslah yoluyla davaya dâhil edilemeyeceğini belirtmiştir.
 
-🇳🇱 Een in Nederland uitgesproken echtscheiding wordt niet automatisch in het Turkse bevolkingsregister verwerkt. Registratie kan zonder rechtszaak via het Turkse consulaat. Lukt dat niet, dan volgt een erkenningsprocedure bij de Turkse familierechtbank.
+Kararda ayrıca, içtihadı birleştirme kararlarının derdest dava dosyaları bakımından da mahkemeleri bağladığı vurgulanmış; E. 2021/8, K. 2026/1 sayılı kararın sonucu bekletici mesele yapılmıştır. Direnme kararı, değişik gerekçeyle ve oy birliğiyle onanmıştır.
 
-Kaynak: 5490 sayılı Nüfus Hizmetleri Kanunu m.27/A ve 5718 sayılı MÖHUK m.58.
-Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz. Hollanda tarafındaki işlemler için yerel bir uzmana danışın.
-
-#HollandadakiTürkler #boşanma #konsolosluk #nüfus
-```
-
-**Not:** 15.11.2026 revizyonu: kısa ve vurucu dil, 3–4 slayt.
-
-**Kontrol edilecekler:**
-
-- [ ] m.27/A başvurusunda konsoloslukların istediği belge listesi (apostil ve tercüme şekli) Lahey Büyükelçiliği uygulamasıyla teyit edilmeli.
-- [ ] Felemenkçe özet bir Felemenkçe bilen tarafından okunmalı.
-
-**Durum:** ✅ Onaylandı
-
----
-
-## 4. 19 Kasım Perşembe · İçtihat Notu · Kaydırmalı
-
-![2026-11-19_ictihat-kismi-islah](onay/04_2026-11-19_ictihat-kismi-islah.jpg)
-
-**Açıklama metni:**
-
-```
-İçtihat Notu | Kısmi ıslahla, dava dilekçesinde yer almayan yeni bir talep eklenemez.
-
-Yargıtay İçtihatları Birleştirme Büyük Genel Kurulu kararıdır.
-
-Künye: E. 2021/8, K. 2026/1, T. 08.05.2026 (RG 30.06.2026, S. 33296).
-
-Yüksek Mahkeme, daireler arasındaki görüş ayrılığını oy çokluğuyla gidermiştir. Gerekçede, kısmi ıslahın mevcut talep üzerinde düzeltme imkânı tanıdığı; dilekçede hiç bulunmayan bir istemin bu yolla eklenmesinin ıslahı fiilen ikinci bir dava açma aracına dönüştüreceği vurgulanmaktadır.
-
-Uygulama açısından:
-▪️ Talepler dava dilekçesinde eksiksiz belirtilmelidir.
-▪️ Dilekçede yer almayan bağımsız talepler için ayrı dava ve zamanaşımı denetimi gerekir.
-▪️ 7589 s. Kanun ile belirsiz alacak davasının kaldırılmasıyla birlikte talebin baştan doğru kurgulanması daha da önem kazanmıştır.
+Uygulama açısından, görülmekte olan davalardaki ıslah dilekçelerinin bu ölçüte göre gözden geçirilmesi yerinde olacaktır.
 
 Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
 
-#Yargıtay #içtihadıbirleştirme #ıslah #HMK #medeniusulhukuku
+#Yargıtay #HukukGenelKurulu #ıslah #HMK #medeniusulhukuku
 ```
 
 **Kontrol edilecekler:**
 
-- [ ] Gerekçe özeti ikincil kaynaklara dayanıyor; karar metniyle karşılaştırılmalı.
-- [ ] Bağlayıcılık için 2797 s. Kanun m.45 atfının fıkrası teyit edilmeli.
+- [ ] Künye, olay, gerekçe (26–27. paragraflar), bağlayıcılık (22–23. paragraflar) ve hüküm UltraLaw deposunda karar metninden doğrulandı (22.11.2026).
+- [ ] Son uygulama notu büronun değerlendirmesidir; kararda geçmez.
 
-**Durum:** ✅ Onaylandı
+**Durum:** ⏳ Onay bekliyor
 
 ---
 
-## 5. 20 Kasım Cuma · Özel Günler · Reels
+## 7. 29 Kasım Pazar · Haftanın Gündemi · Haklarınız · Reels
 
-![2026-11-20_cocuk-haklari](onay/05_2026-11-20_cocuk-haklari.jpg)
+![2026-11-29_reels-ucus-iptali](onay/07_2026-11-29_reels-ucus-iptali.jpg)
 
 **Açıklama metni:**
 
 ```
-20 Kasım, Dünya Çocuk Hakları Günü. 🧒
+Uçuşunuz iptal mi oldu? Bilet paranızı geri alabilirsiniz. ✈️
 
-18 yaşın altındaki herkes çocuktur ve dört temel ilkeyle korunur: ayrımcılık yasağı, çocuğun üstün yararı, yaşama ve gelişme hakkı ile görüşlerine saygı.
+Havayolu; iade veya yeni uçuş, ikram ve gerekirse konaklama sağlamak zorundadır. Ayrıntılar profilimizdeki gönderide.
 
-Her çocuk, hakların öznesidir.
+Kaynak: SHY-YOLCU.
+Bu paylaşım genel bilgilendirme amaçlıdır; hukuki görüş veya tavsiye niteliği taşımaz.
 
-Kaynak: BM Çocuk Haklarına Dair Sözleşme.
-#DünyaÇocukHaklarıGünü #20Kasım #çocukhakları
+#yolcuhakları #uçuşiptali #haklarınız
 ```
-
-**Not:** 15.11.2026 revizyonu: kısa ve vurucu dil, 3–4 slayt.
 
 **Kontrol edilecekler:**
 
-- [ ] Türkiye'de yürürlük yılı (1995) Resmî Gazete kaydından teyit edilmeli.
+- [ ] Tazminat tutarları (100 / 250 / 400 / 600 avro) ve yedi günlük iade süresi ikincil kaynaklardan alındı; SHY-YOLCU metninden teyit edilmeli. Büroda UltraLaw açık olmadığı için yönetmelik metni açılamadı.
+- [ ] İptal en az 14 gün önce bildirilmişse tazminat doğmaz; gönderide bu ayrıntı yer almıyor.
 
-**Durum:** ✅ Onaylandı
+**Durum:** ⏳ Onay bekliyor
 
 ---

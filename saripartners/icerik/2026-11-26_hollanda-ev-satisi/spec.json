@@ -1,0 +1,43 @@
+{
+  "format": "post",
+  "seri": "hollanda",
+  "slaytlar": [
+    {
+      "tip": "vurgu",
+      "soru": "Türkiye'deki evinizi satmak mı istiyorsunuz?",
+      "buyuk": "Türkiye'ye\n**GELMENİZ**\ngerekmez.",
+      "sonra": "Satış, vekâletnameyle yapılabilir."
+    },
+    {
+      "tip": "cevap",
+      "soru": "Vekâletname için iki yol var:",
+      "cevaplar": [
+        {
+          "baslik": "Türk konsolosluğu.",
+          "aciklama": "Konsoloslukta düzenlenen vekâletname, Türkiye'deki noter vekâletnamesiyle aynı değerdedir; ayrıca apostil gerekmez."
+        },
+        {
+          "baslik": "Hollanda noteri.",
+          "aciklama": "Noterde düzenlenen vekâletnameye apostil şerhi ve yeminli Türkçe tercüme gerekir."
+        }
+      ]
+    },
+    {
+      "tip": "adimlar",
+      "soru": "Dikkat edin:",
+      "maddeler": [
+        {
+          "baslik": "Vekâletname fotoğraflı olmalıdır."
+        },
+        {
+          "baslik": "Satış ve bedeli alma yetkisi açıkça yazılmalıdır."
+        },
+        {
+          "baslik": "Güvendiğiniz birini vekil seçin.",
+          "aciklama": "Vekil, sizin adınıza tapuda imza atar ve satış bedelini alabilir."
+        }
+      ],
+      "kaynak": "Kaynak: 1512 sayılı Noterlik Kanunu m.89, Tapu ve Kadastro Genel Müdürlüğü genelgeleri. Hollanda tarafındaki işlemler için yerel bir uzmana danışın."
+    }
+  ]
+}

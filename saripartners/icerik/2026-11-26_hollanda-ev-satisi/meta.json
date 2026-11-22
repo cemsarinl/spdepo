@@ -1,0 +1,23 @@
+{
+  "saat": "10:00",
+  "durum": "taslak",
+  "hukukcu_onayi": false,
+  "tarih": "2026-11-26",
+  "tur": "hollanda",
+  "format": "carousel",
+  "alt_text": [
+    "Krem zeminde 'Türkiye'deki evinizi satmak mı istiyorsunuz?' ve büyük harflerle 'Türkiye'ye GELMENİZ gerekmez.'",
+    "Vekâletname için iki yol: Türk konsolosluğu ve Hollanda noteri.",
+    "Dikkat edilecekler: fotoğraf, açık yetki, güvenilir vekil."
+  ],
+  "kaynaklar": [
+    "https://www.harbiyehukuk.com/yurt-disindan-vekaletname-nasil-verilir/",
+    "https://aekhukuk.com/gurbetciler-icin-turkiyede-tasinmaz/",
+    "https://yigitavukatlik.com/vekaletname-ile-tasinmaz-satisi-2026/"
+  ],
+  "dogrulanacak": [
+    "Noterlik Kanunu m.89 atfı (tapu işlemlerine ilişkin vekâletnamelerin düzenleme şeklinde yapılması) kanun metninden teyit edilmeli; büroda UltraLaw açık olmadığı için madde açılamadı.",
+    "Fotoğraf zorunluluğu TKGM genelgesine dayanıyor; güncel genelge sayısı teyit edilmeli.",
+    "Felemenkçe özet bir Felemenkçe bilen tarafından okunmalı."
+  ]
+}

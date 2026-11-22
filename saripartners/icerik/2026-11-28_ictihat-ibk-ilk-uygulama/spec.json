@@ -1,0 +1,46 @@
+{
+  "format": "post",
+  "seri": "ictihat",
+  "tema": "koyu",
+  "slaytlar": [
+    {
+      "tip": "kapak",
+      "baslik": "İBK sonrası ilk HGK kararı:\n*ıslahla eklenen talep reddedildi.*",
+      "alt": "Yargıtay Hukuk Genel Kurulu, E. 2020/672, K. 2026/448, T. 01.07.2026.",
+      "ipucu": "Kaydırın"
+    },
+    {
+      "tip": "metin",
+      "ust": "Olay",
+      "baslik": "Rücu davasında *yeni kalemler*",
+      "govde": "Davacı, kamulaştırmasız el atma nedeniyle ödediği tazminatın rücuen tahsilini istemiştir.\n\n**Kısmi ıslah** dilekçesiyle, dava dilekçesinde yer almayan **kamulaştırma bedeli ve temyiz masraflarını** da talep etmiştir."
+    },
+    {
+      "tip": "metin",
+      "ust": "Değerlendirme",
+      "baslik": "Artırma değil, *yeni talep*",
+      "govde": "Genel Kurul'a göre bu istem, mevcut talebin artırılması ya da genişletilmesi değildir; **daha önce hiç talep edilmeyen yeni bir talebin** eklenmesidir.\n\nDava konusu edilmeyen bir şeyin kısmen ıslah yoluyla davaya dâhil edilmesine olanak yoktur."
+    },
+    {
+      "tip": "metin",
+      "ust": "İBK'nın etkisi",
+      "baslik": "Derdest davaları da *bağlar.*",
+      "govde": "İçtihadı birleştirme kararları, **derdest dava dosyaları bakımından da** mahkemeleri kanun gibi bağlar.\n\nGenel Kurul bu nedenle E. 2021/8, K. 2026/1 sayılı kararın sonucunu **bekletici mesele** yapmıştır."
+    },
+    {
+      "tip": "liste",
+      "ust": "Sonuç ve uygulama",
+      "baslik": "Vekiller için *notlar*",
+      "maddeler": [
+        "Direnme kararı, değişik gerekçeyle ve **oy birliğiyle** onanmıştır.",
+        "Islahla ileri sürülen yeni kalemler yönünden dava **reddedilmiştir**.",
+        "Görülmekte olan davalardaki ıslah dilekçeleri bu ölçüte göre gözden geçirilmelidir."
+      ]
+    },
+    {
+      "tip": "kapanis",
+      "baslik": "Künye",
+      "govde": "Yargıtay HGK, E. 2020/672, K. 2026/448, T. 01.07.2026. Dayanak: Yargıtay İBBGK, E. 2021/8, K. 2026/1, T. 08.05.2026 (RG 30.06.2026, S. 33296)."
+    }
+  ]
+}

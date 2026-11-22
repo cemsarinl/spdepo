@@ -1,0 +1,24 @@
+{
+  "saat": "10:00",
+  "durum": "taslak",
+  "hukukcu_onayi": false,
+  "tarih": "2026-11-28",
+  "tur": "ictihat",
+  "format": "carousel",
+  "alt_text": [
+    "Antrasit zeminde 'İBK sonrası ilk HGK kararı: ıslahla eklenen talep reddedildi.' başlığı ve künye.",
+    "Olay: rücu davasında ıslahla eklenen yeni kalemler.",
+    "Değerlendirme: artırma değil, yeni talep.",
+    "İBK'nın derdest davaları da bağlaması.",
+    "Sonuç ve uygulama notları.",
+    "Künye."
+  ],
+  "kaynaklar": [
+    "https://mcp.ultralaw.ai/karar/yargitay:1233046600?i=dNG1FtsHE5dDuvhjfsOO9b",
+    "https://emsal.uyap.gov.tr/karar/1233046600"
+  ],
+  "dogrulanacak": [
+    "Künye, olay, gerekçe (26–27. paragraflar), bağlayıcılık (22–23. paragraflar) ve hüküm UltraLaw deposunda karar metninden doğrulandı (22.11.2026).",
+    "Son uygulama notu büronun değerlendirmesidir; kararda geçmez."
+  ]
+}
