@@ -1,0 +1,65 @@
+{
+  "format": "post",
+  "seri": "acil",
+  "slaytlar": [
+    {
+      "tip": "vurgu",
+      "soru": "Sıfır aracınız ayıplı mı çıktı?",
+      "buyuk": "Yenisiyle\n**DEĞİŞİM**\nisteyebilirsiniz.",
+      "sonra": "Yargıtay, tavan boyası dökülen araç için verilen değişim kararını onadı."
+    },
+    {
+      "tip": "cevap",
+      "soru": "Yargıtay ne dedi?",
+      "cevaplar": [
+        {
+          "baslik": "Kusur üretimden kaynaklıdır.",
+          "aciklama": "Boya hatası zamanla ortaya çıktığı için gizli ayıp sayıldı."
+        },
+        {
+          "baslik": "Seçim tüketicinindir.",
+          "aciklama": "Onarım yerine değişim istenmesi hakkaniyete uygun bulundu."
+        },
+        {
+          "baslik": "Belirleyici olan bilirkişi raporudur.",
+          "aciklama": "Araçta kaza kaydı ve kullanıcı hatası bulunmadı."
+        }
+      ]
+    },
+    {
+      "tip": "cevap",
+      "soru": "Ayıplı malda dört seçimlik hakkınız vardır:",
+      "cevaplar": [
+        {
+          "baslik": "Ayıpsız misliyle değişim."
+        },
+        {
+          "baslik": "Ücretsiz onarım."
+        },
+        {
+          "baslik": "Bedelden indirim."
+        },
+        {
+          "baslik": "Sözleşmeden dönme ve bedel iadesi."
+        }
+      ]
+    },
+    {
+      "tip": "adimlar",
+      "soru": "Ne yapmalı?",
+      "maddeler": [
+        {
+          "baslik": "Ayıbı fotoğraflayın, servis kayıtlarını saklayın."
+        },
+        {
+          "baslik": "Satıcıya yazılı bildirimde bulunun."
+        },
+        {
+          "baslik": "Sonuç alamazsanız yargı yolu açıktır.",
+          "aciklama": "Tüketici mahkemesinden önce arabulucuya başvurmak zorunludur."
+        }
+      ],
+      "kaynak": "Kaynak: Yargıtay 3. HD, E. 2025/6111, K. 2026/3935, 18.06.2026; 6502 sayılı Kanun m. 11."
+    }
+  ]
+}
