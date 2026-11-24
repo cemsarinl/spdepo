@@ -32,6 +32,17 @@ Video **indirilmez**. Yeni gönderi, "ekran görüntüsü" tarzında Sarı tasar
 3. `python3 repost.py hazirla <medya_id> <tarih> <kisa-ad> "<kanca>"` komutuyla kartı ve 8 saniyelik Reels'i hazırla. Tarih, haftanın boş bir günü olmalı.
 4. "sığmıyor" uyarısı çıkarsa kanca metnini kısaltıp kartı yeniden üret. Kartı gözle kontrol et.
 
+## A5. "Buseninhakkın metin önerileri" (her Pazar, A ile birlikte)
+
+Amaç: @buseninhakkin yorumlarından insanların sorularını çıkarmak, post konularını buna göre seçmek ve kullanıcının video tarzında yeni metinler yazmak.
+
+1. @buseninhakkin gönderilerini ve yorumlarını çek. Yorum metinleri okunabiliyorsa soruları kümele (konu, tekrar sayısı, örnek soru; kişi adı ve kullanıcı adı yazma). Okunamıyorsa yorum ve beğeni sayılarını kullan ve bunu belirt.
+2. `buseninhakkin/analiz.md` dosyasını güncelle: en çok soru gelen konular ve konu havuzu.
+3. Haftanın @saripartners "Haklarınız" konusunu seçerken konu havuzunu gündemle birlikte değerlendir.
+4. Üç video metni yaz ve `buseninhakkin/metinler/YYYY-AA-GG.md` dosyasına kaydet. Her metin: kanca (ilk 3 saniye), 30–45 saniyelik konuşma metni, ekran yazıları, açıklama metni, dayanak (kanun maddesi veya karar künyesi). Tarz: "sen" hitabı, "Bu bilgi ... için!" türü açılış, kısa cümleler, gündelik dil. Hukuki bilgiyi UltraLaw ile doğrula.
+5. Reklam yasağına uy: sonuç vaadi, "bize ulaşın" çağrısı ve somut olaya özel tavsiye yok.
+6. Kullanıcıya **"Buseninhakkın metin önerileri"** başlığıyla ayrı bir mesajda gönder.
+
 ## A4. Aylık rakip analizi (her ayın ilk Pazarı)
 
 1. `python3 rakip_analizi.py` çalıştır; `rakip/son_analiz.md` güncellenir.
