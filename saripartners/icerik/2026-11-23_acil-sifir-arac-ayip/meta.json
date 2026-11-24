@@ -1,10 +1,10 @@
 {
-  "tarih": "2026-11-23",
+  "tarih": "2026-11-24",
   "saat": "acil",
   "tur": "acil",
   "format": "carousel",
-  "durum": "taslak",
-  "hukukcu_onayi": false,
+  "durum": "onaylandi",
+  "hukukcu_onayi": true,
   "alt_text": [
     "Krem zeminde 'Sıfır aracınız ayıplı mı çıktı?' ve büyük harflerle 'Yenisiyle DEĞİŞİM isteyebilirsiniz.'",
     "Yargıtay kararının üç ana noktası: üretim kaynaklı gizli ayıp, tüketicinin seçimi, bilirkişi raporu.",
@@ -20,5 +20,6 @@
     "6502 sayılı Kanun m. 11 (dört seçimlik hak) ve m. 73/A (dava şartı arabuluculuk) metinleri UltraLaw'dan açılamadı; büroda UltraLaw açık bilgisayar yoktu. Bilinen metne göre yazıldı.",
     "Aynı Daire'nin, ayıp sürüş güvenliğini etkilemediğinde değişim yerine değer kaybına hükmedilen kararları da basında anılıyor; gönderide 'her ayıpta değişim kararı çıkmaz' uyarısı bu nedenle yer alıyor.",
     "Haber metinleri bu ortamdan açılamadı; haberdeki kararın 2025/6111 E. olduğu, mahkeme (Ankara 9. Tüketici), ayıp (tavan boyası, 5 nokta) ve servis sayısı (9) eşleşmesinden çıkarıldı."
-  ]
+  ],
+  "onay": "Kullanıcı onayı, 24.11.2026"
 }
