@@ -1,6 +1,6 @@
 {
   "saat": "10:00",
-  "durum": "onaylandi",
+  "durum": "yayinlandi",
   "hukukcu_onayi": true,
   "tarih": "2026-11-26",
   "tur": "hollanda",
@@ -20,5 +20,8 @@
     "Fotoğraf zorunluluğu TKGM genelgesine dayanıyor; güncel genelge sayısı teyit edilmeli.",
     "Felemenkçe özet bir Felemenkçe bilen tarafından okunmalı."
   ],
-  "onay": "Kullanıcı onayı (haftalık paket), 22.11.2026"
+  "onay": "Kullanıcı onayı (haftalık paket), 22.11.2026",
+  "medya_id": "17893297521468860",
+  "permalink": "https://www.instagram.com/p/DgMgN7LF470/",
+  "yayin_zamani": "2026-11-26T06:51:52+0000"
 }
