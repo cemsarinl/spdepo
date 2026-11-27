@@ -3,7 +3,7 @@
   "saat": "10:00",
   "tur": "repost",
   "format": "reel",
-  "durum": "onaylandi",
+  "durum": "yayinlandi",
   "hukukcu_onayi": true,
   "kanca": "\"İade yoktur\" mu?\\n*Vazgeçmeyin.*",
   "kaynak_medya_id": "18100788884439058",
@@ -15,5 +15,8 @@
   "dogrulanacak": [
     "Kanca metni videonun içeriğiyle örtüşüyor mu?"
   ],
-  "onay": "Kullanıcı onayı (haftalık paket), 22.11.2026"
+  "onay": "Kullanıcı onayı (haftalık paket), 22.11.2026",
+  "medya_id": "18223904872354050",
+  "permalink": "https://www.instagram.com/reel/DgPE-C1JzkN/",
+  "yayin_zamani": "2026-11-27T06:51:48+0000"
 }
